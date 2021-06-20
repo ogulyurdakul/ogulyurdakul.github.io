@@ -7,3 +7,21 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+## Electrical and Electronics Engineering
+### 1st Year
+#### Fall
+
+#### Spring
+
+### 3rd Year
+#### Fall
+
+#### Spring
+
+### 4th Year
+#### Fall
+
+#### Spring
+
+## Mathematics
