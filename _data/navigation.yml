@@ -1,13 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Lecture Notes"
-    url: /lecture-notes/   
     
   - title: "CV"
     url: /cv/
+
+  - title: "Lecture Notes"
+    url: /lecture-notes/ 
+
+  - title: "Publications"
+    url: /publications/  
     
   - title: "Guide"
     url: /markdown/ 
