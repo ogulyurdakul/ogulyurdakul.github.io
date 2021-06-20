@@ -12,4 +12,4 @@ This paper is about the Neighborhood Representation Local Binary Patterns.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yurdakul, O. C., Subathra, M. S. P., &amp; George, S. T. (2020). Detection of Parkinson’s Disease from gait using Neighborhood Representation Local Binary Patterns. _Biomedical Signal Processing and Control, 62_, 102070. [https://doi.org/10.1016/j.bspc.2020.102070](https://doi.org/10.1016/j.bspc.2020.102070) 
