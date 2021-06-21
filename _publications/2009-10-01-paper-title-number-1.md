@@ -1,7 +1,7 @@
 ---
 title: "Detection of Parkinson’s Disease from gait using Neighborhood Representation Local Binary Patterns"
 collection: publications
-permalink: /publication/nr-lbp
+permalink: /publications/nr-lbp
 excerpt: 'This paper is about the Neighborhood Representation Local Binary Patterns.'
 date: 2020-09-15
 venue: '_Biomedical Signal Processing and Control'
