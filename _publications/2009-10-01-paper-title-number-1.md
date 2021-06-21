@@ -5,7 +5,7 @@ permalink: /publications/nr-lbp
 excerpt: 'This paper is about the Neighborhood Representation Local Binary Patterns.'
 date: 2020-09-15
 venue: '_Biomedical Signal Processing and Control'
-paperurl: 'https://www.researchgate.net/publication/343048190_Detection_of_Parkinson's_Disease_from_gait_using_Neighborhood_Representation_Local_Binary_Patterns'
+paperurl: ''
 citation: 'Yurdakul, O. C., Subathra, M. S. P., &amp; George, S. T. (2020). Detection of Parkinson’s Disease from gait using Neighborhood Representation Local Binary Patterns. <i>Biomedical Signal Processing and Control, 62</i>, 102070. https://doi.org/10.1016/j.bspc.2020.102070 '
 ---
 This paper is about the Neighborhood Representation Local Binary Patterns.
