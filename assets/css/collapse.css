@@ -1,16 +1,21 @@
 .container {
     width:100%;
     border:1px solid #d3d3d3;
+    font-family: IBM Plex Sans;
 }
 .container div {
     width:100%;
+    font-family: IBM Plex Sans;
 }
 .container .header {
     background-color:#d3d3d3;
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
+    font-family: IBM Plex Sans;
 }
 .container .content {
     display: none;
     padding : 5px;
+    font-family: IBM Plex Sans;
+}
