@@ -14,7 +14,7 @@ aikido stuff
 
 ## Translation
 
-TED translation stuff
+[TED translation](https://www.ted.com/profiles/6269142/translator) stuff
 
 ## Maths Workshop
 
