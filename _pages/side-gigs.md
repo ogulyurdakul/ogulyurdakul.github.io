@@ -4,7 +4,6 @@ title: "Side Gigs"
 permalink: /side-gigs/
 author_profile: true
 redirect_from:
-  - /side-gigs/
   - /side-gigs.html
 ---
 
