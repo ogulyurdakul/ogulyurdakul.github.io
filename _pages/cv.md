@@ -21,32 +21,49 @@ redirect_from:
 :   CGPA: 3.76 / 4.00
 
 ## Professional Experience
-July 2021: Teaching Assistant
-:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
-:   *I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.*
 
-Summer 2019: Summer Intern in Research
+**Summer 2019 - Ongoing: Lab Member**
+:   *METU EEE Sensor Fusion Research Group*
+:   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
+:   I study statistical signal processing, with emphasis on particle filters. I am currently working on the problem of multiplying distributions approximated by a particle filter.
+
+**July 2021: Teaching Assistant**
+:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
+:   Having enjoyed being an interactive student immensely, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
+
+**Summer 2020: Interactive Student**
+
+**Summer 2019: Summer Intern in Research**
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
 :   *Supervisors: M.S.P. Subathra & S. Thomas George*
-:   **
+:   Wanting to experience being part of a research project, I decided to go to a research internship via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project).
 
-Fall 2018 & Spring 2020: Part-Time Student Assistant
+**Fall 2018 & Spring 2020: Part-Time Student Assistant**
 :   *METU Department of Mathematics*
-:   *I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.*
+:   I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.
 
-Summer 2018: Summer Intern
+**Summer 2018: Summer Intern**
 :   *IBM Turkey, Istanbul Office*
-:   *Observed on the field the process of data center migration. Helped the team in various tasks.*
+:   Observed on the field the process of data center migration. Helped the team in various tasks.
 
+## Organizations, Trainings & Others
+
+**Summer 2020: Interactive Student in Neuromatch Academy**
+:   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
+
+**Fall 2019: Instructor for Mathematics Workshop at Ankara Tevfik Fikret Private High School**
+
+**2019 - 2021: Coordinator in IAESTE LC METU**
+
+See [side gigs](/side-gigs) for more.
   
-  
-## Skills
+<!-- ## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 ## Publications
   <ul>{% for post in site.publications %}
