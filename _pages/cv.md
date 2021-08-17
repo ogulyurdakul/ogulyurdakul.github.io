@@ -14,6 +14,16 @@ redirect_from:
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+M.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 2021-Ongoing
+:   Specialization Area: Signal Processing
+
+B.S. in Mathematics, [METU](https://math.metu.edu.tr), 2017 - 2022 (expected)
+:   CGPA: 3.84 / 4.00
+
+B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 2016 - 2021
+:   Specialization Area: Biomedical Engineering
+:   CGPA: 3.76 / 4.00
+
 ## Work experience
 * Summer 2015: Research Assistant
   * Github University
