@@ -22,7 +22,7 @@ redirect_from:
 
 ## Professional Experience
 
-**Summer 2019 - Ongoing: Lab Member**
+<ins>Summer 2019 - Ongoing: Lab Member</ins>
 :   *METU EEE Sensor Fusion Research Group*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
 :   I study statistical signal processing, with emphasis on particle filters. I am currently working on the problem of multiplying distributions approximated by a particle filter.
