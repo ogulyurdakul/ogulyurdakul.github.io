@@ -31,8 +31,6 @@ redirect_from:
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
 :   Having enjoyed being an interactive student immensely, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
 
-**Summer 2020: Interactive Student**
-
 **Summer 2019: Summer Intern in Research**
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
 :   *Supervisors: M.S.P. Subathra & S. Thomas George*
