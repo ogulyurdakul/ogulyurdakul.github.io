@@ -10,13 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-<ins>M.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2021 - Ongoing</ins>
+<ins>M.S. in Electrical and Electronics Engineering, 10/2021 - Ongoing</ins>
+:   *[Middle East Technical University](https://eee.metu.edu.tr)*
 :   *Specialization Area: Signal Processing*
 
-<ins>B.S. in Mathematics, [METU](https://math.metu.edu.tr), 10/2017 - 07/2022 (expected)</ins>
+<ins>B.S. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
+:   *[Middle East Technical University](https://eee.metu.edu.tr)*
 :   *CGPA: 3.84 / 4.00*
 
-<ins>B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2016 - 01/2021</ins>
+<ins>B.S. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
+:   *[Middle East Technical University](https://math.metu.edu.tr)*
 :   *Specialization Area: Biomedical Engineering*
 :   *CGPA: 3.76 / 4.00*
 
