@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-**M.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2021 - Ongoing**
-:   Specialization Area: Signal Processing
+<ins>M.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2021 - Ongoing</ins>
+:   *Specialization Area: Signal Processing*
 
-**B.S. in Mathematics, [METU](https://math.metu.edu.tr), 10/2017 - 07/2022 (expected)**
-:   CGPA: 3.84 / 4.00
+<ins>B.S. in Mathematics, [METU](https://math.metu.edu.tr), 10/2017 - 07/2022 (expected)</ins>
+:   *CGPA: 3.84 / 4.00*
 
-**B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2016 - 01/2021**
-:   Specialization Area: Biomedical Engineering
-:   CGPA: 3.76 / 4.00
+<ins>B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2016 - 01/2021</ins>
+:   *Specialization Area: Biomedical Engineering*
+:   *CGPA: 3.76 / 4.00*
 
 ## Professional Experience
 
 <ins>Summer 2019 - Ongoing: Lab Member</ins>
-:   *METU EEE Sensor Fusion Research Group ([Website](http://sensorfusion.eee.metu.edu.tr))*
+:   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr) *
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
 :   I study statistical signal processing, with emphasis on particle filters. I am currently working on the problem of multiplying distributions approximated by a particle filter.
 
@@ -31,16 +31,16 @@ redirect_from:
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
 :   Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
 
-Summer 2019: Summer Intern in Research
+<ins>Summer 2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
-:   *Supervisors: M.S.P. Subathra & S. Thomas George*
+:   *Supervisors: Dr. M.S.P. Subathra & Dr. S. Thomas George*
 :   Wanting to experience being part of a research project, I decided to go to a research internship via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project).
 
-Fall 2018 & Spring 2020: Part-Time Student Assistant
+<ins>Fall 2018 & Spring 2020: Part-Time Student Assistant</ins>
 :   *METU Department of Mathematics*
 :   I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.
 
-Summer 2018: Summer Intern
+<ins>Summer 2018: Summer Intern</ins>
 :   *IBM Turkey, Istanbul Office*
 :   Observed on the field the process of data center migration. Helped the team in various tasks.
 
