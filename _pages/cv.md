@@ -24,7 +24,7 @@ redirect_from:
 July 2021: Teaching Assistant
 :   [Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA
 :   Duties included: 
-:     dfkjdkfdkf
+:   :   dfkjdkfdkf
 
 Summer 2019: Summer Intern in Research
 :   Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering
