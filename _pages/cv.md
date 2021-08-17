@@ -20,18 +20,25 @@ redirect_from:
 :   Specialization Area: Biomedical Engineering
 :   CGPA: 3.76 / 4.00
 
-## Experience
+## Professional Experience
 July 2021: Teaching Assistant
-:   [Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA
-:   Duties included: 
-:   :   dfkjdkfdkf
+:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
+:   *I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.*
 
 Summer 2019: Summer Intern in Research
-:   Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering
-:   Supervisors: M.S.P. Subathra & S. Thomas George
-:   Duties included: Merging pull requests
+:   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
+:   *Supervisors: M.S.P. Subathra & S. Thomas George*
+:   **
 
+Fall 2018 & Spring 2020: Part-Time Student Assistant
+:   *METU Department of Mathematics*
+:   *I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.*
 
+Summer 2018: Summer Intern
+:   *IBM Turkey, Istanbul Office*
+:   *Observed on the field the process of data center migration. Helped the team in various tasks.*
+
+  
   
 ## Skills
 * Skill 1

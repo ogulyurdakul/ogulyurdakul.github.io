@@ -2,7 +2,6 @@
 layout: archive
 title: "Side Gigs"
 permalink: /side-gigs/
-author_profile: true
 redirect_from:
 ---
 
