@@ -10,14 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-M.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 2021-Ongoing
+**M.S. in Electrical and Electronics Engineering**, [METU](https://eee.metu.edu.tr), 2021-Ongoing
 :   Specialization Area: Signal Processing
 
-B.S. in Mathematics, [METU](https://math.metu.edu.tr), 2017 - 2022 (expected)
+*B.S. in Mathematics*, [METU](https://math.metu.edu.tr), 2017 - 2022 (expected)
 :   CGPA: 3.84 / 4.00
 
 B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 2016 - 2021
