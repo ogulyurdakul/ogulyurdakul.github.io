@@ -10,26 +10,28 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-**M.S. in Electrical and Electronics Engineering**, [METU](https://eee.metu.edu.tr), 2021-Ongoing
+**M.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2021 - Ongoing**
 :   Specialization Area: Signal Processing
 
-*B.S. in Mathematics*, [METU](https://math.metu.edu.tr), 2017 - 2022 (expected)
+**B.S. in Mathematics, [METU](https://math.metu.edu.tr), 10/2017 - 07/2022 (expected)**
 :   CGPA: 3.84 / 4.00
 
-B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 2016 - 2021
+**B.S. in Electrical and Electronics Engineering, [METU](https://eee.metu.edu.tr), 10/2016 - 01/2021**
 :   Specialization Area: Biomedical Engineering
 :   CGPA: 3.76 / 4.00
 
-## Work experience
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Experience
+July 2021: Teaching Assistant
+:   [Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track tutorial TA
+:   Duties included: 
+  * dkfjkjdf
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Summer 2019: Summer Intern in Research
+:   Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering
+:   Supervisors: M.S.P. Subathra & S. Thomas George
+:   Duties included: Merging pull requests
+
+
   
 ## Skills
 * Skill 1
