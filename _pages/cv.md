@@ -30,7 +30,8 @@ Here's my longer CV. You can find a more compact version as a PDF [here](/files/
 <ins>Summer 2019 - Ongoing: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
-:   I study statistical signal processing, with emphasis on particle filters. I am currently working on the problem of multiplying distributions approximated by a particle filter.
+:   I study statistical signal processing, with emphasis on particle filters. 
+<!-- I am currently working on the problem of multiplying distributions approximated by a particle filter. -->
 
 <ins>July 2021: Teaching Assistant</ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
