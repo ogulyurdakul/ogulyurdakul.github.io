@@ -143,6 +143,10 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 *[CSS]: Cascading Style Sheets
 
+Does this also work for pictures?
+
+![bio photo 2](/images/bio-photo-2.jpg)
+
 ### Cite Tag
 
 "Code is poetry." ---<cite>Automattic</cite>
