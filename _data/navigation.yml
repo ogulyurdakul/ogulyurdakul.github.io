@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Lecture Notes"
-    url: /lecture-notes/ 
+  - title: "Cheat Sheets"
+    url: /cheat-sheets/ 
 
   - title: "Publications"
     url: /publications/  

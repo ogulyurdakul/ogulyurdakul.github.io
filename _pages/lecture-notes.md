@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lecture Notes"
-permalink: /lecture-notes/
+permalink: /cheat-sheets/
 author_profile: true
 redirect_from:
 ---
