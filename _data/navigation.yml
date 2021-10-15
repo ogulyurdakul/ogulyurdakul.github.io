@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  # - title: "Side Gigs"
-  #   url: /side-gigs/
+  - title: "Side Gigs"
+    url: /side-gigs/
     
   # - title: "Guide"
   #   url: /markdown/ 

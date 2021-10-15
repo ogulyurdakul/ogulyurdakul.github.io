@@ -68,7 +68,7 @@ Fall 2019: Instructor for Mathematics Workshop at Ankara Tevfik Fikret Private H
 
 2019 - 2021: Coordinator in IAESTE LC METU
 
-<!-- See [side gigs](/side-gigs) for more. -->
+See [side gigs](/side-gigs) for more.
   
 <!-- ## Skills
 * Skill 1
