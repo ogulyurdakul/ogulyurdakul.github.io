@@ -54,8 +54,8 @@ EE312 Digital Electronics (Spring 2018-2019):  -->
 
 ## Mathematics
 - MATH262 Linear Algebra II (Spring 2020-2021): *Coming*
-- [MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf)
 - MATH320 Set Theory (Spring 2018-2019): *Coming*
-- [MATH497 Introduction to Hilbert Spaces (Fall 2020-2021)](/files/MATH497CheatSheet_OgulCanYurdakul.pdf)
+- [MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf)
 - [MATH406 Introduction to Mathematical Logic and Model Theory (Spring 2019-2020)](/files/MATH406CheatSheet_OgulCanYurdakul.pdf)
 - MATH422 Elementary Geometric Topology (Spring 2020-2021): *Coming*
+- [MATH497 Introduction to Hilbert Spaces (Fall 2020-2021)](/files/MATH497CheatSheet_OgulCanYurdakul.pdf)
