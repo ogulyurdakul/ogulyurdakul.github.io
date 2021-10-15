@@ -147,6 +147,8 @@ Does this also work for pictures?
 
 ![bio photo 2](/images/bio-photo-2.jpg)
 
+*[![bio photo 2](/images/bio-photo-2.jpg)]: trial 1 will this show up?
+
 ### Cite Tag
 
 "Code is poetry." ---<cite>Automattic</cite>
