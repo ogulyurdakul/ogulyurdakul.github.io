@@ -8,11 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-Over the years, I've developed the habit of writing out "cheat sheets" when studying for each course. I prepared them throughout the semester, to keep track of what I have learned so far in the course. They consist of the knowledge I thought was essential for the course, starting with the basic definitions and moving on to the more complex and composite facts and theorems. At first I was writing them on paper, but then I moved onto writing them in LaTeX because I thought it made them more legible an structured (also I *really* needed something to do during quarantine. I know, I'm fun like that.). You can find the ones in LaTeX below, and I plan to share the others and I type them out.
+Over the years, I've developed the habit of writing out "cheat sheets" when studying for each course. I prepared them throughout the semester, to keep track of what I have learned so far in the course. They consist of the knowledge I thought was essential for the course, starting with the basic definitions and moving on to the more complex and composite facts and theorems. At first I was writing them on paper, but then I moved onto writing them in LaTeX because I thought it made them more legible an structured (also I *really* needed something to do during quarantine. I know, I'm fun like that.). You can find the ones in LaTeX below, and I plan to share the others as I type them out.
 
 *If you find a typo, or more dangerously so outright false information, please reach out to me at [yurdakul.ogulcan@gmail.com](mailto:yurdakul.ogulcan@gmail.com) and I will fix the document as quickly as I can.*
 
-## Electrical and Electronics Engineering
+<!-- ## Electrical and Electronics Engineering -->
 <!-- ### 1st Year
 #### Fall -->
 <!-- MATH119 Calculus with Analytical Geometry (Fall 2016-2017):
@@ -53,28 +53,9 @@ EE312 Digital Electronics (Spring 2018-2019):  -->
 <!-- EE404 Nonlinear Control Systems (Spring 2019-2020):  -->
 
 ## Mathematics
-<!-- ### 2nd Year
-#### Spring -->
-MATH262 Linear Algebra II (Spring 2020-2021)
-
-<!-- ### 3rd Year
-#### Fall -->
-<!-- MATH341 Graph Theory (Fall 2020-2021):  -->
-
-<!-- MATH353 Complex Calculus (Spring 2018-2019):  -->
-
-[MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf)
-
-<!-- #### Spring -->
-MATH320 Set Theory: *Coming*
-
-<!-- MATH371 Differential Geometry (Spring 2020-2021):  -->
-
-<!-- ### 4th Year
-#### Fall -->
-[MATH497 Introduction to Hilbert Spaces (Fall 2020-2021)](/files/MATH497CheatSheet_OgulCanYurdakul.pdf)
-
-<!-- #### Spring -->
-[MATH406 Introduction to Mathematical Logic and Model Theory (Spring 2019-2020)](/files/MATH406CheatSheet_OgulCanYurdakul.pdf)
-
-MATH422 Elementary Geometric Topology (Spring 2020-2021)
+- MATH262 Linear Algebra II (Spring 2020-2021): *Coming*
+- [MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf)
+- MATH320 Set Theory (Spring 2018-2019): *Coming*
+- [MATH497 Introduction to Hilbert Spaces (Fall 2020-2021)](/files/MATH497CheatSheet_OgulCanYurdakul.pdf)
+- [MATH406 Introduction to Mathematical Logic and Model Theory (Spring 2019-2020)](/files/MATH406CheatSheet_OgulCanYurdakul.pdf)
+- MATH422 Elementary Geometric Topology (Spring 2020-2021): *Coming*
