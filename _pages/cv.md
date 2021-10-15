@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Here's my longer CV, with somewhat more explanations about each item. You can find a more compact version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
+Here's my longer CV, with somewhat more explanations about each item. You can find a more compact version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf){:target="_blank"}.
 
 ## Education
 <ins>M.S. in Electrical and Electronics Engineering, 10/2021 - Ongoing</ins>
-:   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   *[Middle East Technical University](https://eee.metu.edu.tr){:target="_blank"}*
 :   *Specialization Area: Signal Processing*
 
 <ins>B.S. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
-:   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   *[Middle East Technical University](https://eee.metu.edu.tr){:target="_blank"}*
 :   *High Honour*
 :   *CGPA: 3.84 / 4.00*
 
 <ins>B.S. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
-:   *[Middle East Technical University](https://math.metu.edu.tr)*
+:   *[Middle East Technical University](https://math.metu.edu.tr){:target="_blank"}*
 :   *Specialization Area: Biomedical Engineering*
 :   *High Honour*
 :   *CGPA: 3.76 / 4.00*
@@ -30,7 +30,7 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 ## Professional Experience
 
 <ins>Summer 2019 - Ongoing: Lab Member</ins>
-:   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
+:   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr){:target="_blank"}*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
 :   I study statistical signal processing, with emphasis on particle filters. 
 <!-- I am currently working on the problem of multiplying distributions approximated by a particle filter. -->
@@ -38,7 +38,7 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 <ins>Summer 2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
 :   *Supervisors: Dr. M.S.P. Subathra & Dr. S. Thomas George*
-:   Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp).
+:   Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp){:target="_blank"}.
 
 <ins>Summer 2018: Summer Intern</ins>
 :   *IBM Turkey, Istanbul Office*
@@ -52,7 +52,7 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 ## Leadership and Teaching Experience
 
 <ins>July 2021: Teaching Assistant</ins>
-:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA*
+:   *[Neuromatch Academy](https://academy.neuromatch.io){:target="_blank"} Computational Neuroscience track, Tutorial TA*
 :   Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
 
 <ins>Fall 2018 & Spring 2020: Part-Time Student Assistant</ins>
