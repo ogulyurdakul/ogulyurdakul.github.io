@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Here's my longer CV. You can find a more compact version as a PDF [here](/files/OgulCanYurdakul_CV.pdf). -->
+Here's my longer CV. You can find a more compact version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
 
 ## Education
 <ins>M.S. in Electrical and Electronics Engineering, 10/2021 - Ongoing</ins>
