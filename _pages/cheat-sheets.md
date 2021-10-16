@@ -17,7 +17,7 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 
 ## Mathematics
 - [MATH262 Linear Algebra II (Spring 2020-2021)](/files/MATH262CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
-- MATH320 Set Theory (Spring 2018-2019): *Coming, just one midterm is missing. I'll have to complete that and compile everything in to one document.*
+- MATH320 Set Theory (Spring 2018-2019): *Coming, just one midterm is missing. I'll have to complete that and compile everything as a single document.*
 - [MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - [MATH406 Introduction to Mathematical Logic and Model Theory (Spring 2019-2020)](/files/MATH406CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - [MATH422 Elementary Geometric Topology (Spring 2020-2021)](/files/MATH422CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
