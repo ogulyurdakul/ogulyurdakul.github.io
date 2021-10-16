@@ -68,6 +68,7 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 :   *Turkish (Native)*
 :   *English (Proficient)*
 :   *French (Intermediate)*
+
 <ins>Formal:</ins>
 :   *MATLAB (Experienced)*
 :   *Python (Experienced)*
