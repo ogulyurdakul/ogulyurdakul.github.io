@@ -24,4 +24,4 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 - [MATH497 Introduction to Hilbert Spaces (Fall 2020-2021)](/files/MATH497CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 
 ## Philosophy
-- [PHIL405 Philosophy of Language (Fall 2020-2021)](/files/PHIL405CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (I wrote this one by hand as a change. Will not do the same mistake again.)
+- [PHIL405 Philosophy of Language (Fall 2020-2021)](/files/PHIL405CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} *(I wrote this one by hand as a change. Will not do the same mistake again.)*
