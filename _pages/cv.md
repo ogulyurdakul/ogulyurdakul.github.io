@@ -78,13 +78,13 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 
 ## Organizations, Trainings & Others
 
+<ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
+
 <ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
 :   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
 
 <ins>Fall 2019: Instructor for Mathematics Workshop</ins>
 :   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/side-gigs).
-
-<ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
 <!-- : I -->
 
 See [side gigs](/side-gigs) for more.
