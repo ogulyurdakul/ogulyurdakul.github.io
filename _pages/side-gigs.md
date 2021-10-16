@@ -28,7 +28,7 @@ I tried to showcase some mathematical topic that I thought were foreign to them,
 - different types of infinities (countable vs. uncountable). 
 
 At one point, I also found myself also talking about 
-- Fourier series representations of periodic signals (the question was why do different musical instruments make different noises if we say that they are producing the same note? If they are producing the same notes, what's the source of their different sounds?) 
+- Fourier series representations of periodic signals (the question was why do different musical instruments make different noises if we say that they are producing the same note? If they are producing the same notes, what's the reason behind their different sounds?) 
 - and, well, the continuum hypothesis (At one point one of the students went "I think I might *possibly* get this..." and that's plenty for me. Although, I have no doubt that I did a terrible job explaining the continuum hypothesis and what it means, because I keep on). 
 The last two went as well as expected.
 
