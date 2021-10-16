@@ -18,14 +18,12 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 
 <ins>B.S. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr){:target="_blank"}*
-:   *High Honour*
-:   *CGPA: 3.84 / 4.00*
+:   *High Honour, CGPA: 3.84 / 4.00*
 
 <ins>B.S. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
 :   *[Middle East Technical University](https://math.metu.edu.tr){:target="_blank"}*
 :   *Specialization Area: Biomedical Engineering*
-:   *High Honour*
-:   *CGPA: 3.76 / 4.00*
+:   *High Honour, CGPA: 3.76 / 4.00*
 
 <ins>High School Graduate, 09/2012 - 06/2016</ins>
 :   *[Ankara Private Tevfik Fikret High School](https://ankara.tfo.k12.tr/){:target="_blank"}*
