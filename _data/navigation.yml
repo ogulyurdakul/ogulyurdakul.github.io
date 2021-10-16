@@ -4,11 +4,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Cheat Sheets"
-    url: /cheat-sheets/ 
-
   - title: "Publications"
     url: /publications/  
+
+  - title: "Cheat Sheets"
+    url: /cheat-sheets/ 
     
   - title: "Side Gigs"
     url: /side-gigs/
