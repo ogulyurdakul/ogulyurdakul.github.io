@@ -27,6 +27,9 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 :   *High Honour*
 :   *CGPA: 3.76 / 4.00*
 
+<ins>High School Graduate, 09/2012 - 06/2016</ins>
+:   *[Ankara Private Tevfik Fikret High School](https://ankara.tfo.k12.tr/){:target="_blank"}*
+
 ## Professional Experience
 
 <ins>Summer 2019 - Ongoing: Lab Member</ins>
@@ -59,14 +62,29 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 :   *METU Department of Mathematics*
 :   I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.
 
+## Languages
+
+<ins>Natural:</ins>
+:   *Turkish (Native)*
+:   *English (Proficient)*
+:   *French (Intermediate)*
+<ins>Formal:</ins>
+:   *MATLAB (Experienced)*
+:   *Python (Experienced)*
+:   *LISP (ANSI Common): (Took a course on it once, loved it)*
+:   and various other languages I learned at one point but did not dot dwell too much on, such as R, and C++
+
+
 ## Organizations, Trainings & Others
 
-Summer 2020: Interactive Student in Neuromatch Academy
+<ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
 :   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
 
-Fall 2019: Instructor for Mathematics Workshop at Ankara Tevfik Fikret Private High School
+<ins>Fall 2019: Instructor for Mathematics Workshop</ins>
+:   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/side-gigs).
 
-2019 - 2021: Coordinator in IAESTE LC METU
+<ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
+: I
 
 See [side gigs](/side-gigs) for more.
   

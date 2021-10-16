@@ -143,11 +143,11 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 *[CSS]: Cascading Style Sheets
 
-Does this also work for pictures?
+<!-- Does this also work for pictures?
 
 ![bio photo 2](/images/bio-photo-2.jpg)
 
-*[bio photo 2]: trial 1 will this show up?
+*[bio photo 2]: trial 1 will this show up? -->
 
 ### Cite Tag
 
