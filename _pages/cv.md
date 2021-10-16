@@ -73,7 +73,8 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 :   *MATLAB (Experienced)*
 :   *Python (Experienced)*
 :   *ANSI Common LISP (Took a course on it once, loved it)*
-:   and various other languages I learned at one point but did not dot dwell too much on, such as R, and C++
+:   *C (Took my mandatory programming course in it, did not like it. I only use it if I have to, meaning when I'm using an Arduino board.)*
+:   and various other languages I learned at one point but did not dot dwell too much on, such as R and C++.
 
 
 ## Organizations, Trainings & Others
