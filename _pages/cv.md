@@ -72,7 +72,7 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 <ins>Formal:</ins>
 :   *MATLAB (Experienced)*
 :   *Python (Experienced)*
-:   *LISP (ANSI Common): (Took a course on it once, loved it)*
+:   *ANSI Common LISP (Took a course on it once, loved it)*
 :   and various other languages I learned at one point but did not dot dwell too much on, such as R, and C++
 
 
