@@ -12,50 +12,16 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 
 **If you find a typo, or more dangerously outright false information, please reach out to me at [yurdakul.ogulcan@gmail.com](mailto:yurdakul.ogulcan@gmail.com) and I will fix the document as quickly as I can.**
 
-<!-- ## Electrical and Electronics Engineering -->
-<!-- ### 1st Year
-#### Fall -->
-<!-- MATH119 Calculus with Analytical Geometry (Fall 2016-2017):
-
-PHYS105 General Physics I (Fall 2016-2017):
-
-CHEM107 General Chemistry (Fall 2016-2017): -->
-
-<!-- #### Spring -->
-<!-- MATH120 Calculus of Functions of Several Variables (Spring 2016-2017):
-
-PHYS106 General Physics II (Fall 2016-2017):
-
-MATH260 Linear Algebra (Spring 2016-2017): -->
-
-<!-- ### 3rd Year
-#### Fall -->
-<!-- EE301 Signals and Systems (Fall 2018-2019): 
-
-EE303 Electromagnetic Waves (Fall 2018-2019): 
-
-EE311 Analog Electronics (Fall 2018-2019): 
-
-EE361 Electromechanical Energy Conversion I (Fall 2018-2019):  -->
-
-<!-- #### Spring -->
-<!-- EE302 Feedback Systems (Spring 2018-2019): 
-
-EE306 Signals and Systems II (Spring 2018-2019): 
-
-EE312 Digital Electronics (Spring 2018-2019):  -->
-
-<!-- ### 4th Year
-#### Fall -->
-<!-- EE415 Introduction to Medical Imaging (Fall 2019-2020):  -->
-
-<!-- #### Spring -->
-<!-- EE404 Nonlinear Control Systems (Spring 2019-2020):  -->
+## Electrical and Electronics Engineering
+- [EE416 Biomedical Signals, Instrumentation and Measurement (Spring 2019-2020)](/files/EE416CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (This one has some missing parts but I believe it still covers quite some ground, so I think it's good to share.)
 
 ## Mathematics
-- MATH262 Linear Algebra II (Spring 2020-2021): *Coming*
+- [MATH262 Linear Algebra II (Spring 2020-2021)](/files/MATH262CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - MATH320 Set Theory (Spring 2018-2019): *Coming*
 - [MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - [MATH406 Introduction to Mathematical Logic and Model Theory (Spring 2019-2020)](/files/MATH406CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
-- MATH422 Elementary Geometric Topology (Spring 2020-2021): *Coming*
+- [MATH422 Elementary Geometric Topology (Spring 2020-2021)](/files/MATH422CheatSheet_OgulCanYurdakul.pdf) {:target="_blank"}
 - [MATH497 Introduction to Hilbert Spaces (Fall 2020-2021)](/files/MATH497CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
+
+## Philosophy
+- [PHIL405 Philosophy of Language (Fall 2020-2021)](/files/PHIL405CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (I wrote this one by hand as a change. Will not do the same mistake again.)
