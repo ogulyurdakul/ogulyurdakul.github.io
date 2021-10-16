@@ -85,7 +85,7 @@ Here's my longer CV, with somewhat more explanations about each item. You can fi
 :   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/side-gigs).
 
 <ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
-: I
+<!-- : I -->
 
 See [side gigs](/side-gigs) for more.
   
