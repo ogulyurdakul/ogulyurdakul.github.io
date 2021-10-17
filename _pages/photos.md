@@ -16,6 +16,6 @@ You can hover on the photos to see some explanation if there are any, and click 
 
 The first day of my photography course. 
 
-[<img src="/images/photoJournal/ceil.jpg" height="100px">](/images/photoJournal/ceil.jpg)
+[<img src="/images/photoJournal/ceil.jpg" height="50px">](/images/photoJournal/ceil.jpg)
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
