@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : "dark"
+# theme                    : "dark"
 locale                   : "en-US"
 title                    : "Oğul Can Yurdakul- Personal Website"
 title_separator          : "-"
