@@ -14,8 +14,8 @@ You can hover on the photos to see some explanation if there are any, and click 
 
 ### 17.10.2021
 
-The first day of my photography course. 
+The first day of the photography course. 
 
-[<img src="/images/photoJournal/ceil.jpg" height="50px">](/images/photoJournal/ceil.jpg)
+[<img src="/images/photoJournal/ceil.jpg" height="50">](/images/photoJournal/ceil.jpg)
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
