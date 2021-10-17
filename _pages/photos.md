@@ -10,4 +10,4 @@ redirect_from: /pics/
 
 
 
-<!-- [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/ "This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
+[<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) 
