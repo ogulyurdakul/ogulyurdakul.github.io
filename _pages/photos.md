@@ -16,6 +16,6 @@ You can hover on the photos to see some explanation if there are any, and click 
 
 The first day of the photography course. 
 
-[<img src="/images/photoJournal/ceil.jpg" width="27%">](/images/photoJournal/ceil.jpg) [<img src="/images/photoJournal/paw.jpg" width="27%">](/images/photoJournal/paw.jpg) [<img src="/images/photoJournal/garavel.jpg" width="27%">](/images/photoJournal/garavel.jpg) [<img src="/images/photoJournal/lampsym.jpg" width="12%">](/images/photoJournal/lampsym.jpg)
+[<img src="/images/photoJournal/ceil.jpg" width="28%">](/images/photoJournal/ceil.jpg) [<img src="/images/photoJournal/paw.jpg" width="28%">](/images/photoJournal/paw.jpg) [<img src="/images/photoJournal/garavel.jpg" width="28%">](/images/photoJournal/garavel.jpg) [<img src="/images/photoJournal/lampsym.jpg" width="13%">](/images/photoJournal/lampsym.jpg)
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
