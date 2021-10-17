@@ -8,4 +8,4 @@ redirect_from: /pics/
 
 {% include base_path %}
 
-[<img src="/images/bio-photo.jpg" width="500">](http://instagram.com/)  
+[<img src="/images/bio-photo.jpg" width="50%">](http://instagram.com/)  
