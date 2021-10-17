@@ -10,12 +10,12 @@ redirect_from: /pics/
 
 You found my photo journal! Here I intend to share some pictures I take, as I retake photography as a hobby. I took a photography course when I was in middle school, bu life happened and I for some reason did not take a camera in my hands for my own entertainment until now. I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-You can hover on the photos to see some explanation, and click on them to enlarge.
+You can hover on the photos to see some explanation if there are any, and click on them to enlarge.
 
 ### 17.10.2021
 
 The first day of my photography course. 
 
-[<img src="/images/photoJournal/ceil.jpg" height="150">](/images/photoJournal/ceil.jpg)
+[<img src="/images/photoJournal/ceil.jpg" height="75">](/images/photoJournal/ceil.jpg)
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
