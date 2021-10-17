@@ -18,6 +18,8 @@ The first day of the photography course. All the pictures were for learning how 
 
 [<img src="/images/photoJournal/ceil.jpg" width="270">](/images/photoJournal/ceil.jpg "I took this one just to scratch my symmetry obsession, and it's the only one from the actual course.") [<img src="/images/photoJournal/paw.jpg" width="270">](/images/photoJournal/paw.jpg "Just a fluffy paw. I originally wanted to take a picture of him (Garavel, my cat) sleeping but the camera's autofocus noises startled him.") [<img src="/images/photoJournal/garavel.jpg" width="270">](/images/photoJournal/garavel.jpg "He's annoyed I woke him up.") [<img src="/images/photoJournal/lampsym.jpg" width="120">](/images/photoJournal/lampsym.jpg "Playing with the light (literally), the shadow (indirectly) and geometric patterns.") 
 
+### 17.10.2021
+
 
 [<img src="/images/photoJournal/ceil.jpg" width="270">](/images/photoJournal/ceil.jpg "I took this one just to scratch my symmetry obsession, and it's the only one from the actual course.") [<img src="/images/photoJournal/paw.jpg" width="270">](/images/photoJournal/paw.jpg "Just a fluffy paw. I originally wanted to take a picture of him (Garavel, my cat) sleeping but the camera's autofocus noises startled him.") [<img src="/images/photoJournal/garavel.jpg" width="270">](/images/photoJournal/garavel.jpg "He's annoyed I woke him up.") [<img src="/images/photoJournal/lampsym.jpg" width="120">](/images/photoJournal/lampsym.jpg "Playing with the light (literally), the shadow (indirectly) and geometric patterns.")
 
