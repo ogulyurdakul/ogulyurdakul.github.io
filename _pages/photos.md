@@ -21,6 +21,7 @@ The second week of the photography course. I only have the first picture from th
 [<img src="/images/photoJournal/2021-10-23/kutay.jpg" width="120">](/images/photoJournal/2021-10-23/kutay.jpg "Kutay. I forgot to adjust the WB in all the next pictures, so they were too orange to begin with, and I had to fix it afterwards.") 
 [<img src="/images/photoJournal/2021-10-23/tchai.jpg" width="120">](/images/photoJournal/2021-10-23/tchai.jpg "I think this is the best I can do to get a frozen powder under low lighting conditions.") 
 [<img src="/images/photoJournal/2021-10-23/cheesecake.jpg" width="270">](/images/photoJournal/2021-10-23/cheesecake.jpg "Again, an attempt at using a shallow depth of field.") 
+
 [<img src="/images/photoJournal/2021-10-23/berfin.jpg" width="270">](/images/photoJournal/2021-10-23/berfin.jpg "Berfin. I didn't fix the colors of this one because she looks like she's sipping a cup in front of a fire, and I liked that.") 
 [<img src="/images/photoJournal/2021-10-23/gunes.jpg" width="270">](/images/photoJournal/2021-10-23/gunes.jpg "Güneş. I wish I had taken this properly without the blur, it would have been a much better photo.") 
 
