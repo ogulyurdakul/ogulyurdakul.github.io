@@ -37,7 +37,7 @@ The two most valuable lessons I learned is that
 - me understanding a topic does not entail me being able to convey it, especially to second-year high school students with a dozen different (and honestly, unexpected) questions. 
 - me wanting or being excited to talk about stuff *especially* does not make me good at explaining them. 
 
-In the end, I learned a lot and had a lot of fun. We had to stop because of the pandemic at one point, and so I couldn't cover as much ground as I wanted to. It's been quite some time since then, and recently I talked with the school to do the workshop online. I will certainly tread more carefully this time if I start doing the workshops again: It will take a lot more work and require a lot more planning, but I felt it was worth it in the end. 
+In the end, I learned a lot and had a lot of fun. We had to stop because of the pandemic at one point, and so I couldn't cover as much ground as I wanted to. It's been quite some time since then, and recently I talked with the school to do the workshop online. I will certainly tread more carefully this time if I start doing the workshops again: It will take a lot more work and require a lot more planning, but I feel like it will be worth it in the end. 
 
 ## TEDxMETUAnkara
 
