@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am still migrating from my old website to here. In the meantime, you can entertain yourself with the two following Douglas Adams quotes. Hopefully, the fate of this web site will not be  like the first one.
+Hi, I'm Oğul! Here's a brief abstract of what you can find out about me on this website:
+- You can find a somewhat more explained and extended [CV](/cv).
+- I don't have many [publications](/publications) yet but I'm hoping that list will grow as I do.
+- You can find my [cheat sheets](/cheat-sheets) on various topics if you're interested in those.
+- I have a page for my [non-academic interests and activities](/side-gigs).
+- And finally my [photo journal](/photo-journal).
+
+I will try to update these pages as I have more content to share. In the meantime, you can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) or entertain yourself with the following two quotes. 
 
 > “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
 >
