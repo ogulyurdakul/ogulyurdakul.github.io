@@ -8,13 +8,13 @@ redirect_from: /pics/
 
 {% include base_path %}
 
-You found my photo journal! Here I intend to share some pictures I take, as I retake photography as a hobby. I took a photography course when I was in middle school, bu life happened and I for some reason did not take a camera in my hands for my own entertainment until now. I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
+You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own entertainment until now. I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey that's me, but I don't want to be there!"* you can just tell me and I'll remove the photo.
+You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me, but I don't want to be there!"* you can just tell me, and I'll remove the photo.
 
 ### 23.10.2021
 
-The second week of the photography course. I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late I had to keep my aperture wide open so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand, and crank up the ISO.
+The second week of the photography course. I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late, I had to keep my aperture wide open, so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand and crank up the ISO.
 
 [<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also narrow depth of field (yup that's it).") 
 [<img src="/images/photoJournal/2021-10-23/vignette.jpg" width="120">](/images/photoJournal/2021-10-23/vignette.jpg "I have always liked compositions that are 'self-framed!, so I couldn't resist the urge to take this one when I saw it.") 

@@ -12,12 +12,12 @@ I'm Oğul! I'm currently an M.Sc. student of Electrical and Electronics Engineer
 
 Here's a brief abstract of what you can find out about me on this website:
 - You can find a somewhat more explained and extended [CV](/cv).
-- I don't have many [publications](/publications) yet but I'm hoping that list will grow as I do.
+- I don't have many [publications](/publications) yet, but I'm hoping that list will grow as I do.
 - You can find my [cheat sheets](/cheat-sheets) on various topics if you're interested in those.
 - I have a page for my [non-necessarily-academic interests and activities](/side-gigs).
-- And finally my [photo journal](/photo-journal).
+- And finally, my [photo journal](/photo-journal).
 
-I will try to update these pages as I have more content to share. In the meantime, you can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) or simply entertain yourself with the following two quotes. 
+I will try to update these pages as I have more content to share. In the meantime, you can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) or entertain yourself with the following two quotes. 
 
 > “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
 >
