@@ -17,7 +17,7 @@ You can hover on the photos to see some explanation if there are any, and click 
 I didn't really have much to do today, so I chose to do nothing at the office (even though I came to the office with ambitions to do stuff). I had taken my camera with me to force myself to take pictures and hey, I did. I can't help but think that the pictures I'm taking are ordinary and nothing but the ordinary, but I consider some of them to be photography exercises and some to hold some aesthetic because they're ordinary, so they end up here.
 
 [<img src="/images/photoJournal/2021-10-29/leaf1.jpg" width="270">](/images/photoJournal/2021-10-29/leaf1.jpg "Office plant.") 
-[<img src="/images/photoJournal/2021-10-29/leaf2.jpg" width="270">](/images/photoJournal/2021-10-29/leaf2.jpg "Office plan 2. I'm saying '2' but there is a lot more.") 
+[<img src="/images/photoJournal/2021-10-29/leaf2.jpg" width="270">](/images/photoJournal/2021-10-29/leaf2.jpg "Office plan 2.") 
 [<img src="/images/photoJournal/2021-10-29/dim.jpg" width="270">](/images/photoJournal/2021-10-29/dim.jpg "Office lamp.") 
 [<img src="/images/photoJournal/2021-10-29/desk.jpg" width="120">](/images/photoJournal/2021-10-29/desk.jpg "Office desk. This corner will (likely) be where I will be spending most of my time at the university for the coming two years.") 
 
@@ -25,7 +25,7 @@ I didn't really have much to do today, so I chose to do nothing at the office (e
 
 I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late, I had to keep my aperture wide open, so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand and crank up the ISO.
 
-[<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also narrow depth of field (yup that's it).") 
+[<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also the narrow depth of field (yup that's it).") 
 [<img src="/images/photoJournal/2021-10-23/vignette.jpg" width="120">](/images/photoJournal/2021-10-23/vignette.jpg "I have always liked compositions that are 'self-framed!, so I couldn't resist the urge to take this one when I saw it.") 
 [<img src="/images/photoJournal/2021-10-23/kutay.jpg" width="120">](/images/photoJournal/2021-10-23/kutay.jpg "Kutay. I forgot to adjust the WB in all the next pictures, so they were too orange to begin with, and I had to fix it afterwards.") 
 [<img src="/images/photoJournal/2021-10-23/tchai.jpg" width="120">](/images/photoJournal/2021-10-23/tchai.jpg "I think this is the best I can do to get a frozen powder under low lighting conditions.") 
