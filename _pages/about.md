@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
+  - /home/
   - /about.html
 ---
 
@@ -17,7 +18,7 @@ Here's a brief abstract of what you can find out about me on this website:
 - I have a page for my [non-necessarily-academic interests and activities](/side-gigs).
 - And finally, my [photo journal](/photo-journal).
 
-I will try to update these pages as I have more content to share. In the meantime, you can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) or entertain yourself with the following two quotes. 
+I will try to update these pages as I have more content to share. You can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) and if nothing above is of interest to you, maybe you will the following two quotes entertaining. 
 
 > “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
 >
