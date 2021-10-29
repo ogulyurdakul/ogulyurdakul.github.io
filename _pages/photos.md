@@ -12,9 +12,18 @@ You found my photo journal! Here I intend to share some pictures I take as I ret
 
 You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me, but I don't want to be there!"* you can just tell me, and I'll remove the photo.
 
-### 23.10.2021
+### 29.10.2021: *Alone at the office.*
 
-The second week of the photography course. I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late, I had to keep my aperture wide open, so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand and crank up the ISO.
+I didn't really have much to do today, so I chose to do nothing at the office (even though I came to the office with ambitions to do stuff.). I had taken my camera with me to force myself to take pictures and hey, I did. I can't help but think that the pictures I'm taking are ordinary and nothing but the ordinary, but I consider some of them to be photography exercises and some to hold some aesthetic because they're ordinary, so they end up here.
+
+[<img src="/images/photoJournal/2021-10-17/leaf1.jpg" width="270">](/images/photoJournal/2021-10-17/leaf1.jpg "Office plant.") 
+[<img src="/images/photoJournal/2021-10-17/leaf2.jpg" width="270">](/images/photoJournal/2021-10-17/leaf2.jpg "Office plan 2. I'm saying '2' but there is a lot more.") 
+[<img src="/images/photoJournal/2021-10-17/dim.jpg" width="270">](/images/photoJournal/2021-10-17/dim.jpg "Office lamp.") 
+[<img src="/images/photoJournal/2021-10-17/desk.jpg" width="120">](/images/photoJournal/2021-10-17/desk.jpg "Office desk. This corner will (likely) be where I will be spending most of my time at the university for the coming two years.") 
+
+### 23.10.2021: *The second week of the photography course.*
+
+I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late, I had to keep my aperture wide open, so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand and crank up the ISO.
 
 [<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also narrow depth of field (yup that's it).") 
 [<img src="/images/photoJournal/2021-10-23/vignette.jpg" width="120">](/images/photoJournal/2021-10-23/vignette.jpg "I have always liked compositions that are 'self-framed!, so I couldn't resist the urge to take this one when I saw it.") 
@@ -24,9 +33,9 @@ The second week of the photography course. I only have the first picture from th
 [<img src="/images/photoJournal/2021-10-23/berfin.jpg" width="270">](/images/photoJournal/2021-10-23/berfin.jpg "Berfin. I didn't fix the colors of this one because she looks like she's sipping a cup in front of a fire, and I liked that.") 
 [<img src="/images/photoJournal/2021-10-23/gunes.jpg" width="270">](/images/photoJournal/2021-10-23/gunes.jpg "Güneş. I wish I had taken this properly without the blur, it would have been a much better photo.") 
 
-### 17.10.2021
+### 17.10.2021: *The first day of the photography course.*
 
-The first day of the photography course. All the pictures were for learning how (auto)focusing works, so not much to show today (other than the ones I took at home).
+All the pictures were for learning how (auto)focusing works, so not much to show today (other than the ones I took at home).
 
 [<img src="/images/photoJournal/2021-10-17/ceil.jpg" width="270">](/images/photoJournal/2021-10-17/ceil.jpg "I took this one just to scratch my symmetry obsession, and it's the only one from the actual course.") 
 [<img src="/images/photoJournal/2021-10-17/paw.jpg" width="270">](/images/photoJournal/2021-10-17/paw.jpg "Just a fluffy paw. I originally wanted to take a picture of him (Garavel, my cat) sleeping but the camera's autofocus noises startled him.") 
