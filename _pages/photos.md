@@ -16,10 +16,10 @@ You can hover on the photos to see some explanation if there are any, and click 
 
 I didn't really have much to do today, so I chose to do nothing at the office (even though I came to the office with ambitions to do stuff). I had taken my camera with me to force myself to take pictures and hey, I did. I can't help but think that the pictures I'm taking are ordinary and nothing but the ordinary, but I consider some of them to be photography exercises and some to hold some aesthetic because they're ordinary, so they end up here.
 
-<!-- [<img src="/images/photoJournal/2021-10-29/leaf1.jpg" width="270">](/images/photoJournal/2021-10-29/leaf1.jpg "Office plant.") 
+[<img src="/images/photoJournal/2021-10-29/leaf1.jpg" width="270">](/images/photoJournal/2021-10-29/leaf1.jpg "Office plant.") 
 [<img src="/images/photoJournal/2021-10-29/leaf2.jpg" width="270">](/images/photoJournal/2021-10-29/leaf2.jpg "Office plan 2. I'm saying '2' but there is a lot more.") 
 [<img src="/images/photoJournal/2021-10-29/dim.jpg" width="270">](/images/photoJournal/2021-10-29/dim.jpg "Office lamp.") 
-[<img src="/images/photoJournal/2021-10-29/desk.jpg" width="120">](/images/photoJournal/2021-10-29/desk.jpg "Office desk. This corner will (likely) be where I will be spending most of my time at the university for the coming two years.")  -->
+[<img src="/images/photoJournal/2021-10-29/desk.jpg" width="120">](/images/photoJournal/2021-10-29/desk.jpg "Office desk. This corner will (likely) be where I will be spending most of my time at the university for the coming two years.") 
 
 ### 23.10.2021: *The second week of the photography course.*
 
