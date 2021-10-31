@@ -12,6 +12,14 @@ You found my photo journal! Here I intend to share some pictures I take as I ret
 
 You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me, but I don't want to be there!"* you can just tell me, and I'll remove the photo.
 
+### 30-31.10.2021 *The third week of the photography course.*
+
+On Saturday I was keen on going to the book fair and taking pictures, but it was *incredibly* crowded and so I just decided to get out of there after 30 minutes of idly looking at the booking. And I actually would have taken more pictures Sunday, but near the end of the course I felt sick and had to go home and rest. Serhat Hoca was showing such cool stuff too I'm so pissed...
+
+[<img src="/images/photoJournal/2021-10-3031/garaveleye.jpg" width="270">](/images/photoJournal/2021-10-3031/garaveleye.jpg "First macro lens trial and also my first black-and-white photograph.") 
+[<img src="/images/photoJournal/2021-10-3031/drop1.jpg" width="320">](/images/photoJournal/2021-10-3031/drop1.jpg "It had rained the morning of Sunday and I had taken the macro lenses from my father, so I had to find some drops on leaves to take pictures of.") 
+[<img src="/images/photoJournal/2021-10-3031/drop2.jpg" width="270">](/images/photoJournal/2021-10-3031/drop2.jpg "I took them during the break so I was in a rush as I took them. I wish I had taken the time to lower the ISO because I hate the grains.") 
+
 ### 29.10.2021: *Alone at the office.*
 
 I didn't really have much to do today, so I chose to do nothing at the office (even though I came to the office with ambitions to do stuff). I had taken my camera with me to force myself to take pictures and hey, I did. I can't help but think that the pictures I'm taking are ordinary and nothing but the ordinary, but I consider some of them to be photography exercises and some to hold some aesthetic because they're ordinary, so they end up here.
@@ -33,7 +41,7 @@ I only have the first picture from the actual course, though, and the rest are f
 [<img src="/images/photoJournal/2021-10-23/berfin.jpg" width="270">](/images/photoJournal/2021-10-23/berfin.jpg "Berfin. I didn't fix the colors of this one because she looks like she's sipping a cup in front of a fire, and I liked that.") 
 [<img src="/images/photoJournal/2021-10-23/gunes.jpg" width="270">](/images/photoJournal/2021-10-23/gunes.jpg "Güneş. I wish I had taken this properly without the blur, it would have been a much better photo.") 
 
-### 17.10.2021: *The first day of the photography course.*
+### 17.10.2021: *The first week of the photography course.*
 
 All the pictures were for learning how (auto)focusing works, so not much to show today (other than the ones I took at home).
 
