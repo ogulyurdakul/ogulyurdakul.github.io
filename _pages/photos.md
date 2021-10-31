@@ -8,7 +8,7 @@ redirect_from: /pics/
 
 {% include base_path %}
 
-You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own entertainment until now. I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
+You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
 You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me, but I don't want to be there!"* you can just tell me, and I'll remove the photo.
 
@@ -49,6 +49,8 @@ All the pictures were for learning how (auto)focusing works, so not much to show
 [<img src="/images/photoJournal/2021-10-17/paw.jpg" width="270">](/images/photoJournal/2021-10-17/paw.jpg "Just a fluffy paw. I originally wanted to take a picture of him (Garavel, my cat) sleeping but the camera's autofocus noises startled him.") 
 [<img src="/images/photoJournal/2021-10-17/garavel.jpg" width="270">](/images/photoJournal/2021-10-17/garavel.jpg "He's annoyed I woke him up.") 
 [<img src="/images/photoJournal/2021-10-17/lampsym.jpg" width="120">](/images/photoJournal/2021-10-17/lampsym.jpg "Playing with the light (literally), the shadow (indirectly) and geometric patterns.") 
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KtY8qPt0TW8qtWImKruNkCXOPsWXEKJLrS0mYExQ5ss&cl=ffffff&w=a"></script>
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/ogulyurdakul?ref_src=twsrc%5Etfw" width="250" height="500">Tweets by ogulyurdakul</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
