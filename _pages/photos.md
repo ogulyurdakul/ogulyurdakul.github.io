@@ -50,8 +50,6 @@ All the pictures were for learning how (auto)focusing works, so not much to show
 [<img src="/images/photoJournal/2021-10-17/garavel.jpg" width="270">](/images/photoJournal/2021-10-17/garavel.jpg "He's annoyed I woke him up.") 
 [<img src="/images/photoJournal/2021-10-17/lampsym.jpg" width="120">](/images/photoJournal/2021-10-17/lampsym.jpg "Playing with the light (literally), the shadow (indirectly) and geometric patterns.") 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KtY8qPt0TW8qtWImKruNkCXOPsWXEKJLrS0mYExQ5ss&cl=ffffff&w=a"></script>
-
 <!-- <a class="twitter-timeline" href="https://twitter.com/ogulyurdakul?ref_src=twsrc%5Etfw" width="250" height="500">Tweets by ogulyurdakul</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
