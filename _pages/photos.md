@@ -14,20 +14,20 @@ You can hover on the photos to see some explanation if there are any, and click 
 
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
-[<img src="/images/photoJournal/2021-11-07/01marul.jpg" width="270">](/images/photoJournal/2021-11-07/01marul.jpg) 
-[<img src="/images/photoJournal/2021-11-07/02bug.jpg" width="270">](/images/photoJournal/2021-11-07/02bug.jpg) 
-[<img src="/images/photoJournal/2021-11-07/03darkleaf.jpg" width="270">](/images/photoJournal/2021-11-07/03darkleaf.jpg) 
-[<img src="/images/photoJournal/2021-11-07/04dramaticleaf.jpg" width="120">](/images/photoJournal/2021-11-07/04dramaticleaf.jpg) 
-[<img src="/images/photoJournal/2021-11-07/05closeupleaf.jpg" width="270">](/images/photoJournal/2021-11-07/05closeupleaf.jpg) 
-[<img src="/images/photoJournal/2021-11-07/06reflection.jpg" width="270">](/images/photoJournal/2021-11-07/06reflection.jpg) 
-[<img src="/images/photoJournal/2021-11-07/07floatingleaf.jpg" width="270">](/images/photoJournal/2021-11-07/07floatingleaf.jpg) 
-[<img src="/images/photoJournal/2021-11-07/08crumbs.jpg" width="270">](/images/photoJournal/2021-11-07/08crumbs.jpg) 
-[<img src="/images/photoJournal/2021-11-07/09borrowed.jpg" width="120">](/images/photoJournal/2021-11-07/09borrowed.jpg) 
-[<img src="/images/photoJournal/2021-11-07/10unexpectedcity.jpg" width="270">](/images/photoJournal/2021-11-07/10unexpectedcity.jpg) 
-[<img src="/images/photoJournal/2021-11-07/11reflection.jpg" width="270">](/images/photoJournal/2021-11-07/11reflection.jpg) 
-[<img src="/images/photoJournal/2021-11-07/12birdreflection.jpg" width="120">](/images/photoJournal/2021-11-07/12birdreflection.jpg) 
-[<img src="/images/photoJournal/2021-11-07/13cake.jpg" width="270">](/images/photoJournal/2021-11-07/13cake.jpg) 
-[<img src="/images/photoJournal/2021-11-07/14bird.jpg" width="270">](/images/photoJournal/2021-11-07/14bird.jpg) 
+[<img src="/images/photoJournal/2021-11-07/01marul.jpg" width="270">](/images/photoJournal/2021-11-07/01marul.jpg "Of course I brought my close-up filters today, and I couldn't help myself but take a picture of Yazgül's amazing mercimek köftesi (I swear there cannot be a true translation of this dish's name to English.).") 
+[<img src="/images/photoJournal/2021-11-07/02bug.jpg" width="270">](/images/photoJournal/2021-11-07/02bug.jpg "Another close-up image. This guy landed on our table when we were drinking tea outside before the shoot, so I think it practically volunteered to be photographed. I have so many pictures of this bug, but many of them are focused on the wrong spot and with a depth of field this narrow, I always managed to make its face blurry. This is the only one I can salvage, and I think it is not half-bad after all.") 
+[<img src="/images/photoJournal/2021-11-07/03darkleaf.jpg" width="270">](/images/photoJournal/2021-11-07/03darkleaf.jpg "This one is underexposed by accident, but the dark yet soft colors of the shot make it appealing. It has a silent drama to it.") 
+[<img src="/images/photoJournal/2021-11-07/04dramaticleaf.jpg" width="120">](/images/photoJournal/2021-11-07/04dramaticleaf.jpg "This one is also dramatic, but louder. This specific group(?) of leaves got me busy for quite some time, I even got my shirt wet lying next to the pond. ") 
+[<img src="/images/photoJournal/2021-11-07/05closeupleaf.jpg" width="270">](/images/photoJournal/2021-11-07/05closeupleaf.jpg "This one is my favourite photo of these leaves. It is as if the two leaves were hugging, or as if this is like a floating nest or a boat of some tiny creature, who just left to fish.") 
+[<img src="/images/photoJournal/2021-11-07/06reflection.jpg" width="270">](/images/photoJournal/2021-11-07/06reflection.jpg "Practising reflections.") 
+[<img src="/images/photoJournal/2021-11-07/07floatingleaf.jpg" width="270">](/images/photoJournal/2021-11-07/07floatingleaf.jpg "This is a different group of leaves, but it again feels like a story, as if the two set sail.") 
+[<img src="/images/photoJournal/2021-11-07/08crumbs.jpg" width="270">](/images/photoJournal/2021-11-07/08crumbs.jpg "Bread crumbs someone left at the park, they were probably there for quite some time when I noticed them.") 
+[<img src="/images/photoJournal/2021-11-07/09borrowed.jpg" width="120">](/images/photoJournal/2021-11-07/09borrowed.jpg "A borrowed fall.") 
+[<img src="/images/photoJournal/2021-11-07/10unexpectedcity.jpg" width="270">](/images/photoJournal/2021-11-07/10unexpectedcity.jpg "I took this one without much thought, but when I was looking through the photos I took I realized the hidden cityscape in the picture, and I liked it very much.") 
+[<img src="/images/photoJournal/2021-11-07/11reflection.jpg" width="270">](/images/photoJournal/2021-11-07/11reflection.jpg "A geometric reflection.") 
+[<img src="/images/photoJournal/2021-11-07/12birdreflection.jpg" width="120">](/images/photoJournal/2021-11-07/12birdreflection.jpg "I was absolutely determined to take a picture of a bird in this reflection and guess what? I forgot to increase the shutter speed.") 
+[<img src="/images/photoJournal/2021-11-07/13cake.jpg" width="270">](/images/photoJournal/2021-11-07/13cake.jpg "Back to our table for a cup of tea and cake after the shoot, and of course I used my close-up filters on the cake. In the process I also prevented people from actually eating the cake (yes I was *that* person) but in my defense this one turned out okay.") 
+[<img src="/images/photoJournal/2021-11-07/14bird.jpg" width="270">](/images/photoJournal/2021-11-07/14bird.jpg "Again, a result of my obsession with taking a bird-in-flight photo.") 
 
 ### 06.11.2021 *The last week of the photography course, Saturday.*
 
@@ -41,8 +41,8 @@ We were supposed to go on a photo shoot today but we didn't due to the cold weat
 
 On Saturday I was keen on going to the book fair and taking pictures, but it was *incredibly* crowded and so I just decided to get out of there after 30 minutes of idly looking at the booking. And I actually would have taken more pictures Sunday, but near the end of the course I felt sick and had to go home and rest. Serhat Hoca was showing such cool stuff too I'm so pissed...
 
-[<img src="/images/photoJournal/2021-10-3031/garaveleye.jpg" width="270">](/images/photoJournal/2021-10-3031/garaveleye.jpg "First macro lens trial and also my first black-and-white photograph.") 
-[<img src="/images/photoJournal/2021-10-3031/drop1.jpg" width="320">](/images/photoJournal/2021-10-3031/drop1.jpg "It had rained the morning of Sunday and I had taken the macro lenses from my father, so I had to find some drops on leaves to take pictures of.") 
+[<img src="/images/photoJournal/2021-10-3031/garaveleye.jpg" width="270">](/images/photoJournal/2021-10-3031/garaveleye.jpg "First close-up filter trial and also my first black-and-white photograph.") 
+[<img src="/images/photoJournal/2021-10-3031/drop1.jpg" width="320">](/images/photoJournal/2021-10-3031/drop1.jpg "It had rained the morning of Sunday and I had taken the close-up filters from my father, so I had to find some drops on leaves to take pictures of.") 
 [<img src="/images/photoJournal/2021-10-3031/drop2.jpg" width="270">](/images/photoJournal/2021-10-3031/drop2.jpg "I took them during the break so I was in a rush as I took them. I wish I had taken the time to lower the ISO because I hate the grains.") 
 
 ### 29.10.2021: *Alone at the office.*
