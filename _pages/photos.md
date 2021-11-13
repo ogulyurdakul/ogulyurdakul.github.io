@@ -10,12 +10,16 @@ redirect_from: /pics/
 
 You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me, but I don't want to be there!"* you can just tell me, and I'll remove the photo.
+You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo.
 
 
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
 ### 06.11.2021 *The last week of the photography course, Saturday.*
+
+[<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet it. There was just no making sense of it, and I love it.") 
+[<img src="/images/photoJournal/2021-11-06/proof.jpg" width="120">](/images/photoJournal/2021-11-06/proof.jpg "I had to take this one, I just had to. I'll take a look at it whenever I'm having trouble with a proof, and make myself another cup of coffee. (Credit: I think the sign belongs to Arabica Coffee House.)") 
+
 
 ### 30-31.10.2021 *The third week of the photography course.*
 
