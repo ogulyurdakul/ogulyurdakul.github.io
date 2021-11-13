@@ -13,8 +13,8 @@ main:
   - title: "Side Gigs"
     url: /side-gigs/
     
-  - title: "Photo Journal"
-    url: /photo-journal/
+  # - title: "Photo Journal"
+  #   url: /photo-journal/
     
   # - title: "Guide"
   #   url: /markdown/ 

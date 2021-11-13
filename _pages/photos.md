@@ -12,6 +12,11 @@ You found my photo journal! Here I intend to share some pictures I take as I ret
 
 You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me, but I don't want to be there!"* you can just tell me, and I'll remove the photo.
 
+
+### 07.11.2021 *The last week of the photography course, Sunday.*
+
+### 06.11.2021 *The last week of the photography course, Saturday.*
+
 ### 30-31.10.2021 *The third week of the photography course.*
 
 On Saturday I was keen on going to the book fair and taking pictures, but it was *incredibly* crowded and so I just decided to get out of there after 30 minutes of idly looking at the booking. And I actually would have taken more pictures Sunday, but near the end of the course I felt sick and had to go home and rest. Serhat Hoca was showing such cool stuff too I'm so pissed...
