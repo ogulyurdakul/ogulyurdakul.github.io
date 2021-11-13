@@ -33,7 +33,7 @@ You can hover on the photos to see some explanation if there are any, and click 
 
 We were supposed to go on a photo shoot today but we didn't due to the cold weather and decided to make the next day's shoot longer. These are just some random pictures I took that day, so there is not much to show.
 
-[<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet it. There was just no making sense of it, and I love it.") 
+[<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet him. There was just no making sense of him, and I love that.") 
 [<img src="/images/photoJournal/2021-11-06/proof.jpg" width="120">](/images/photoJournal/2021-11-06/proof.jpg "I had to take this one, I just had to. I'll take a look at it whenever I'm having trouble with a proof, and make myself another cup of coffee. (Credit: I think the sign belongs to Arabica Coffee House.)") 
 
 
