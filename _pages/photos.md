@@ -12,10 +12,26 @@ You found my photo journal! Here I intend to share some pictures I take as I ret
 
 You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo.
 
-
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
+[<img src="/images/photoJournal/2021-11-07/01marul.jpg" width="270">](/images/photoJournal/2021-11-07/01marul.jpg) 
+[<img src="/images/photoJournal/2021-11-07/02bug.jpg" width="270">](/images/photoJournal/2021-11-07/02bug.jpg) 
+[<img src="/images/photoJournal/2021-11-07/03darkleaf.jpg" width="270">](/images/photoJournal/2021-11-07/03darkleaf.jpg) 
+[<img src="/images/photoJournal/2021-11-07/04dramaticleaf.jpg" width="120">](/images/photoJournal/2021-11-07/04dramaticleaf.jpg) 
+[<img src="/images/photoJournal/2021-11-07/05closeupleaf.jpg" width="270">](/images/photoJournal/2021-11-07/05closeupleaf.jpg) 
+[<img src="/images/photoJournal/2021-11-07/06reflection.jpg" width="270">](/images/photoJournal/2021-11-07/06reflection.jpg) 
+[<img src="/images/photoJournal/2021-11-07/07floatingleaf.jpg" width="270">](/images/photoJournal/2021-11-07/07floatingleaf.jpg) 
+[<img src="/images/photoJournal/2021-11-07/08crumbs.jpg" width="270">](/images/photoJournal/2021-11-07/08crumbs.jpg) 
+[<img src="/images/photoJournal/2021-11-07/09borrowed.jpg" width="120">](/images/photoJournal/2021-11-07/09borrowed.jpg) 
+[<img src="/images/photoJournal/2021-11-07/10unexpectedcity.jpg" width="270">](/images/photoJournal/2021-11-07/10unexpectedcity.jpg) 
+[<img src="/images/photoJournal/2021-11-07/11reflection.jpg" width="270">](/images/photoJournal/2021-11-07/11reflection.jpg) 
+[<img src="/images/photoJournal/2021-11-07/12birdreflection.jpg" width="120">](/images/photoJournal/2021-11-07/12birdreflection.jpg) 
+[<img src="/images/photoJournal/2021-11-07/13cake.jpg" width="270">](/images/photoJournal/2021-11-07/13cake.jpg) 
+[<img src="/images/photoJournal/2021-11-07/14bird.jpg" width="270">](/images/photoJournal/2021-11-07/14bird.jpg) 
+
 ### 06.11.2021 *The last week of the photography course, Saturday.*
+
+We were supposed to go on a photo shoot today but we didn't due to the cold weather and decided to make the next day's shoot longer. These are just some random pictures I took that day, so there is not much to show.
 
 [<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet it. There was just no making sense of it, and I love it.") 
 [<img src="/images/photoJournal/2021-11-06/proof.jpg" width="120">](/images/photoJournal/2021-11-06/proof.jpg "I had to take this one, I just had to. I'll take a look at it whenever I'm having trouble with a proof, and make myself another cup of coffee. (Credit: I think the sign belongs to Arabica Coffee House.)") 
