@@ -12,11 +12,9 @@ redirect_from:
 
 You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that if you want to use a photograph I took for any reason, please do not do so without my consent.
+Below you can see the Flickr albums for each posted day, and click [here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of albums, formed with a more aesthetic motivation than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that if you want to use a photograph I took for any reason, please do not do so without my consent.
 
-<!-- <div align="center">
-  <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720150523727" title="Close-Up"><img src="https://live.staticflickr.com/65535/51677536777_b7e1eebbcb_z.jpg" width="500" height="375" alt="Close-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div> -->
+
 
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
