@@ -3,19 +3,23 @@ layout: archive
 title: "Photo Journal"
 permalink: /photo-journal/
 author_profile: false
-redirect_from: /pics/
+redirect_from: 
+  - /pics/
+  - /photos/
 ---
 
 {% include base_path %}
 
 You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo.
+You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that if you want to use a photograph I took for any reason, please do not do so without my consent.
 
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
+Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter. 
+
 [<img src="/images/photoJournal/2021-11-07/01marul.jpg" width="270">](/images/photoJournal/2021-11-07/01marul.jpg "Of course I brought my close-up filters today, and I couldn't help myself but take a picture of Yazgül's amazing mercimek köftesi (I swear there cannot be a true translation of this dish's name to English.).") 
-[<img src="/images/photoJournal/2021-11-07/02bug.jpg" width="270">](/images/photoJournal/2021-11-07/02bug.jpg "Another close-up image. This guy landed on our table when we were drinking tea outside before the shoot, so I think it practically volunteered to be photographed. I have so many pictures of this bug, but many of them are focused on the wrong spot and with a depth of field this narrow, I always managed to make its face blurry. This is the only one I can salvage, and I think it is not half-bad after all.") 
+[<img src="/images/photoJournal/2021-11-07/02bug.jpg" width="270">](/images/photoJournal/2021-11-07/02bug.jpg "Another close-up picture. This guy landed on our table when we were drinking tea outside before the shoot, so I think it practically volunteered to be photographed. I have so many pictures of this bug, but many of them are focused on the wrong spot and with a depth of field this narrow, I always managed to make its face blurry. This is the only one I can salvage, and I think it is not half-bad after all.") 
 [<img src="/images/photoJournal/2021-11-07/03darkleaf.jpg" width="270">](/images/photoJournal/2021-11-07/03darkleaf.jpg "This one is underexposed by accident, but the dark yet soft colors of the shot make it appealing. It has a silent drama to it.") 
 [<img src="/images/photoJournal/2021-11-07/04dramaticleaf.jpg" width="120">](/images/photoJournal/2021-11-07/04dramaticleaf.jpg "This one is also dramatic, but louder. This specific group(?) of leaves got me busy for quite some time, I even got my shirt wet lying next to the pond. ") 
 [<img src="/images/photoJournal/2021-11-07/05closeupleaf.jpg" width="270">](/images/photoJournal/2021-11-07/05closeupleaf.jpg "This one is my favourite photo of these leaves. It is as if the two leaves were hugging, or as if this is like a floating nest or a boat of some tiny creature, who just left to fish.") 
