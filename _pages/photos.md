@@ -66,22 +66,26 @@ I didn't really have much to do today, so I chose to do nothing at the office (e
 
 I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late, I had to keep my aperture wide open, so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand and crank up the ISO.
 
-[<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also the narrow depth of field (yup that's it).") 
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720138541943" title="23.10.2021: The second week of the photography course."><img src="https://live.staticflickr.com/65535/51679011944_a4eea0cd74_w.jpg" width="500" height="375" alt="23.10.2021: The second week of the photography course."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- [<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also the narrow depth of field (yup that's it).") 
 [<img src="/images/photoJournal/2021-10-23/vignette.jpg" width="120">](/images/photoJournal/2021-10-23/vignette.jpg "I have always liked compositions that are 'self-framed!, so I couldn't resist the urge to take this one when I saw it.") 
 [<img src="/images/photoJournal/2021-10-23/kutay.jpg" width="120">](/images/photoJournal/2021-10-23/kutay.jpg "Kutay. I forgot to adjust the WB in all the next pictures, so they were too orange to begin with, and I had to fix it afterwards.") 
 [<img src="/images/photoJournal/2021-10-23/tchai.jpg" width="120">](/images/photoJournal/2021-10-23/tchai.jpg "I think this is the best I can do to get a frozen powder under low lighting conditions.") 
 [<img src="/images/photoJournal/2021-10-23/cheesecake.jpg" width="270">](/images/photoJournal/2021-10-23/cheesecake.jpg "Again, an attempt at using a shallow depth of field.") 
 [<img src="/images/photoJournal/2021-10-23/berfin.jpg" width="270">](/images/photoJournal/2021-10-23/berfin.jpg "Berfin. I didn't fix the colors of this one because she looks like she's sipping a cup in front of a fire, and I liked that.") 
-[<img src="/images/photoJournal/2021-10-23/gunes.jpg" width="270">](/images/photoJournal/2021-10-23/gunes.jpg "Güneş. I wish I had taken this properly without the blur, it would have been a much better photo.") 
+[<img src="/images/photoJournal/2021-10-23/gunes.jpg" width="270">](/images/photoJournal/2021-10-23/gunes.jpg "Güneş. I wish I had taken this properly without the blur, it would have been a much better photo.")  -->
 
 ### 17.10.2021: *The first week of the photography course.*
 
 All the pictures were for learning how (auto)focusing works, so not much to show today (other than the ones I took at home).
 
-[<img src="/images/photoJournal/2021-10-17/ceil.jpg" width="270">](/images/photoJournal/2021-10-17/ceil.jpg "I took this one just to scratch my symmetry obsession, and it's the only one from the actual course.") 
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720138535103" title="17.10.2021: The first week of the photography course."><img src="https://live.staticflickr.com/65535/51679222555_c284e48c8b_w.jpg" width="500" height="375" alt="17.10.2021: The first week of the photography course."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- [<img src="/images/photoJournal/2021-10-17/ceil.jpg" width="270">](/images/photoJournal/2021-10-17/ceil.jpg "I took this one just to scratch my symmetry obsession, and it's the only one from the actual course.") 
 [<img src="/images/photoJournal/2021-10-17/paw.jpg" width="270">](/images/photoJournal/2021-10-17/paw.jpg "Just a fluffy paw. I originally wanted to take a picture of him (Garavel, my cat) sleeping but the camera's autofocus noises startled him.") 
 [<img src="/images/photoJournal/2021-10-17/garavel.jpg" width="270">](/images/photoJournal/2021-10-17/garavel.jpg "He's annoyed I woke him up.") 
-[<img src="/images/photoJournal/2021-10-17/lampsym.jpg" width="120">](/images/photoJournal/2021-10-17/lampsym.jpg "Playing with the light (literally), the shadow (indirectly) and geometric patterns.") 
+[<img src="/images/photoJournal/2021-10-17/lampsym.jpg" width="120">](/images/photoJournal/2021-10-17/lampsym.jpg "Playing with the light (literally), the shadow (indirectly) and geometric patterns.")  -->
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/ogulyurdakul?ref_src=twsrc%5Etfw" width="250" height="500">Tweets by ogulyurdakul</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
