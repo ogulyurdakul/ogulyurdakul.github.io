@@ -14,6 +14,8 @@ You found my photo journal! Here I intend to share some pictures I take as I ret
 
 You can hover on the photos to see some explanation if there are any, and click on them to enlarge. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that if you want to use a photograph I took for any reason, please do not do so without my consent.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720150523727" title="Close-Up"><img src="https://live.staticflickr.com/65535/51677536777_b7e1eebbcb_z.jpg" width="640" height="480" alt="Close-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
 Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter. 
