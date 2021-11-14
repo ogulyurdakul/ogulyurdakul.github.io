@@ -83,7 +83,7 @@ I didn't really have much to do today, so I chose to do nothing at the office (e
 I only have the first picture from the actual course, though, and the rest are from when I met with my friends. I mostly played with the depth of field, by choice and by force: Because we met late, I had to keep my aperture wide open, so I didn't have much depth. Taking pictures at night also meant that I also had to learn to steady my hand and crank up the ISO.
 
 <div align="center">
-  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720138541943" title="23.10.2021: The second week of the photography course."><img src="https://live.staticflickr.com/65535/51679011944_a4eea0cd74_w.jpg" width="500" height="375" alt="23.10.2021: The second week of the photography course."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720138541943" title="23.10.2021: The second week of the photography course."><img src="https://live.staticflickr.com/65535/51679222125_a24c29bdbf.jpg" width="500" height="375" alt="23.10.2021: The second week of the photography course."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <!-- [<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also the narrow depth of field (yup that's it).") 
