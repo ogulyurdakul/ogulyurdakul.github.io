@@ -46,7 +46,7 @@ Today was the only day I could join an actual outdoor photo shoot with the cours
 We were supposed to go on a photo shoot today but we didn't due to the cold weather and decided to make the next day's shoot longer. These are just some random pictures I took that day, so there is not much to show.
 
 <div align="center">
-  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720193452565" title="06.11.2021 The last week of the photography course, Saturday."><img src="https://live.staticflickr.com/65535/51679010889_50009ef3eb_w.jpg" width="500" height="375" alt="06.11.2021 The last week of the photography course, Saturday."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720193452565" title="06.11.2021 The last week of the photography course, Saturday."><img src="https://live.staticflickr.com/65535/51678590758_b3b6ebafbc.jpg" width="500" height="375" alt="06.11.2021 The last week of the photography course, Saturday."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <!-- [<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet him. There was just no making sense of him, and I love that.") 
