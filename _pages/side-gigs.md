@@ -15,8 +15,9 @@ I started practicing aikido in 2019 at [METU Aikido Society](https://www.odtuaik
 
 I am hesitant to call myself a "translator", but I think I can do so by calling myself an "*amateur* translator". I mostly translate English content to Turkish, although in the future, I would like to translate works in French to Turkish and translate Turkish content *to* English and French as well. 
 
-- I am a volunteer TED translator with a couple of videos translated into Turkish. You can find the videos I translated on my [TED profile](https://www.ted.com/profiles/6269142/translator){:target="_blank"}. 
+- My most recent translation is Nicky Case's *How to Remember Anything Forever-ish*, I translated it from [English](https://ncase.me/remember/) to [Turkish](https://ncase.me/remember/tr.html). The content was super fun to read and very easy to understand and retain. 
 - I, with two other people, have translated the text titled "Jūjutsu, Jūdō and Aikidō", which is an excerpt from Donald Frederick "Donn" Draeger's *Comprehensive Asian Fighting Arts* (8th edition, 1989), which can be found [here](https://www.aikidodergisi.com/2021/09/12/jujutsu-judo-ve-aikido/){:target="_blank"}.
+- I am a volunteer TED translator with a couple of videos translated into Turkish. You can find the videos I translated on my [TED profile](https://www.ted.com/profiles/6269142/translator){:target="_blank"}. 
 
 ## Maths Workshop
 
