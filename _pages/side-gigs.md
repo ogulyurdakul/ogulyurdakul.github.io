@@ -7,6 +7,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Photography
+
+Photography is actually an old hobby of mine: I started learning about it at around 6th grade in middle school. I was active then for about a year or so, but then I wasn't for quite some time. As of the fall of 2021, I have taken it up again, more seriously this time. You can see the pictures I am taking at my [photo blog](/photo-journal/) or on my [Flickr profile](https://www.flickr.com/photos/ogulyurdakul).
+
 ## Aikido
 
 I started practicing aikido in 2019 at [METU Aikido Society](https://www.odtuaikido.org/en/main-page/){:target="_blank"} under Utku Havuç, following the school of [Tamura Shihan](https://www.odtuaikido.org/en/tamura-sensei-en/){:target="_blank"} and his student [Nebi Vural Sensei](http://www.nebivural.com/){:target="_blank"}. Although at the time I couldn't practice as often as I wanted to, I started regularly practising again, starting with the pandemic (safely, of course, over Zoom using our weapons). Recently as the COVID-19 prohibitions are relaxed by the government, I have started practising (actual physical training this time) at [Katsu Dojo](https://www.katsuankara.com/){:target= "_blank"}, again under Utku Havuç.
