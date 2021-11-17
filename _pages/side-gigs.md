@@ -9,7 +9,7 @@ redirect_from:
 
 ## Photography
 
-Photography is actually an old hobby of mine: I started learning about it at around 6th grade in middle school. I was active then for about a year or so, but then I wasn't for quite some time. As of the fall of 2021, I have taken it up again, more seriously this time. You can see the pictures I am taking at my [photo blog](/photo-journal/) or on my [Flickr profile](https://www.flickr.com/photos/ogulyurdakul).
+Photography is actually an old hobby of mine: I started learning about it at around 6th grade in middle school. I was active then for about a year or so, but then I wasn't for quite some time. As of the fall of 2021, I have taken it up again, more seriously this time. You can see the pictures I am taking at my [photo blog](/photo-journal/){:target= "_blank"} or on my [Flickr profile](https://www.flickr.com/photos/ogulyurdakul){:target= "_blank"}.
 
 ## Aikido
 
