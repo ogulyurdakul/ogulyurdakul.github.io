@@ -12,10 +12,11 @@ redirect_from:
 I'm Oğul! I'm currently an M.Sc. student of Electrical and Electronics Engineering studying statistical signal processing and a B.Sc. student of Mathematics at METU. This combo makes me an undergraduate student, a graduate *and* a graduate student of/at METU, which I think is weird. I want to become a researcher in cognitive science/neuroscience and an educator of whatever topic I will know enough to teach whenever that happens.
 
 Here's a brief abstract of what you can find out about me on this website:
+
 - You can find a somewhat more explained and extended [CV](/cv).
 - I don't have many [publications](/publications) yet, but I'm hoping that list will grow as I do.
 - You can find my [cheat sheets](/cheat-sheets) on various topics if you're interested in those.
-- I have a page for my [non-necessarily-academic interests and activities](/side-gigs).
+- I have a page for my [not-necessarily-academic interests and activities](/side-gigs).
 - And finally, my [photo journal](/photo-journal).
 
 I will try to update these pages as I have more content to share. You can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) and if nothing above is of interest to you, maybe you will the following two quotes entertaining. 
