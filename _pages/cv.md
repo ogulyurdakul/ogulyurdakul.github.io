@@ -52,7 +52,7 @@ redirect_from:
 
 ## Leadership and Teaching Experience
 
-<ins>July 2021: Teaching Assistant</ins>
+<ins>July 2021: Teaching Assistant ([Certificate](/files/NMA_TA_Certificate.pdf){:target="_blank"})</ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io){:target="_blank"} Computational Neuroscience track, Tutorial TA*
 :   Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
 
