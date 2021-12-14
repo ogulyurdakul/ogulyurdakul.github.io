@@ -33,7 +33,7 @@ redirect_from:
 <ins>Summer 2019 - Ongoing: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr){:target="_blank"}*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
-:   I study statistical signal processing, with emphasis on particle filters, Chernoff fusion and system identification.
+:   I study statistical signal processing, with emphasis on particle filters and Chernoff fusion.
 <!-- I am currently working on the problem of multiplying distributions approximated by a particle filter. -->
 
 <ins>Summer 2019: Summer Intern in Research</ins>
