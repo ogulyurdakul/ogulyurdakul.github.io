@@ -18,7 +18,7 @@ Below you can see the Flickr albums for each posted day, and click [here](https:
 
 ### 07.11.2021 *A late new year's eve.*
 
-<div align="center">
+<div align="center" style="width:50%">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720295902874" title="08.01.2022 - A late new year&#x27;s eve"><img src="https://live.staticflickr.com/65535/51815820961_c0eb4d7bed.jpg" width="500" height="375" alt="08.01.2022 - A late new year&#x27;s eve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
