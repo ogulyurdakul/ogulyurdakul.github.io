@@ -16,6 +16,18 @@ Below you can see the Flickr albums for each posted day, and click [here](https:
 
 
 
+### 07.11.2021 *A late new year's eve.*
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720295902874" title="08.01.2022 - A late new year&#x27;s eve"><img src="https://live.staticflickr.com/65535/51815820961_c0eb4d7bed.jpg" width="500" height="375" alt="08.01.2022 - A late new year&#x27;s eve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+### 10.12.2021 *Out after a long time.*
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72157720235712657" title="10.12.2021 Out after a long time"><img src="https://live.staticflickr.com/65535/51739836560_f892834c16.jpg" width="500" height="375" alt="10.12.2021 Out after a long time"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
 Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter. 
