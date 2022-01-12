@@ -32,7 +32,7 @@ Below you can see the Flickr albums for each posted day, and click [here](https:
 
 Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter. 
 
-<div align="center" style="width:49%">
+<div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720151088597" title="07.11.2021: The last week of the photography course, Sunday."><img src="https://live.staticflickr.com/65535/51679010504_9783afd520.jpg" width="500" height="375" alt="07.11.2021: The last week of the photography course, Sunday."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
