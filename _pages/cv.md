@@ -73,7 +73,7 @@ redirect_from:
 :   *WebPPL (Took a course that used it)*
 :   *ANSI Common LISP (Took a course on it once, loved it)*
 :   *C (Took my mandatory programming course in it, did not like it. I only use it if I have to, meaning when I'm using an Arduino board.)*
-:   and various other languages I learned at one point but did not dot dwell too much on, such as R and C++.
+:   and various other languages I learned at one point but did not dwell on too much, such as R and C++.
 
 
 ## Organizations, Trainings & Others
