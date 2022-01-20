@@ -23,7 +23,8 @@ I am hesitant to call myself a "translator", but I think I can do so by calling 
 - I, with two other people, have translated the text titled "Jūjutsu, Jūdō and Aikidō", which is an excerpt from Donald Frederick "Donn" Draeger's *Comprehensive Asian Fighting Arts* (8th edition, 1989), which can be found [here](https://www.aikidodergisi.com/2021/09/12/jujutsu-judo-ve-aikido/){:target="_blank"}.
 - I am a volunteer TED translator with a couple of videos translated into Turkish. You can find the videos I translated on my [TED profile](https://www.ted.com/profiles/6269142/translator){:target="_blank"}. 
 
-## Maths Workshop
+<a id="maths-workshop">
+## Maths Workshop 
 
 During the fall of 2019, a high school maths teacher of mine (whom I love very much, hi Başak Hocam!) approached me one day with the idea of creating a workshop on mathematics for second-year high school students. It was going to be something to motivate them into really trying to really understand a subject rather than just memorizing facts and learning to solve templates of questions (the Turkish education system is not very good about this.). I accepted to be the one to deliver the workshop. I was responsible for its content and its delivery, and although my aim was to make it weekly, I could only do it as often as my exam schedule permitted me. 
 
@@ -43,6 +44,7 @@ The two most valuable lessons I learned is that
 - me wanting or being excited to talk about stuff *especially* does not make me good at explaining them. 
 
 In the end, I learned a lot and had a lot of fun. We had to stop because of the pandemic at one point, and so I couldn't cover as much ground as I wanted to. It's been quite some time since then, and recently I talked with the school to do the workshop online. I will certainly tread more carefully this time if I start doing the workshops again: It will take a lot more work and require a lot more planning, but I feel like it will be worth it in the end. 
+</a>
 
 ## TEDxMETUAnkara
 
