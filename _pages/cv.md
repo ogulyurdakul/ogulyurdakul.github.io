@@ -13,16 +13,16 @@ redirect_from:
 
 ## Education
 
-<ins>M.S. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
+<ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr)*
 :   *Specialization Area: Signal Processing*
 :   *CGPA: 4.00 / 4.00*
 
-<ins>B.S. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
+<ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr)*
 :   *High Honour, CGPA: 3.86 / 4.00*
 
-<ins>B.S. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
+<ins>B.Sc. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
 :   *[Middle East Technical University](https://math.metu.edu.tr)*
 :   *Specialization Area: Biomedical Engineering*
 :   *High Honour, CGPA: 3.76 / 4.00*
@@ -49,7 +49,7 @@ redirect_from:
 
 <ins>Summer 2018: Summer Intern</ins>
 :   *IBM Turkey, Istanbul Office*
-:   Observed on the field the process of data center migration. Helped the team in various tasks.
+:   This was my first ever internship, and I value that it was *not* in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry. 
 
 ## Publications
   <ul>{% for post in site.publications %}
