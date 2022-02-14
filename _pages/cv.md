@@ -33,7 +33,7 @@ redirect_from:
 ## Professional Experience
 
 <ins>February 2022 - Present: Research Assistant</ins>
-:   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
 :   I wanted to finally at least add this one because it is finally official. Although the job title is "Research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
 
 <ins>Summer 2019 - Present: Lab Member</ins>
