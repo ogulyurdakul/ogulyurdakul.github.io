@@ -12,13 +12,15 @@ redirect_from:
  Below is my longer CV, with somewhat more comments about each item. You can find a more compact version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
 
 ## Education
-<ins>M.S. in Electrical and Electronics Engineering, 10/2021 - Ongoing</ins>
+
+<ins>M.S. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr)*
 :   *Specialization Area: Signal Processing*
+:   *CGPA: 4.00 / 4.00*
 
 <ins>B.S. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr)*
-:   *High Honour, CGPA: 3.84 / 4.00*
+:   *High Honour, CGPA: 3.86 / 4.00*
 
 <ins>B.S. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
 :   *[Middle East Technical University](https://math.metu.edu.tr)*
@@ -30,7 +32,11 @@ redirect_from:
 
 ## Professional Experience
 
-<ins>Summer 2019 - Ongoing: Lab Member</ins>
+<ins>February 2022 - Present: Research Assistant</ins>
+:   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   I wanted to finally at least add this one because it is finally official. Although the job title is "Research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
+
+<ins>Summer 2019 - Present: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
 :   I study statistical signal processing, with emphasis on particle filters and Chernoff fusion.
