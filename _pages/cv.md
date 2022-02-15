@@ -18,8 +18,9 @@ redirect_from:
 :   *Specialization Area: Signal Processing*
 :   *CGPA: 4.00 / 4.00*
 
-<ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022 (expected)</ins>
+<ins>B.Sc. in Mathematics (Double Major), 10/2017 - Present</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   *Expected Graduation: 07/2022*
 :   *High Honour, CGPA: 3.86 / 4.00*
 
 <ins>B.Sc. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
