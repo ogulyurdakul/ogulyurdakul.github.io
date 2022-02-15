@@ -14,17 +14,17 @@ redirect_from:
 ## Education
 
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
-:   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
 :   *Specialization Area: Signal Processing*
 :   *CGPA: 4.00 / 4.00*
 
 <ins>B.Sc. in Mathematics (Double Major), 10/2017 - Present</ins>
-:   *[Middle East Technical University](https://eee.metu.edu.tr)*
+:   *[Middle East Technical University, Department of Mathematics](https://math.metu.edu.tr)*
 :   *Expected Graduation: 07/2022*
 :   *High Honour, CGPA: 3.86 / 4.00*
 
 <ins>B.Sc. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
-:   *[Middle East Technical University](https://math.metu.edu.tr)*
+:   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
 :   *Specialization Area: Biomedical Engineering*
 :   *High Honour, CGPA: 3.76 / 4.00*
 
