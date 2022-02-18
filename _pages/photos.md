@@ -8,7 +8,7 @@ redirect_from:
   - /photos/
 ---
 
-![image](/images/cameraPhoto.jpg){: style="float: left; width: 250"} {% include base_path %}
+![image](/images/cameraPhoto.jpg){: style="float: left; width: 50; margin-right: 1em;"} {% include base_path %}
 
 You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
