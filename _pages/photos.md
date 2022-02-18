@@ -8,11 +8,11 @@ redirect_from:
   - /photos/
 ---
 
-[<img src="/images/cameraPhoto.jpg" width="270">](/images/cameraPhoto.jpg "Of course I brought my close-up filters today, and I couldn't help myself but take a picture of Yazgül's amazing mercimek köftesi (I swear there cannot be a true translation of this dish's name to English.).") {% include base_path %}
+![image](/images/cameraPhoto.jpg){: style="float: left"} {% include base_path %}
 
 You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-Below you can see the Flickr albums for each posted day, and click [here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of albums, formed with a more aesthetic motivation than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
+Below you can see the Flickr albums for each posted day, and [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my albums, formed with a more aesthetic motivation than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
 
 ### 07.11.2021 *A late new year's eve.*
 
