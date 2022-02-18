@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
+[<img src="/images/bio-photo.jpg" width="270">](/images/bio-photo.jpg "Of course I brought my close-up filters today, and I couldn't help myself but take a picture of Yazgül's amazing mercimek köftesi (I swear there cannot be a true translation of this dish's name to English.).") You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
 Below you can see the Flickr albums for each posted day, and click [here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of albums, formed with a more aesthetic motivation than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that if you want to use a photograph I took for any reason, please do not do so without my consent.
 
@@ -23,6 +23,8 @@ Below you can see the Flickr albums for each posted day, and click [here](https:
 </div>
 
 ### 10.12.2021 *Out after a long time.*
+
+This day was the birthday of a close friend of mine, and I decided to take my camera with me in hopes of capturing a couple of shots. It had been quite a long time since I last went out to shoot (as also evident by the dates I suppose) so I was quite eager, but I also wa
 
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72157720235712657" title="10.12.2021 Out after a long time"><img src="https://live.staticflickr.com/65535/51739836560_f892834c16.jpg" width="500" height="375" alt="10.12.2021 Out after a long time"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
