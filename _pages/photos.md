@@ -8,7 +8,7 @@ redirect_from:
   - /photos/
 ---
 
-[<img src="/images/cameraPhoto.jpg"; width="270"; float="left"; margin-right="1em">](/images/cameraPhoto.jpg "Photo Credit: Elif Leblebici.") {% include base_path %}
+[<img src="/images/cameraPhoto.jpg"; width="270"](/images/cameraPhoto.jpg "Photo Credit: Elif Leblebici.") {% include base_path %}
 
 <!-- ![image](/images/cameraPhoto.jpg){: style="float: left; width: 50; margin-right: 1em;"} -->
 
@@ -16,9 +16,9 @@ You found my photo journal! Here I intend to share some pictures I take as I ret
 
 Below you can see the Flickr albums for each posted day, and [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my albums, formed with a more aesthetic motivation than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
 
-### 07.11.2021 *A late new year's eve.*
+### 08.01.2022 *A late new year's eve.*
 
-That night is my first one out after my lovely COVID quarantine, <abbr title="The introvert in me was delighted.">which also wonderfully covered the new year's eve as well</abbr>. 
+As the whole <abbr title="The group of people I practice aikido with.">dojo</abbr> we had planned a new year's party but it had to be cancelled due to multiple people getting the COVID (one of which was me), so we postponed it to January, and these are from that night. That night wass my first one out after my lovely COVID quarantine, <abbr title="The introvert in me was delighted.">which also wonderfully covered the new year's eve as well</abbr>. I was quite trigger happy, and took lots and lots of pictures, which I love. They are not here, however, 
 
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720295902874" title="08.01.2022 - A late new year&#x27;s eve"><img src="https://live.staticflickr.com/65535/51815820961_c0eb4d7bed.jpg" width="500" height="375" alt="08.01.2022 - A late new year&#x27;s eve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
