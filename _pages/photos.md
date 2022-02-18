@@ -8,7 +8,7 @@ redirect_from:
   - /photos/
 ---
 
-[<img src="/images/cameraPhoto.jpg" width="270">](/images/cameraPhoto.jpg "Photo Credit: Elif Leblebici.") {% include base_path %}
+[<img src="/images/cameraPhoto.jpg" width="270" float="left">](/images/cameraPhoto.jpg "Photo Credit: Elif Leblebici.") {% include base_path %}
 
 <!-- ![image](/images/cameraPhoto.jpg){: style="float: left; width: 50; margin-right: 1em;"} -->
 
