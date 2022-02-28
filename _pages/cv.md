@@ -36,6 +36,7 @@ redirect_from:
 <ins>February 2022 - Present: Research Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
 :   I wanted to finally at least add this one because it is finally official. Although the job title is "Research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
+:   For Spring 2021-2022, I will be responsible for [EE230](https://catalog.metu.edu.tr/course.php?course_code=5670230) and [EE306](https://catalog.metu.edu.tr/course.php?course_code=5670306).
 
 <ins>Summer 2019 - Present: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
