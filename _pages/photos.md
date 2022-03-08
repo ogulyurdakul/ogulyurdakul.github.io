@@ -15,7 +15,7 @@ Below you can see the Flickr albums for each posted day, and you can [click here
 
 ### 20.02.2022 *Not really an entry.*
 
-[<img src="/images/analog.jpg" style="float: left; width: 35%; margin-right: 1em;">](/images/analog.jpg "The old(est) champ, photographed by the (hopefully) soon-to-be old champ.") This is not a real entry as in I will be showcasing some photos I took, but a camera I took from my father. So far I have been using my father's Nikon D200 but hopefully in a few months, I will have my own (digital) camera. Until then, instead of continuing with the D200, I decided to try some analog photography, to learn putting some more thought into the photos before I capture (I took the one on the right in more than 10 tries, for example). Also, maybe I will develop the whole romanticism or a deeper appreciation for analog photography in the meantime.
+[<img src="/images/analog.jpg" style="float: left; width: 35%; margin-right: 1em;">](/images/analog.jpg "The old(est) champ, photographed by the (hopefully) soon-to-be old champ.") This is not a real entry as in I am not showcasing some photos I took, but a camera I took from my father. So far I have been using my father's Nikon D200 but hopefully in a few months, I will have my own (digital) camera. Until then, instead of continuing with the D200, I decided to try some analog photography to learn putting some more thought into the photos before I capture (I took the one on the right in more than 10 tries, for example) and balance the trade-off of not freezing with anxiety with my finger at the shutter not taking any pictures. Also, maybe I will develop the whole romanticism or a deeper appreciation for analog photography in the meantime.
 
 ### 08.01.2022 *A late new year's eve.*
 
