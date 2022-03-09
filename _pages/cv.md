@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- Below is my longer CV, with somewhat more comments about each item. You can find a more compact version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
+ Below is my unofficial CV, with my comments about each item. You can find a more official version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
 
 ## Education
 
