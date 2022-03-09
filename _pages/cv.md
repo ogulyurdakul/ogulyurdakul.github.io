@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Commented CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- Below is my unofficial CV, with my comments about each item. You can find a more official version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
+Below is my somewhat unofficial CV, with my comments about each item. You can find a more official version as a PDF [here](/files/OgulCanYurdakul_shortCV.pdf).
 
 ## Education
 
