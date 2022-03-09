@@ -13,7 +13,7 @@ I'm Oğul! I'm currently an M.Sc. student of Electrical and Electronics Engineer
 
 Here's a brief abstract of what you can find out about me on this website:
 
-- You can find a somewhat more explained and extended [CV](/cv).
+- You can find a [commented CV](/cv) of mine.
 - I don't have many [publications](/publications) yet, but I'm hoping that list will grow as I do.
 - You can find my [cheat sheets](/cheat-sheets) on various topics if you're interested in those.
 - I have a page for my [not-necessarily-academic interests and activities](/side-gigs).
