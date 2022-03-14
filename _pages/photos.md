@@ -16,6 +16,16 @@ redirect_from:
 
 Below you can see the Flickr albums for each posted day, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my albums, formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
 
+---
+
+### 03.03.2022 *A challenge.*
+
+
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720297339954" title="03.03.2022 A challenge"><img src="https://live.staticflickr.com/65535/51937503044_c6cfbaefee.jpg" width="500" height="375" alt="03.03.2022 A challenge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 ### 20.02.2022 *Not really an entry.*
 
 [<img src="/images/analog.jpg" style="float: left; width: 35%; margin-right: 1em;">](/images/analog.jpg "The old(est) champ, photographed by the (hopefully) soon-to-be old champ.") This is not a real entry as in I am not showcasing some photos I took, but a camera I took from my father. So far I have been using my father's Nikon D200 but hopefully in a few months, I will have my own (digital) camera. Until then, instead of continuing with the D200, I decided to try some analog photography to learn putting some more thought into the photos before I capture (I took the one on the right in more than 10 tries, for example) and balance the trade-off of not freezing with anxiety with my finger at the shutter not taking any pictures. Also, maybe I will develop the whole romanticism or a deeper appreciation for analog photography in the meantime.
