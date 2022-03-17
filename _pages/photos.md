@@ -14,13 +14,13 @@ redirect_from:
 
 [<img src="/images/cameraPhoto.jpg" style="float: left; width: 25%; margin-right: 1em;">](/images/cameraPhoto.jpg "Me, not so professionally. Photo Credit: Elif Leblebici.") You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-Below you can see the Flickr albums for each posted day, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my albums, formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
+Below you can see the Flickr albums for each posted day, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my other Flickr albums formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
 
 ---
 
 ### 03.03.2022 *A challenge.*
 
-
+My friend Oğuzhan (in both pictures) from aikido has asked me to take a couple of pictures of him as a silhouette, both as an aikido memory and also I believe for a project. I got interested because this was one of the first times I got to *make* the photo I am taking, instead of finding it wild in the world, so to speak. We combined 4 cellphone/tablet flashes to create a tiny light source of our own behind Oğuzhan, as we took the picture after practice in the evening. A mistake on my end was to put all of the flashes in one spot: I suspect having them spread around behind could have produced a more visible shadow. This was also one of the first times I tried operating a camera I didn't really know (Canon EOS 600D), and it was frustrating figuring out where everything is. (Why does it only have a single dial? I kept searching for a second one!)
 
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720297339954" title="03.03.2022 A challenge"><img src="https://live.staticflickr.com/65535/51937503044_c6cfbaefee.jpg" width="500" height="375" alt="03.03.2022 A challenge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
