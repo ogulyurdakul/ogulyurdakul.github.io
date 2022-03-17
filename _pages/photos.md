@@ -8,7 +8,7 @@ redirect_from:
   - /photos/
 ---
 
-[<img src="/images/cso.jpg" style="width: 100%;">](/images/cso.jpg "I went to the CSO hall to take pictures of the rehearsal, but stayed for the music. Photo Credit: Murat Selam.")
+<!-- [<img src="/images/cso.jpg" style="width: 100%;">](/images/cso.jpg "I went to the CSO hall to take pictures of the rehearsal, but stayed for the music. Photo Credit: Murat Selam.") -->
 
 {% include base_path %}
 
