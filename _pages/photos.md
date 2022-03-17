@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-nosidebar
 title: "Photo Journal"
 permalink: /photo-journal/
 author_profile: false
