@@ -15,6 +15,11 @@ Photography is actually an old hobby of mine: I started learning about it at aro
 
 I started practicing aikido in 2019 at [METU Aikido Society](https://www.odtuaikido.org/en/main-page/) under Utku Havuç, following the school of [Tamura Shihan](https://www.odtuaikido.org/en/tamura-sensei-en/) and his student [Nebi Vural Sensei](http://www.nebivural.com/). Although at the time I couldn't practice as often as I wanted to, I started regularly practising again, starting with the pandemic (safely, of course, over Zoom using our weapons). Recently as the COVID-19 prohibitions are relaxed by the government, I have started practising (actual physical training this time) at [Katsu Dojo](https://www.katsuankara.com/){:target= "_blank"}, again under Utku Havuç.
 
+Here are the exams I have passed previously:
+- 4th Kyu on 13th of December, 2020
+- 3rd Kyu on ??
+- 2nd Kyu on 26th of March, 2022
+
 ## Translation
 
 I am hesitant to call myself a "translator", but I think I can do so by calling myself an "*amateur* translator". I mostly translate English content to Turkish, although in the future, I would like to translate works in French to Turkish and translate Turkish content *to* English and French as well. 
