@@ -12,6 +12,9 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 
 **If you find a typo, or more dangerously outright false information, please reach out to me at [yurdakul.ogulcan@gmail.com](mailto:yurdakul.ogulcan@gmail.com), and I will fix the document as quickly as I can.**
 
+## General
+- [Living With MATLAB](/matlab)
+
 ## Electrical and Electronics Engineering
 - [EE416 Biomedical Signals, Instrumentation and Measurement (Spring 2019-2020)](/files/EE416CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (This one has some missing parts but I believe it still covers quite some ground, so I think it's good to share.)
 
