@@ -18,7 +18,7 @@ I started practicing aikido in 2019 at [METU Aikido Society](https://www.odtuaik
 Here are the exams I have passed previously:
 - 4th Kyu on 13th of December, 2020
 - 3rd Kyu on ??
-- 2nd Kyu on 26th of March, 2022
+- 2nd Kyu on 9th of April, 2022
 
 ## Translation
 
