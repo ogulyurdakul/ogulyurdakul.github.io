@@ -20,8 +20,8 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 - [EE416 Biomedical Signals, Instrumentation and Measurement (Spring 2019-2020)](/files/EE416CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (This one has some missing parts but I believe it still covers quite some ground, so I think it's good to share.)
 
 ## Mathematics
-- [MATH262 Linear Algebra II (Spring 2020-2021)](/files/MATH262CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
-- MATH320 Set Theory (Spring 2018-2019): *Coming, just one midterm is missing. I'll have to complete that and compile everything as a single document.*
+- [MATH262 Linear Algebra II (Spring 2020-2021)](/files/MATH262CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (Hand-written)
+- [MATH320 Set Theory (Spring 2018-2019)](/files/MATH320CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - [MATH367 Abstract Algebra (Fall 2020-2021)](/files/MATH367CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - [MATH406 Introduction to Mathematical Logic and Model Theory (Spring 2019-2020)](/files/MATH406CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 - [MATH422 Elementary Geometric Topology (Spring 2020-2021)](/files/MATH422CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
