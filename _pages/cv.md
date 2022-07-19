@@ -34,8 +34,8 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 <ins>February 2022 - Present: Research Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
-:   I wanted to finally at least add this one because it is finally official. Although the job title is "Research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
-:   During Spring 2021-2022, I was be responsible for [EE230](https://catalog.metu.edu.tr/course.php?course_code=5670230) and the updated [EE306](https://catalog.metu.edu.tr/course.php?course_code=5670306).
+:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
+:   During Spring 2021-2022, I was responsible for [EE230](https://catalog.metu.edu.tr/course.php?course_code=5670230) and the updated [EE306](https://catalog.metu.edu.tr/course.php?course_code=5670306).
 
 <ins>Summer 2019 - Present: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
@@ -51,20 +51,37 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   *IBM Turkey, Istanbul Office*
 :   This was my first ever internship, and I value that it was *not* in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry. 
 
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 ## Leadership and Teaching Experience
 
 <ins>July 2021: Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA ([Certificate](/files/NMA_TA_Certificate.pdf))*
 :   Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
+:   Here's a [Twitter thread on a funny incident](https://twitter.com/ogulyurdakul/status/1420058847289516035?s=20&t=EkKAiZHDh7fJ4JEoGzkDHg) I went through at the end of my TAship this year.
 
 <ins>Fall 2018 & Spring 2020: Part-Time Student Assistant</ins>
 :   *METU Department of Mathematics*
 :   I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.
+
+## Organizations, Trainings & Others
+
+<ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
+:   I was responsible for the acquisition and organization of work offers from around Ankara for IAESTE LC METU, trained newcomers on company relations, and hosted the incoming interns.
+
+<ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
+:   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data. 
+:   NMA became a cornerstone in defining my scientist-to-be, with its inclusivity and commitment to open science. At the end of these three weeks, I was already keen on remaining a part of NMA, somehow.
+
+<ins>Fall 2019: Instructor for Mathematics Workshop</ins>
+:   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/side-gigs/#maths-workshop).
+
+<ins>05/2017 – 05/2018: Team Leader and Director of Communications for [TEDxMETUAnkara 2017 "Grand Illusions"](https://www.ted.com/tedx/events/25058)</ins>
+:   I booked speakers and worked with them on their speeches and was responsible for the overall operations of the event. I also designed and managed [the event website](https://www.tedxmetuankara.com) on Wix. More in [side gigs](/side-gigs/#tedxmetuankara).
+
+## Publications
+I suppose a CV has to contain a this section, so for completeness sake, here is a list of publication(s, hopefully).
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Languages
 
@@ -72,6 +89,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   *Turkish (Native)*
 :   *English (Proficient)*
 :   *French (Intermediate)*
+:   *Latin (Aspiring beginner for absolutely no reason at all)*
 
 <ins>Formal:</ins>
 :   *MATLAB (Experienced)*
@@ -81,16 +99,6 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   *C (Took my mandatory programming course in it, did not like it. I only use it if I have to, meaning when I'm using an Arduino board.)*
 :   and various other languages I learned at one point but did not dwell on too much, such as R and C++.
 
-
-## Organizations, Trainings & Others
-
-<ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
-
-<ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
-:   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
-
-<ins>Fall 2019: Instructor for Mathematics Workshop</ins>
-:   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/side-gigs/#maths-workshop).
 <!-- : I -->
 
 See [side gigs](/side-gigs) for more.

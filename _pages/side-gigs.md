@@ -50,6 +50,7 @@ The two most valuable lessons I learned is that
 
 In the end, I learned a lot and had a lot of fun. We had to stop because of the pandemic at one point, and so I couldn't cover as much ground as I wanted to. It's been quite some time since then, and recently I talked with the school to do the workshop online. I will certainly tread more carefully this time if I start doing the workshops again: It will take a lot more work and require a lot more planning, but I feel like it will be worth it in the end.
 
+<a id="tedxmetuankara">
 ## TEDxMETUAnkara
 
 I booked speakers and worked with them on their speeches and was responsible for the overall operations of TEDxMETUAnkara 2017 "Grand Illusions". I also designed and managed the event [website](https://www.tedxmetuankara.com) on Wix.
