@@ -16,12 +16,11 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
 :   *Specialization Area: Signal Processing*
-:   *CGPA: 4.00 / 4.00*
+:   *CGPA: 3.90 / 4.00*
 
-<ins>B.Sc. in Mathematics (Double Major), 10/2017 - Present</ins>
+<ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022</ins>
 :   *[Middle East Technical University, Department of Mathematics](https://math.metu.edu.tr)*
-:   *Expected Graduation: 07/2022*
-:   *High Honour, CGPA: 3.86 / 4.00*
+:   *High Honour, CGPA: 3.87 / 4.00*
 
 <ins>B.Sc. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
@@ -36,13 +35,12 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 <ins>February 2022 - Present: Research Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
 :   I wanted to finally at least add this one because it is finally official. Although the job title is "Research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
-:   For Spring 2021-2022, I will be responsible for [EE230](https://catalog.metu.edu.tr/course.php?course_code=5670230) and [EE306](https://catalog.metu.edu.tr/course.php?course_code=5670306).
+:   During Spring 2021-2022, I was be responsible for [EE230](https://catalog.metu.edu.tr/course.php?course_code=5670230) and the updated [EE306](https://catalog.metu.edu.tr/course.php?course_code=5670306).
 
 <ins>Summer 2019 - Present: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
 :   I study statistical signal processing, with emphasis on particle filters and Chernoff fusion.
-<!-- I am currently working on the problem of multiplying distributions approximated by a particle filter. -->
 
 <ins>Summer 2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
