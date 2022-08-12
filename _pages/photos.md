@@ -26,9 +26,13 @@ My friend Oğuzhan (in both pictures) from aikido has asked me to take a couple 
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720297339954" title="03.03.2022 A challenge"><img src="https://live.staticflickr.com/65535/51937503044_c6cfbaefee.jpg" width="500" height="375" alt="03.03.2022 A challenge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+---
+
 ### 20.02.2022 *Not really an entry.*
 
 [<img src="/images/analog.jpg" style="float: left; width: 35%; margin-right: 1em;">](/images/analog.jpg "The old(est) champ, photographed by the (hopefully) soon-to-be old champ.") This is not a real entry as in I am not showcasing some photos I took, but a camera I took from my father. So far I have been using my father's Nikon D200 but hopefully in a few months, I will have my own (digital) camera. Until then, instead of continuing with the D200, I decided to try some analog photography to learn putting some more thought into the photos before I capture (I took the one on the right in more than 10 tries, for example) and balance the trade-off of not freezing with anxiety with my finger at the shutter not taking any pictures. Also, maybe I will develop the whole romanticism or a deeper appreciation for analog photography in the meantime.
+
+---
 
 ### 08.01.2022 *A late new year's eve.*
 
@@ -37,6 +41,8 @@ As the whole <abbr title="The group of people I practice aikido with.">dojo</abb
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720295902874" title="08.01.2022 - A late new year&#x27;s eve"><img src="https://live.staticflickr.com/65535/51815820961_c0eb4d7bed.jpg" width="500" height="375" alt="08.01.2022 - A late new year&#x27;s eve"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+---
 
 ### 10.12.2021 *Out after a long time.*
 
@@ -48,6 +54,8 @@ On the other hand, I feel like the two pictures of Elif I took this day are real
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72157720235712657" title="10.12.2021 Out after a long time"><img src="https://live.staticflickr.com/65535/51739836560_f892834c16.jpg" width="500" height="375" alt="10.12.2021 Out after a long time"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+---
+
 ### 07.11.2021 *The last week of the photography course, Sunday.*
 
 Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter. 
@@ -55,6 +63,8 @@ Today was the only day I could join an actual outdoor photo shoot with the cours
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720151088597" title="07.11.2021: The last week of the photography course, Sunday."><img src="https://live.staticflickr.com/65535/51679010504_9783afd520.jpg" width="500" height="375" alt="07.11.2021: The last week of the photography course, Sunday."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+---
 
 <!-- [<img src="/images/photoJournal/2021-11-07/01marul.jpg" width="270">](/images/photoJournal/2021-11-07/01marul.jpg "Of course I brought my close-up filters today, and I couldn't help myself but take a picture of Yazgül's amazing mercimek köftesi (I swear there cannot be a true translation of this dish's name to English.).") 
 [<img src="/images/photoJournal/2021-11-07/02bug.jpg" width="270">](/images/photoJournal/2021-11-07/02bug.jpg "Another close-up picture. This guy landed on our table when we were drinking tea outside before the shoot, so I think it practically volunteered to be photographed. I have so many pictures of this bug, but many of them are focused on the wrong spot and with a depth of field this narrow, I always managed to make its face blurry. This is the only one I can salvage, and I think it is not half-bad after all.") 
@@ -79,6 +89,8 @@ We were supposed to go on a photo shoot today but we didn't due to the cold weat
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720193452565" title="06.11.2021 The last week of the photography course, Saturday."><img src="https://live.staticflickr.com/65535/51678590758_b3b6ebafbc.jpg" width="500" height="375" alt="06.11.2021 The last week of the photography course, Saturday."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+---
+
 <!-- [<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet him. There was just no making sense of him, and I love that.") 
 [<img src="/images/photoJournal/2021-11-06/proof.jpg" width="120">](/images/photoJournal/2021-11-06/proof.jpg "I had to take this one, I just had to. I'll take a look at it whenever I'm having trouble with a proof, and make myself another cup of coffee. (Credit: I think the sign belongs to Arabica Coffee House.)")  -->
 
@@ -90,6 +102,8 @@ On Saturday I was keen on going to the book fair and taking pictures, but it was
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720144207756" title="30-31.10.2021 The third week of the photography course."><img src="https://live.staticflickr.com/65535/51678591133_47499a60fd.jpg" width="500" height="375" alt="30-31.10.2021 The third week of the photography course."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+---
 
 <!-- [<img src="/images/photoJournal/2021-10-3031/garaveleye.jpg" width="270">](/images/photoJournal/2021-10-3031/garaveleye.jpg "First close-up filter trial and also my first black-and-white photograph.") 
 [<img src="/images/photoJournal/2021-10-3031/drop1.jpg" width="320">](/images/photoJournal/2021-10-3031/drop1.jpg "It had rained the morning of Sunday and I had taken the close-up filters from my father, so I had to find some drops on leaves to take pictures of.") 
@@ -103,6 +117,8 @@ I didn't really have much to do today, so I chose to do nothing at the office (e
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720193445830" title="29.10.2021: Alone at the office."><img src="https://live.staticflickr.com/65535/51678591508_1e44aedb74.jpg" width="500" height="375" alt="29.10.2021: Alone at the office."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+---
+
 <!-- [<img src="/images/photoJournal/2021-10-29/leaf1.jpg" width="270">](/images/photoJournal/2021-10-29/leaf1.jpg "Office plant.") 
 [<img src="/images/photoJournal/2021-10-29/leaf2.jpg" width="270">](/images/photoJournal/2021-10-29/leaf2.jpg "Office plan 2.") 
 [<img src="/images/photoJournal/2021-10-29/dim.jpg" width="270">](/images/photoJournal/2021-10-29/dim.jpg "Office lamp.") 
@@ -115,6 +131,8 @@ I only have the first picture from the actual course, though, and the rest are f
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720138541943" title="23.10.2021: The second week of the photography course."><img src="https://live.staticflickr.com/65535/51679222125_a24c29bdbf.jpg" width="500" height="375" alt="23.10.2021: The second week of the photography course."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+---
 
 <!-- [<img src="/images/photoJournal/2021-10-23/mug.jpg" width="270">](/images/photoJournal/2021-10-23/mug.jpg "The only one I took at the course. I liked how the frame was black-and-white by itself, and also the narrow depth of field (yup that's it).") 
 [<img src="/images/photoJournal/2021-10-23/vignette.jpg" width="120">](/images/photoJournal/2021-10-23/vignette.jpg "I have always liked compositions that are 'self-framed!, so I couldn't resist the urge to take this one when I saw it.") 
