@@ -21,7 +21,7 @@ Below you can see the Flickr albums for each posted day, and you can [click here
 ### *Roll #1* An introduction to film photography
 
 <div align="center">
-  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720301251804" title="Roll #1"><img src="https://live.staticflickr.com/65535/52280846401_e351af044a.jpg" width="640" height="480" alt="Roll #1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720301251804" title="Roll #1"><img src="https://live.staticflickr.com/65535/52280846401_e351af044a.jpg" width="500" height="375" alt="Roll #1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 ---
