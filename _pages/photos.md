@@ -18,6 +18,14 @@ Below you can see the Flickr albums for each posted day, and you can [click here
 
 ---
 
+### *Roll #1* An introduction to film photography
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720301251804" title="Roll #1"><img src="https://live.staticflickr.com/65535/52280846401_e351af044a.jpg" width="640" height="480" alt="Roll #1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+---
+
 ### 03.03.2022 *A challenge.*
 
 My friend Oğuzhan (in both pictures) from aikido has asked me to take a couple of pictures of him as a silhouette, both as an aikido memory and also I believe for a project. I got interested because this was one of the first times I got to *make* the photo I am taking, instead of finding it wild in the world, so to speak. We combined 4 cellphone/tablet flashes to create a tiny light source of our own behind Oğuzhan, as we took the picture after practice in the evening. A mistake on my end was to put all of the flashes in one spot: I suspect having them spread around behind could have produced a more visible shadow. This was also one of the first times I tried operating a camera I didn't really know (Canon EOS 600D), and it was frustrating figuring out where everything is. (Why does it only have a single dial? I kept searching for a second one!)
