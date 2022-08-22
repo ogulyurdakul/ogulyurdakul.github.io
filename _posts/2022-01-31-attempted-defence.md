@@ -24,7 +24,7 @@ Before we proceed further, let's take a look at some crude schematics of the rel
 <p float="left" align="middle">
   <img src="/images/attempted_defence/noqualia_original.png" width="45%" />
   <img src="/images/attempted_defence/noqualia_operated.png" width="45%" />
-  Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).
+  <br> *Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).*
 </p>
 
 ## 2.1. The Crazy Neurosurgeon
