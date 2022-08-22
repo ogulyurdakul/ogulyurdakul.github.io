@@ -24,7 +24,7 @@ Before we proceed further, let's take a look at some crude schematics of the rel
 <p float="left" align="middle">
   <img src="/images/attempted_defence/noqualia_original.png" width="45%" />
   <img src="/images/attempted_defence/noqualia_operated.png" width="45%" />
-  <br> *Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).*
+  <br> <em>Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).</em>
 </p>
 
 ## 2.1. The Crazy Neurosurgeon
@@ -40,7 +40,11 @@ Before we proceed further, let's take a look at some crude schematics of the rel
 # References
 
 AsapSCIENCE. (2016). *You can't see this (mind tricks).* YouTube. Retrieved from https://www.youtube.com/watch?v=0NPH_udOOek
+
 Hofstadter, D. (1999). *Gödel, Escher, Bach: An Eternal Golden Braid.* Basic Books.
+
 Kim, J. (2011). *Philosophy of Mind.* Westview Press.
+
 Lorenz, E. (1979). *Predictability: Does the Flap of a Butterfly Wings in Brazil Set off a Tornado in Texas?* Proceedings American Association for the Advancement of Science in Washington.
+
 May, R. M. (2004). *Simple Mathematical Models with Very Complicated Dynamics*, 85--93. Retrieved from https://doi.org/10.1007/978-0-387-21830-4_7 doi: 10.1007/978-0-387-21830-4_7
