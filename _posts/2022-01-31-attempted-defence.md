@@ -22,8 +22,9 @@ with my newly rewired brain and relocate me to my bed.
 Before we proceed further, let's take a look at some crude schematics of the relevant neural circuitry of my brain, as shown in Figure 1. Originally, the relative sensory inputs go to their relative neural circuits and through their computations cause appropriate behavioural output, as depicted in Figure 1a. After the operation because both the inputs and the outputs are crossed as shown in Figure 1b. The inputs cause the wrong neural circuit to activate, but these activations still cause appropriate behaviour.* From here on, I will use the terms neural circuits that implement various functional states as boxes for simplicity just like Kim: The pain receptors trigger the Pain Box which produces pain behaviour, and vice versa. The terms "neural circuit" and "box" wil be used interchangeably.
 
 <p float="left" align="middle">
-  <img src="/images/attempted_defence/noqualia_original.png" width="49%" />
-  <img src="/images/attempted_defence/noqualia_operated.png" width="49%" />
+  <img src="/images/attempted_defence/noqualia_original.png" width="45%" />
+  <img src="/images/attempted_defence/noqualia_operated.png" width="45%" />
+  Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).
 </p>
 
 ## 2.1. The Crazy Neurosurgeon
