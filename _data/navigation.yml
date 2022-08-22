@@ -25,5 +25,5 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Whatnot"
-  #   url: /whatnot/
+  - title: "Blog: Whatnot"
+    url: /whatnot/
