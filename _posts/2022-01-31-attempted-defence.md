@@ -27,7 +27,7 @@ Before we proceed further, let's take a look at some crude schematics of the rel
 <p float="left" align="middle">
     <img src="/images/attempted_defence/noqualia_original.png" width="45%" />
     <img src="/images/attempted_defence/noqualia_operated.png" width="45%" />
-    <br> <em>Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).</em>
+    <br> <em size="-1">Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).</em>
 </p>
 
 Now, what happens when I wake up in the morning and hit my pinky toe to the side of my bed frame? Following the schematic in Figure 1b, I would act appropriately on the outside: Most likely curse and start jumping on one leg. How about on the inside? What would be my subjective experience with my post-operation brain?
@@ -40,6 +40,13 @@ This is the main point of challenge for the thought experiment, as it creates a 
 On a tangent, let's take a closer look at how the neurosurgeon's method during the operation. At first glance, we may believe that the neurosurgeon would follow the causal chain forwards from the inputs on: Trace the pain receptors and the intermediary neurons they trigger, and the neurons that they trigger and so on. It is clear that such a tracing would be fruitless. Even if the neurosurgeon encounters the neural circuitry that implements, say, the pain mental state and eventually its output behaviour, they would be unable to isolate them from other neural circuitry dur to the immense connectivity of the human brain. The result of such a forward causal tracing would most likely yield a significant portion of the human brain as these neurons have the potential to trigger many other neurons, most of which most likely not significantly relevant to pain (or any other function we are interested in), if at all. So, asking "Which neurons can these pain receptors eventually fire?" is not sufficient in determining the neural circuitry that is the Pain Box. Let's call this first question as Q1.
 
 What may be a solution to this? I say the neurosurgeon must follow a second, *backwards* causal route as well. Starting from the outputs, which are the appropriate motor neurons, the neurosurgeon follows the causal network (on its implementation, that is) in the backwards direction. This analysis yields all the neural circuitry that has the potential to cause such behaviour, so the question this time becomes "Which neurons can eventually cause these motor neurons to fire?" Let's call this question Q2. Similarly to the forwards tracing case, this analysis would point to an immensely large section of the human nervous system. But this time, the neurosurgeon also has the forwards tracing data. Intersecting the two sets of neurons yielded by the two questions and effectively asking "Which neurons fire due to the firing of these pain receptors and cause these motor neurons to  ire?", the candidate neurons would be to those linking the pain receptors to the lying on a directed path from the appropriate inputs, to the appropriate output, reducing their numbers.
+
+<p float="left" align="middle">
+    <img src="/images/attempted_defence/samplecausal.jpeg" width="45%" />
+    <br> <em size="-1">Figure 2: A sample neural network, with arrows indicating causation of firing. The triangle is an input neuron (e.g. firing of pain receptors), the square is an output neuron (e.g. firing of motor neurons), and the disks are intermediary neurons. The curved arrows indicate long causal links through several states. </em>
+</p>
+
+Is the combination of these two questions enough? Let us play the role of the neurosurgeon with the sample neural network given in Figure 2 to discover the neural circuitry (the box) of a  certain function that occurs upon the activation of the triangle neurons and ends with the activation of the neurons (representing behaviour) indicated by the square neurons. The intersection of the answers to Q1 and Q2 give us the purple intermediary neurons, but the question as to which of those are essential in describing the phenomenon remains. There appears two be three choices of neural circuitry indicated with roman numerals on the figure: One directly through the three neurons without any loop (I), one with a relatively short loop (II), and one with a long loop (III). Which one should we go for to identify the "box" we are looking for?
 
 ## 2.3. Objections
 
