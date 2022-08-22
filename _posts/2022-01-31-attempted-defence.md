@@ -116,7 +116,7 @@ Nonetheless, I hope I could convince the reader that the separation of a mental 
 
 # Notes
 
-1. <a id="footnotetext1"> One might object by questioning how such a criss-crossing is even possible, how either box does not go haywire to produce nonsensical outputs. On the other hand, the figure depicts the two behaviours to be different outputs, whereas they could be the activation of the same physical system, such as the retraction of the hand when it is cut (pain) or when it is stung by a stinging needle (itch). I will not be dealing with such details. Although I suspect they could serve for other meaningful bases for objection, these would not be relevant to my current objections. [Back up](/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotemark1)
+1. <a id="footnotetext1"></a> One might object by questioning how such a criss-crossing is even possible, how either box does not go haywire to produce nonsensical outputs. On the other hand, the figure depicts the two behaviours to be different outputs, whereas they could be the activation of the same physical system, such as the retraction of the hand when it is cut (pain) or when it is stung by a stinging needle (itch). I will not be dealing with such details. Although I suspect they could serve for other meaningful bases for objection, these would not be relevant to my current objections. [Back up](/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotemark1)
 
 # References
 
