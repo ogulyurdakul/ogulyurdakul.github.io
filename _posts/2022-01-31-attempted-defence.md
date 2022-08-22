@@ -9,7 +9,7 @@ tags:
 ---
 
 <div align="center">
-    # 1. Introduction
+# 1. Introduction
 </div>
 
 The functionalist conception of the human mind models it as a set of states characterized by causal roles, where each state can be caused by sensations and cause behaviour, as well as play a causal role in the activation of other states (Kim, 2011). The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon. In this essay, I offer a way out of this challenge within the functionalist framework. Firstly in Section 2, I present the thought experiment and take a close look at the methodological aspects. Then in Section 2.c, I expose the faults in the line of thinking of the experiment. In Section 3 I present my solution to the challenge posed by the experiment, with its properties and their motivations. Finally, in Section 4, I summarize my ideas and criticize them myself.
