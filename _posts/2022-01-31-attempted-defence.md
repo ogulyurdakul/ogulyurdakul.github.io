@@ -8,6 +8,14 @@ tags:
   - past work
 ---
 
+<!-- The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon.
+
+The experiment as-is seems to be working because we are falsely attributing qualia to the patient, e.g. based on empathy, when the only authority on such claims can be the patient. While we believe the dispositional and qualitative aspects of a mental state may reside in a single state, splitting them into two causally interacting yet different mental states solves the problem. The qualitative states are responsible for the quale of phenomena, while the dispositional states are directly responsible for producing behaviour. The two kinds of mental states causally interact, but the qualitative states can only influence behaviour through their dispositional counterparts. Then, the neurosurgeon would be unable to figure out the implementations of the qualitative states within the causal structure via experimentation, as such qualitative states are behaviourally undiscoverable. Therefore, the neurosurgeon would unknowingly switch the qualitative states during the operation. The patient would experience the appropriate qualia post-operation, the difference being the implementations of the pain and itch dispositional states.
+
+This distinction between dispositional and qualitative mental states explains various observations. The claim that qualitative states have causal effects on their dispositional counterparts can explain visual illusions, e.g. the blind spot in our visual stream due to the lack of photoreceptors on the entry point of the optic nerve to the eye. While we may discover this blind spot through experimentation, we never realize it ourselves, pointing towards a modification of the visual inputs to produce our experiences and dispositions in visual judgements. This causal power on the dispositional states implies recursive causation between the dispositional and qualitative states, which can explain the inexplicable nature of qualia given that the process is chaotic, rendering it unpredictable yet deterministic.
+
+This approach suggests a difference between mental states/qualia in general and their implementations in a particular physical system. The causal rules describing the qualitative state is shared across implementations, but any difference in physical conditions leads to unpredictable/inexplicable behaviour. Knowing the causal mechanism producing qualia is insufficient to predict its physical realizations because of the process's sensitive dependence on initial conditions, i.e. its chaotic nature. -->
+
 <div align="center">
     <h1>1. Introduction</h1>
 </div>
