@@ -78,7 +78,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   I booked speakers and worked with them on their speeches and was responsible for the overall operations of the event. I also designed and managed [the event website](https://www.tedxmetuankara.com) on Wix. More in [side gigs](/whatnot/2022/00/side_gigs/#tedxmetuankara).
 
 ## Publications
-I suppose a CV has to contain a this section, so for completeness sake, here is a list of publication(s, hopefully).
+I suppose a CV has to contain this section. So, for completeness sake, here is a list of publication(s, hopefully).
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
