@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Side Gigs"
-permalink: /side-gigs/
+permalink: /side-gigss/
 redirect_from:
 ---
 
