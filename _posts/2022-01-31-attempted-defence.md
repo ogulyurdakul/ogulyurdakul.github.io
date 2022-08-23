@@ -8,25 +8,11 @@ tags:
   - past work
 ---
 
-*The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon.*
-
-*The experiment as-is seems to be working because we are falsely attributing qualia to the patient, e.g. based on empathy, when the only authority on such claims can be the patient. While we believe the dispositional and qualitative aspects of a mental state may reside in a single state, splitting them into two causally interacting yet different mental states solves the problem. The qualitative states are responsible for the quale of phenomena, while the dispositional states are directly responsible for producing behaviour. The two kinds of mental states causally interact, but the qualitative states can only influence behaviour through their dispositional counterparts. Then, the neurosurgeon would be unable to figure out the implementations of the qualitative states within the causal structure via experimentation, as such qualitative states are behaviourally undiscoverable. Therefore, the neurosurgeon would unknowingly switch the qualitative states during the operation. The patient would experience the appropriate qualia post-operation, the difference being the implementations of the pain and itch dispositional states.*
-
-*This distinction between dispositional and qualitative mental states explains various observations. The claim that qualitative states have causal effects on their dispositional counterparts can explain visual illusions, e.g. the blind spot in our visual stream due to the lack of photoreceptors on the entry point of the optic nerve to the eye. While we may discover this blind spot through experimentation, we never realize it ourselves, pointing towards a modification of the visual inputs to produce our experiences and dispositions in visual judgements. This causal power on the dispositional states implies recursive causation between the dispositional and qualitative states, which can explain the inexplicable nature of qualia given that the process is chaotic, rendering it unpredictable yet deterministic.*
-
-*This approach suggests a difference between mental states/qualia in general and their implementations in a particular physical system. The causal rules describing the qualitative state is shared across implementations, but any difference in physical conditions leads to unpredictable/inexplicable behaviour. Knowing the causal mechanism producing qualia is insufficient to predict its physical realizations because of the process's sensitive dependence on initial conditions, i.e. its chaotic nature.*
-
-<!-- <div align="center">
-    <h2>1. Introduction</h2>
-</div> -->
-
-## 1. Introduction<
+## 1. Introduction
 
 The functionalist conception of the human mind models it as a set of states characterized by causal roles, where each state can be caused by sensations and cause behaviour, as well as play a causal role in the activation of other states (Kim, 2011). The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon. In this essay, I offer a way out of this challenge within the functionalist framework. Firstly in Section 2, I present the thought experiment and take a close look at the methodological aspects, then expose the faults in the line of thinking of the experiment. In Section 3 I present my solution to the challenge posed by the experiment, with its properties and their motivations. Finally, in Section 4, I summarize my ideas and criticize them myself.
 
-<!-- <div align="center">
-    <h2>2. The Experiment</h2>
-</div> -->
+## 2. The Experiment
 
 ### 2.1. The Crazy Neurosurgeon
 
@@ -72,9 +58,7 @@ again, the only data we have is the patient's (or in general humans') observed b
 
 On a similar vein, the neurosurgeon's (questionable) right to assess the mental state of the patient (one beyond our usual, external observations) disappears after the patient is patched up. Nobody aside from the patient observes the mental state of the patient to make claims such as "This neural circuitry is firing quite well, so the patient is experiencing pain." In other words, a ghost of the neurosurgeon does not remain in the patient's brain to make such claims.
 
-<!-- <div align="center">
-    <h2>3. The Qualia Box</h2>
-</div> -->
+## 3. The Qualia Box
 
 While being faulty in its conclusions, the cross-brain thought experiment illustrates the following fact quite vividly: We do not know the qualitative experience of the patient because they act just like before, even though there has been a change in the physical implementation of their mentality. It is also clear that we have come to a distinction between being disposed to act in a certain way, and experiencing the qualitative aspects of the mental events. These two aspects of the same mental event are naturally tightly correlated, but this does not necessitate they be implemented within the same mental state.
 
@@ -114,9 +98,7 @@ which are most probably quite frequent and not very slight) will render the simu
 
 **Situatedness.** Finally, all of the claims explained so far put consciousness and cognition in a situated framework. Knowing the properties of the physical structure and the rules of causation between the physical states corresponding to causal-functional states becomes insufficient in explaining the mental experience of a subject in present because no matter how precise our measurements are, there will always be a margin of error, within which the sensitive chaotic model can take on to depict completely different behaviours. This  deterministic-yet-unpredictable nature of a mental model essentially implies that properties of a subject pertaining to cognition and/or consciousness are unique to those physical conditions. Mental event types can nonetheless be characterized by their causal-functional descriptions, i.e. the causal roles they play within the causal net of a psychological theory, but mental event tokens are specific in space and time.
 
-<!-- <div align="center">
-    <h2>4. Conclusion</h2>
-</div> -->
+## 4. Conclusion
 
 After the examination of the thought experiment and the attempted solution to the challenge it poses so far, let us go back to the difficulties functionalism faces more concretely in the face of the cross-wired brain experiment, or more generally, the qualia inversion argument. By separating dispositional aspects from qualitative aspects, this new functional perspective has the power to counter both the qualia inversion and even the absent qualia arguments: In the qualia inversion case, the dispositional states are left intact and the qualitative ones are rearranged<sup><a id="footnotemark4" href="/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotetext4">4</a></sup>. In the absent qualia case, we omit the Qualia Box from the picture. While this may be easy to say, it likely necessitates some more changes on the dispositional states as they would have to implement the changes to the dispositions the Qualia Box would have made without actually coming to possess its properties (recursivity, chaotic nature, etc.). We make the classification into dispositional and qualitative based on the properties of the states at hand, not just because we name/wish them to be. The reader can think of the difference between the recursive and non-recursive implementations of the factorial function as an excessively simple example for such a difference. 
 
@@ -124,14 +106,14 @@ On the other hand, I realize the argumentation I have made so far is not bulletp
 
 Nonetheless, I hope I could convince the reader that the separation of a mental state into two states, dispositional and qualitative, serves to counter the challenge the cross-brain thought experiment poses. While it may be unsettling to see the familiar and indescribable feeling we have of our mental events laid out with such transparency and in mechanistic terms, if true, it will be a truth we have to face.
 
-# Notes
+## Notes
 
 1. <a id="footnotetext1"></a> One might object by questioning how such a criss-crossing is even possible, how either box does not go haywire to produce nonsensical outputs. On the other hand, the figure depicts the two behaviours to be different outputs, whereas they could be the activation of the same physical system, such as the retraction of the hand when it is cut (pain) or when it is stung by a stinging needle (itch). I will not be dealing with such details. Although I suspect they could serve for other meaningful bases for objection, these would not be relevant to my current objections. [Back up.](/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotemark1)
 2. <a id="footnotetext2"></a> Hopefully, at least. [Back up.](/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotemark2)
 3. <a id="footnotetext3"></a> This representation would contain and be a representation of itself, which is in turn a representation of... [Back up.](/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotemark3)
 4. <a id="footnotetext4"></a> One may here object to such a rearrangement by claiming it is impossible, as the qualitative states are tangled with the dispositional ones and such a rearrangement may not even make sense or "compute." Well, if the reader was comfortable so far with the possibility of interchanging the dispositional states, or even the criss-crossing in the original thought experiment, I see no reason why they cannot be comfortable with this rearrangement as well. If the reader was uncomfortable with those as well, I don't see how they could have read so far and not object to the original thought experiment to begin with. [Back up.](/whatnot/2022/01/cross_wired_brain_attempted_defence/#footnotemark4)
 
-# References
+## References
 
 AsapSCIENCE. (2016). *You can't see this (mind tricks).* YouTube. Retrieved from https://www.youtube.com/watch?v=0NPH_udOOek
 
@@ -142,3 +124,13 @@ Kim, J. (2011). *Philosophy of Mind.* Westview Press.
 Lorenz, E. (1979). *Predictability: Does the Flap of a Butterfly Wings in Brazil Set off a Tornado in Texas?* Proceedings American Association for the Advancement of Science in Washington.
 
 May, R. M. (2004). *Simple Mathematical Models with Very Complicated Dynamics*, 85--93. Retrieved from https://doi.org/10.1007/978-0-387-21830-4_7 doi: 10.1007/978-0-387-21830-4_7
+
+## Short version
+
+*The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon.*
+
+*The experiment as-is seems to be working because we are falsely attributing qualia to the patient, e.g. based on empathy, when the only authority on such claims can be the patient. While we believe the dispositional and qualitative aspects of a mental state may reside in a single state, splitting them into two causally interacting yet different mental states solves the problem. The qualitative states are responsible for the quale of phenomena, while the dispositional states are directly responsible for producing behaviour. The two kinds of mental states causally interact, but the qualitative states can only influence behaviour through their dispositional counterparts. Then, the neurosurgeon would be unable to figure out the implementations of the qualitative states within the causal structure via experimentation, as such qualitative states are behaviourally undiscoverable. Therefore, the neurosurgeon would unknowingly switch the qualitative states during the operation. The patient would experience the appropriate qualia post-operation, the difference being the implementations of the pain and itch dispositional states.*
+
+*This distinction between dispositional and qualitative mental states explains various observations. The claim that qualitative states have causal effects on their dispositional counterparts can explain visual illusions, e.g. the blind spot in our visual stream due to the lack of photoreceptors on the entry point of the optic nerve to the eye. While we may discover this blind spot through experimentation, we never realize it ourselves, pointing towards a modification of the visual inputs to produce our experiences and dispositions in visual judgements. This causal power on the dispositional states implies recursive causation between the dispositional and qualitative states, which can explain the inexplicable nature of qualia given that the process is chaotic, rendering it unpredictable yet deterministic.*
+
+*This approach suggests a difference between mental states/qualia in general and their implementations in a particular physical system. The causal rules describing the qualitative state is shared across implementations, but any difference in physical conditions leads to unpredictable/inexplicable behaviour. Knowing the causal mechanism producing qualia is insufficient to predict its physical realizations because of the process's sensitive dependence on initial conditions, i.e. its chaotic nature.*
