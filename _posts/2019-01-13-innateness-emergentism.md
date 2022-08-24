@@ -3,9 +3,11 @@ title: 'A Review on Innateness and Emergentism'
 date: 2019-01-13
 permalink: /whatnot/2019/innateness_emergentism/
 tags:
-  - philosophy of mind
+  - cognitive science
   - past work
 ---
+
+*This is the final essay I delivered for the COGS504 Natural and Artificial Minds course I took during the Fall 2018 semester. It was the first course I took from the Cognitive Science department and I enjoyed it immensely, thanks to our instructor Ceyhan Temürcü. I wanted to share it because it is the first piece of writing I prepared in the topics I aim to work on, and I really did work hard on it at the time. Aside minor fixes, I share it exactly as it is content-wise.*
 
 ## Abstract
 
@@ -34,8 +36,8 @@ On the other hand, I believe that computer scientific support can be made to bol
 ### 3.1. Human Nervous System and Connectomics
 
 <p float="left" align="middle">
-    <img src="/images/attempted_defence/samplecausal.jpeg" width="45%" />
-    <br> <em size="-2">Figure 2: A sample neural network, with arrows indicating causation of firing. The triangle is an input neuron (e.g. firing of pain receptors), the square is an output neuron (e.g. firing of motor neurons), and the disks are intermediary neurons. The curved arrows indicate long causal links through several states. </em>
+    <img src="/images/innateness_emergentism/roundwormconnectome.jpg" width="45%" />
+    <br> <em size="-2">Figure 1. A 3D reconstruction of a C. Elegans worm’s connectome, fitted within its approximate body shape. Retrieved from Jabr (2012).</em>
 </p>
 
 By Sporns, Tononi, and Kötter, a connectome is defined as the dataset describing these individual elements and their connections<sup><a id="footnotemark2" href="/whatnot/2019/innateness_emergentism/#footnotetext2">1</a></sup> (2005). The term is not limited to humans as well: Connectomes of other living creatures have been studied as well, such as the roundworm as seen in Figure 1 (Jabr, 2012). In a broader sense, this connectome dataset represents the neural net we possess within our brains, along with its fundamental and architectural properties.
@@ -47,8 +49,8 @@ While we may hope to consult connectomics for an answer, that is as far as we ca
 It is important to note that I am not talking about the strength or quality of the connections between the neurons, which falls under the definition of representational constraints made by Bates et al. (1998), but the structures’ overall properties formed by the neurons. As understood from (Sporns et al., 2005), we do not have a quantitative measure of the connections of the neurons as well, at least on the collective level of forming neuronal nets and mapping them out explicitly, but the main point is that we do not know the architectural properties of these nets.
 
 <p float="left" align="middle">
-    <img src="/images/attempted_defence/samplecausal.jpeg" width="45%" />
-    <br> <em size="-2">Figure 2: A sample neural network, with arrows indicating causation of firing. The triangle is an input neuron (e.g. firing of pain receptors), the square is an output neuron (e.g. firing of motor neurons), and the disks are intermediary neurons. The curved arrows indicate long causal links through several states. </em>
+    <img src="/images/attempted_defence/connectome.png" width="45%" />
+    <br> <em size="-2">Figure 2. A visual map showing the relations between regions of the human brain and their strengths, where a warmer colour means a stronger connection. Retrieved from Relationship Viewer (n.d.).</em>
 </p>
 
 What about the local or global architectural constraints, then? Sporns et al. confirm that this is the more achievable goal for compiling a human connectome. Figure 2 shows a visual interpretation of such data, taken from Relationship Viewer (n.d.). Nevertheless, the problem with this approach is, they say, that there is no one common way of discretizing the densely populated human brain (2005). Prinz (2006) gives several examples in the named but locationally unfixed regions of the brain. As a consequence of this indeterminacy, I do not think it is possible to talk about an evaluation of the coding power of the local -hence global architecture of the brain. I believe an indeterminacy in location also implies indeterminacy in internal structure, hence in the complete and functional description of its behaviour.
@@ -82,8 +84,8 @@ A simple example of transfer learning is my own experience with it at IBM. My pr
 Obviously, 40 pictures for each positive class is not nearly enough to train such an algorithm, especially given that it is not specifically a facial recognition algorithm but a visual recognition one<sup><a id="footnotemark3" href="/whatnot/2019/innateness_emergentism/#footnotetext3">1</a></sup>. This illustrates one of the key benefits of transfer learning: It drastically decreases the size of the needed dataset, so the target task performs better under small datasets. This fact is also stated by Donges (2018) in his description of transfer learning, along with another advantage: Training time. Our custom classifier trained in approximately 10 to 15 minutes. For such a complex task of facial (or object for generality) recognition, this is near to nothing. Donges states that a deep neural network may take days or even weeks to complete learning and that transfer learning is a major tool in obtaining short training time with relatively little training data.
 
 <p float="left" align="middle">
-    <img src="/images/attempted_defence/samplecausal.jpeg" width="45%" />
-    <br> <em size="-2">Figure 2: A sample neural network, with arrows indicating causation of firing. The triangle is an input neuron (e.g. firing of pain receptors), the square is an output neuron (e.g. firing of motor neurons), and the disks are intermediary neurons. The curved arrows indicate long causal links through several states. </em>
+    <img src="/images/innateness_emergentism/tl-plot.png" width="45%" />
+    <br> <em size="-2">Figure 3. A plot showing the performance of a learning algorithm with and without transfer. Retrieved from Torrey and Shavlik (2009).</em>
 </p>
 
 Figure 3 (Torrey & Shavlik, 2009) compares algorithm performance during training vs time, with and without transfer. Torrey and Shavlik show the three benefits of transfer learning on this plot: Higher start, higher slope, and higher asymptote. Each of these benefits can be explained in the following ways:

@@ -16,7 +16,7 @@ Here's a brief abstract of what you can find out about me on this website:
 - You can find a [commented CV](/cv) of mine.
 - I don't have many [publications](/publications) yet, but I'm hoping that list will grow as I do.
 - You can find my [cheat sheets](/cheat-sheets) on various topics if you're interested in those.
-- I have a page for my [not-necessarily-academic interests and activities](/side-gigs).
+- I have a [blog](/whatnot) where I share my essays.
 - And finally, my [photo journal](/photo-journal).
 
 I will try to update these pages as I have more content to share. You can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) and if nothing above is of interest to you, maybe you will the following two quotes entertaining. 
