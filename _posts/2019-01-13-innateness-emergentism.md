@@ -112,9 +112,7 @@ These arguments bring me to the Poverty of Stimulus argument, which deserves att
 3. Children are not exposed to the type or quantity of information that is needed to select a set of principles among others,
 4. Meaning that had they been empiricist learners, they would not be able to arrive at a common set of grammatical principles.
 5. Children do come to find the correct grammatical structure.
-
-Hence
-
+    Hence
 6. Children cannot be empiricist learners.
 My goal here is not to defend the argument, which Laurence and Margolis (2001) do thoroughly in their article. So I will not be questioning the validity of the argument and take it as a fact moving on.
 
