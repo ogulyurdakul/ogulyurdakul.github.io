@@ -167,3 +167,20 @@ All the pictures were for learning how (auto)focusing works, so not much to show
 <!-- <a class="twitter-timeline" href="https://twitter.com/ogulyurdakul?ref_src=twsrc%5Etfw" width="250" height="500">Tweets by ogulyurdakul</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
+
+<section id="comments">
+        <script src="https://giscus.app/client.js"
+        data-repo="ogulyurdakul/ogulyurdakul.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzNzYyNTMzNDY="
+        data-category="General"
+        data-category-id="DIC_kwDOFm0ros4CRBWP"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

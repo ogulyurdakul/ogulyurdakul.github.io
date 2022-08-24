@@ -36,3 +36,20 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 ## Philosophy
 
 - [PHIL405 Philosophy of Language (Fall 2020-2021)](/files/PHIL405CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (Hand-written on tablet)
+
+<section id="comments">
+        <script src="https://giscus.app/client.js"
+        data-repo="ogulyurdakul/ogulyurdakul.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzNzYyNTMzNDY="
+        data-category="General"
+        data-category-id="DIC_kwDOFm0ros4CRBWP"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
