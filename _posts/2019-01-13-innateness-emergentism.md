@@ -49,7 +49,7 @@ While we may hope to consult connectomics for an answer, that is as far as we ca
 It is important to note that I am not talking about the strength or quality of the connections between the neurons, which falls under the definition of representational constraints made by Bates et al. (1998), but the structures’ overall properties formed by the neurons. As understood from (Sporns et al., 2005), we do not have a quantitative measure of the connections of the neurons as well, at least on the collective level of forming neuronal nets and mapping them out explicitly, but the main point is that we do not know the architectural properties of these nets.
 
 <p float="left" align="middle">
-    <img src="/images/attempted_defence/connectome.png" width="45%" />
+    <img src="/images/innateness_emergentism/connectome.png" width="45%" />
     <br> <em size="-2">Figure 2. A visual map showing the relations between regions of the human brain and their strengths, where a warmer colour means a stronger connection. Retrieved from Relationship Viewer (n.d.).</em>
 </p>
 
