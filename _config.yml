@@ -24,9 +24,9 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
+    repo_id              : "MDEwOlJlcG9zaXRvcnkzNzYyNTMzNDY=" # Shown during giscus setup at https://giscus.app
+    category_name        : "General" # Full text name of the category
+    category_id          : "DIC_kwDOFm0ros4CRBWP" # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
