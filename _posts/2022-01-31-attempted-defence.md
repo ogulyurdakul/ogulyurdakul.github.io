@@ -2,6 +2,7 @@
 title: 'An Attempted Defence of Functionalism Against the Cross-wired Brain Thought Experiment'
 date: 2022-01-31
 permalink: /whatnot/2022/cross_wired_brain_attempted_defence/
+comments: true
 tags:
   - philosophy of mind
   - past work

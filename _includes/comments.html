@@ -3,6 +3,18 @@
 <div class="page__comments">
   {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
   {% case site.comments.provider %}
+  {% when "gisqus" %}
+    <script src="https://giscus.app/client.js"
+            data-repo={{ giscus.repo }}
+            data-repo-id={{ giscus.repo-id }}
+            data-category={{ giscus.category }}
+            data-category-id={{ giscus.category-id }}
+            data-mapping={{ giscus.mapping }}
+            data-reactions-enabled={{ giscus.reaction-enabled }}
+            data-theme={{ giscus.theme }}
+            crossorigin={{ giscus.crossorigin }}
+            async>
+    </script>
   {% when "disqus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="disqus_thread"></section>

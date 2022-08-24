@@ -1,6 +1,7 @@
 ---
 layout: archive-nosidebar
 title: "Photo Journal"
+comments: true
 permalink: /photo-journal/
 author_profile: false
 redirect_from: 
