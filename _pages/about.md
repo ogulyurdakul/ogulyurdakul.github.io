@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Oğul! I'm currently an M.Sc. student of Electrical and Electronics Engineering studying statistical signal processing and a B.Sc. student of Mathematics at METU. This combo makes me an undergraduate student, a graduate *and* a graduate student of/at METU, which I think is weird. I want to become a researcher in cognitive science/neuroscience and an educator of whatever topic I will know enough to teach whenever that happens.
+I'm Oğul! I'm currently (only) an M.Sc. student of Electrical and Electronics Engineering studying statistical signal processing. I obtained my Electrical and Electronics Engineering (B.Sc.) and Mathematics (B.Sc., double major) degrees from METU as well. I want to become a researcher in cognitive science/neuroscience and an educator of whatever topic I will know enough to teach, whenever that happens.
 
 Here's a brief abstract of what you can find out about me on this website:
 
