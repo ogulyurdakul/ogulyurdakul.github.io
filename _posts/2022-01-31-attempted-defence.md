@@ -7,7 +7,7 @@ tags:
   - past work
 ---
 
-*I wrote this final essay for the PHIL407 Philosophy of Mind I course I took during the Fall 2021 semester. I had been waiting patiently for this course to fit in my course schedule so that I could take it, and I did not hesitate one bit from taking it when I noticed that it clashed with none of my courses at the beginning of my course. It was one of the best decisions of my undergraduate education (I was still continuing my maths double major, so I was still an undergrad), and I did continue to take the second course PHIL408.*
+*I wrote this final essay for the PHIL407 Philosophy of Mind I course I took during the Fall 2021 semester. I had been waiting patiently for this course to fit in my course schedule so that I could take it, and I did not hesitate one bit from taking it when I noticed that it clashed with none of my courses at the beginning of my course. It was one of the best decisions of my undergraduate education (I was still continuing my maths double major, so I was still an undergrad), and I did continue to take the second course PHIL408. There is also [a short version](/whatnot/2022/cross_wired_brain_attempted_defence/#short) that I wrote as a submission to SCSS2022, but sadly I wasn't accepted.*
 
 ## 1. Introduction
 
@@ -126,7 +126,9 @@ Lorenz, E. (1979). *Predictability: Does the Flap of a Butterfly Wings in Brazil
 
 May, R. M. (2004). *Simple Mathematical Models with Very Complicated Dynamics*, 85--93. Retrieved from https://doi.org/10.1007/978-0-387-21830-4_7 doi: 10.1007/978-0-387-21830-4_7
 
-## Short version
+<a id="short">
+
+## Short version 
 
 *The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon.*
 
