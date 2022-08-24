@@ -7,6 +7,8 @@ tags:
   - past work
 ---
 
+*I wrote this final essay for the PHIL407 Philosophy of Mind I course I took during the Fall 2021 semester. I had been waiting patiently for this course to fit in my course schedule so that I could take it, and I did not hesitate one bit from taking it when I noticed that it clashed with none of my courses at the beginning of my course. It was one of the best decisions of my undergraduate education (I was still continuing my maths double major, so I was still an undergrad), and I did continue to take the second course PHIL408.*
+
 ## 1. Introduction
 
 The functionalist conception of the human mind models it as a set of states characterized by causal roles, where each state can be caused by sensations and cause behaviour, as well as play a causal role in the activation of other states (Kim, 2011). The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon. In this essay, I offer a way out of this challenge within the functionalist framework. Firstly in Section 2, I present the thought experiment and take a close look at the methodological aspects, then expose the faults in the line of thinking of the experiment. In Section 3 I present my solution to the challenge posed by the experiment, with its properties and their motivations. Finally, in Section 4, I summarize my ideas and criticize them myself.
