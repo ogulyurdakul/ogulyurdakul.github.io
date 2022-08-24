@@ -7,8 +7,6 @@ comments: true
 redirect_from:
 ---
 
-{% include base_path %}
-
 Over the years, I've developed the habit of writing out "cheat sheets" when studying for each course. I prepared them throughout the semester to keep track of what I have learned so far in the course. They consist of the knowledge I thought was essential, starting with the basic definitions and moving on to the more complex and composite facts and theorems, omitting their proofs if I don't think they are essential knowledge. At first, I was writing them on paper, but then I moved on to writing them in LaTeX because I thought it made them more legible and structured (also I *really* needed something to do during quarantine. I know, I'm fun like that.). You can find the ones in LaTeX below, and I plan to share the others as I type them out.
 
 **If you find a typo, or more dangerously outright false information, please reach out to me at [yurdakul.ogulcan@gmail.com](mailto:yurdakul.ogulcan@gmail.com) or make a comment below, and I will fix the document as quickly as I can.**
@@ -36,6 +34,8 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 ## Philosophy
 
 - [PHIL405 Philosophy of Language (Fall 2020-2021)](/files/PHIL405CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (Hand-written on tablet)
+
+## Comments
 
 <section id="comments">
         <script src="https://giscus.app/client.js"
