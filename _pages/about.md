@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!"
+title: "Hi, I'm Oğul!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,16 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm Oğul! I'm currently (only) an M.Sc. student of Electrical and Electronics Engineering studying statistical signal processing. I obtained my Electrical and Electronics Engineering (B.Sc.) and Mathematics (B.Sc., double major) degrees from METU as well. I want to become a researcher in cognitive science/neuroscience and an educator of whatever topic I will know enough to teach, whenever that happens.
+Welcome to my personal webpage. I'm currently an M.Sc. student of Electrical and Electronics Engineering at METU, studying statistical signal processing, and I want to become a researcher in cognitive science/neuroscience and an educator of whatever topic I will know enough to teach, whenever that happens. Here, you can find
 
-Here's a brief abstract of what you can find out about me on this website:
-
-- You can find a [commented CV](/cv) of mine,
-- The [cheat sheets](/cheat-sheets) on various topics if you're interested in those,
+- A [commented version of my CV](/cv), the comments being some more personal remarks,
+- [Cheat sheets](/cheat-sheets) on various topics if you're interested in those,
 - My [photo journal](/photo-journal),
 - And [Whatnot](/whatnot), a blog where I share my essays and other works.
 
-I will try to update these pages as I have more content to share. You can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) and if nothing above is of interest to you, maybe you will the following two quotes entertaining. 
+I update these pages as I have more content to share. You can contact me via [mail](mailto:yurdakul.ogulcan@gmail.com) and if nothing above is of interest to you, maybe you will the following two quotes entertaining.
 
 > “For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
 >
