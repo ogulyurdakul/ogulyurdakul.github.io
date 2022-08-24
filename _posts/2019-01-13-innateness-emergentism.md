@@ -1,7 +1,7 @@
 ---
 title: 'A Review on Innateness and Emergentism'
 date: 2019-01-13
-permalink: /whatnot/2019/innateness_emergentism/
+permalink: /whatnot/2018/innateness_emergentism/
 tags:
   - cognitive science
   - past work
@@ -31,7 +31,7 @@ Now that I have made an overview of the debate in general and the views of Bates
 
 On the other hand, I believe that computer scientific support can be made to bolster the case for an innate structure, namely Universal Grammar, behind language acquisition. Similarities to the transfer learning concept in computer science will be drawn to argue that such an innate structure’s existence is plausible and that its benefits match with the statements of Universal Grammar and Poverty of Stimulus concepts in Section 4.
 
-## 3. A Defence of Architectural Capabilities of Cognitive Systems<sup><a id="footnotemark1" href="/whatnot/2019/innateness_emergentism/#footnotetext1">1</a></sup>
+## 3. A Defence of Architectural Capabilities of Cognitive Systems<sup><a id="footnotemark1" href="/whatnot/2018/innateness_emergentism/#footnotetext1">1</a></sup>
 
 ### 3.1. Human Nervous System and Connectomics
 
@@ -40,7 +40,7 @@ On the other hand, I believe that computer scientific support can be made to bol
     <br> <em size="-2">Figure 1. A 3D reconstruction of a C. Elegans worm’s connectome, fitted within its approximate body shape. Retrieved from Jabr (2012).</em>
 </p>
 
-By Sporns, Tononi, and Kötter, a connectome is defined as the dataset describing these individual elements and their connections<sup><a id="footnotemark2" href="/whatnot/2019/innateness_emergentism/#footnotetext2">1</a></sup> (2005). The term is not limited to humans as well: Connectomes of other living creatures have been studied as well, such as the roundworm as seen in Figure 1 (Jabr, 2012). In a broader sense, this connectome dataset represents the neural net we possess within our brains, along with its fundamental and architectural properties.
+By Sporns, Tononi, and Kötter, a connectome is defined as the dataset describing these individual elements and their connections<sup><a id="footnotemark2" href="/whatnot/2018/innateness_emergentism/#footnotetext2">1</a></sup> (2005). The term is not limited to humans as well: Connectomes of other living creatures have been studied as well, such as the roundworm as seen in Figure 1 (Jabr, 2012). In a broader sense, this connectome dataset represents the neural net we possess within our brains, along with its fundamental and architectural properties.
 
 At this point in my argument, I find it necessary to revisit some definitions made in the article in question. Bates et al. define architectural constraints as the constraints or properties coming from the structuring of the elements. Then, they consider these constraints in three categories: Basic computational elements, local architecture, and finally up to global architecture, where the first comprises of a single computational element and the latter two describe the behaviour of a bigger and bigger collection of these units. Knowing that connectomics may provide us with empirical data on how our nervous system is wired, we may perhaps consult it to determine these constraints and judge their computational power.
 
@@ -81,7 +81,7 @@ On that account, few basic definitions are essential. Source Task is the goal of
 
 A simple example of transfer learning is my own experience with it at IBM. My project group was given the simple task of making a small demo bot perform facial recognition. Not having the required knowledge to write a full facial recognition algorithm; instead, we decided to treat our faces as objects and implement an object recognition algorithm. IBM’s artificial intelligence system, Watson, already has a visual recognition algorithm (source task) that can classify an object into an extensive range of classes. We supplied IBM Watson with our pictures as positive example classes and random faces we found online as the negative example class (dataset). After approximately 40 pictures for each group member and a random - but sufficient - number of negative examples, the algorithm was performing well enough to recognize the faces of our group members (target task) and reject other faces.
 
-Obviously, 40 pictures for each positive class is not nearly enough to train such an algorithm, especially given that it is not specifically a facial recognition algorithm but a visual recognition one<sup><a id="footnotemark3" href="/whatnot/2019/innateness_emergentism/#footnotetext3">1</a></sup>. This illustrates one of the key benefits of transfer learning: It drastically decreases the size of the needed dataset, so the target task performs better under small datasets. This fact is also stated by Donges (2018) in his description of transfer learning, along with another advantage: Training time. Our custom classifier trained in approximately 10 to 15 minutes. For such a complex task of facial (or object for generality) recognition, this is near to nothing. Donges states that a deep neural network may take days or even weeks to complete learning and that transfer learning is a major tool in obtaining short training time with relatively little training data.
+Obviously, 40 pictures for each positive class is not nearly enough to train such an algorithm, especially given that it is not specifically a facial recognition algorithm but a visual recognition one<sup><a id="footnotemark3" href="/whatnot/2018/innateness_emergentism/#footnotetext3">1</a></sup>. This illustrates one of the key benefits of transfer learning: It drastically decreases the size of the needed dataset, so the target task performs better under small datasets. This fact is also stated by Donges (2018) in his description of transfer learning, along with another advantage: Training time. Our custom classifier trained in approximately 10 to 15 minutes. For such a complex task of facial (or object for generality) recognition, this is near to nothing. Donges states that a deep neural network may take days or even weeks to complete learning and that transfer learning is a major tool in obtaining short training time with relatively little training data.
 
 <p float="left" align="middle">
     <img src="/images/innateness_emergentism/tl-plot.png" width="45%" />
