@@ -130,7 +130,9 @@ May, R. M. (2004). *Simple Mathematical Models with Very Complicated Dynamics*, 
 
 <a id="short">
 
-## Short version [Back up](/whatnot/2022/cross_wired_brain_attempted_defence/#long)
+## Short version
+
+([Back up to the longer version](/whatnot/2022/cross_wired_brain_attempted_defence/#long))
 
 The cross-wired brain thought experiment challenges functionalism by claiming it fails to account for the qualia of mental processes: A patient, with both the inputs and outputs to, say, the itch and pain subunits of their brain switched, would behave appropriately upon relative input but supposedly would experience the qualia of the wrong phenomenon.
 
@@ -139,5 +141,3 @@ The experiment as-is seems to be working because we are falsely attributing qual
 This distinction between dispositional and qualitative mental states explains various observations. The claim that qualitative states have causal effects on their dispositional counterparts can explain visual illusions, e.g. the blind spot in our visual stream due to the lack of photoreceptors on the entry point of the optic nerve to the eye. While we may discover this blind spot through experimentation, we never realize it ourselves, pointing towards a modification of the visual inputs to produce our experiences and dispositions in visual judgements. This causal power on the dispositional states implies recursive causation between the dispositional and qualitative states, which can explain the inexplicable nature of qualia given that the process is chaotic, rendering it unpredictable yet deterministic.
 
 This approach suggests a difference between mental states/qualia in general and their implementations in a particular physical system. The causal rules describing the qualitative state is shared across implementations, but any difference in physical conditions leads to unpredictable/inexplicable behaviour. Knowing the causal mechanism producing qualia is insufficient to predict its physical realizations because of the process's sensitive dependence on initial conditions, i.e. its chaotic nature.
-
-([Back up to the longer version](/whatnot/2022/cross_wired_brain_attempted_defence/#long))
