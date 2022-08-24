@@ -146,6 +146,8 @@ All the pictures were for learning how (auto)focusing works, so not much to show
 
 <!-- [<img src="/images/bio-photo.jpg" width="32%">](/images/bio-photo.jpg "This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository This is Boostnote's repository ") [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/) [<img src="/images/bio-photo.jpg" width="32%">](http://instagram.com/)  -->
 
+---
+
 <section id="comments">
         <script src="https://giscus.app/client.js"
         data-repo="ogulyurdakul/ogulyurdakul.github.io"
