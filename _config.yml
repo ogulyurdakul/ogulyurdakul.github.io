@@ -8,7 +8,7 @@
 # Site Settings
 # minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Oğul Can Yurdakul's Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Oğul Can Yurdakul"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ comments:
     category_id          : "DIC_kwDOFm0ros4CRBWP" # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   disqus:
     shortname            : 
   discourse:
@@ -37,7 +37,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
