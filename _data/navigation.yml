@@ -4,20 +4,20 @@ main:
   - title: "Commented CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/  
+  # - title: "Publications"
+  #   url: /publications/  
 
   - title: "Cheat Sheets"
     url: /cheat-sheets/ 
     
-  # - title: "Side Gigs"
-  #   url: /side-gigss/
+  - title: "Photo Journal"
+    url: /photo-journal/
         
   - title: "Blog"
     url: /whatnot/
     
-  - title: "Photo Journal"
-    url: /photo-journal/
+  # - title: "Side Gigs"
+  #   url: /side-gigss/
     
   # - title: "Guide"
   #   url: /markdown/ 
