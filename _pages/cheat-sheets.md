@@ -38,7 +38,7 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 ## Comments
 
 <section id="comments">
-        <script src="https://giscus.app/client.js"
+    <script src="https://giscus.app/client.js"
         data-repo="ogulyurdakul/ogulyurdakul.github.io"
         data-repo-id="MDEwOlJlcG9zaXRvcnkzNzYyNTMzNDY="
         data-category="General"
@@ -52,4 +52,5 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
         data-lang="en"
         crossorigin="anonymous"
         async>
-</script> 
+    </script>
+</section>

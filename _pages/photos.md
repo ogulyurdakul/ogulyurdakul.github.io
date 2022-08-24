@@ -149,7 +149,7 @@ All the pictures were for learning how (auto)focusing works, so not much to show
 ---
 
 <section id="comments">
-        <script src="https://giscus.app/client.js"
+    <script src="https://giscus.app/client.js"
         data-repo="ogulyurdakul/ogulyurdakul.github.io"
         data-repo-id="MDEwOlJlcG9zaXRvcnkzNzYyNTMzNDY="
         data-category="General"
@@ -163,4 +163,5 @@ All the pictures were for learning how (auto)focusing works, so not much to show
         data-lang="en"
         crossorigin="anonymous"
         async>
-</script>
+    </script>
+</section>
