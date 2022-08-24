@@ -107,14 +107,14 @@ Going back to the formalism behind Universal Grammar, Johansson (1991) gives thr
 
 These arguments bring me to the Poverty of Stimulus argument, which deserves attention on its own. Although it has met strong opposition, PoS is still a valid argument. Laurence and Margolis (2001) summarize the standardized version of the argument as follows:
 
-1. There are an indefinite number of possible sets of principles explaining the regularities in the primary linguistic data, and
-2. We have no reason to assume either of them is more complex or simpler than the others.
-3. Children are not exposed to the type or quantity of information that is needed to select a set of principles among others,
-4. Meaning that had they been empiricist learners, they would not be able to arrive at a common set of grammatical principles.
+(@) There are an indefinite number of possible sets of principles explaining the regularities in the primary linguistic data, and (1)
+(@) We have no reason to assume either of them is more complex or simpler than the others. (2)
+(@) Children are not exposed to the type or quantity of information that is needed to select a set of principles among others, (3)
+(@) Meaning that had they been empiricist learners, they would not be able to arrive at a common set of grammatical principles. (4)
+(@) Children do come to find the correct grammatical structure. (5)
 
 Hence
-{:start="6"}
-6. Children cannot be empiricist learners.
+(@) Children cannot be empiricist learners. (6)
 My goal here is not to defend the argument, which Laurence and Margolis (2001) do thoroughly in their article. So I will not be questioning the validity of the argument and take it as a fact moving on.
 
 ### 4.3. Transfer Learning and Universal Grammar
