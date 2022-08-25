@@ -99,7 +99,7 @@ I suppose a CV has to contain this section. So, for completeness sake, here is a
 :   *C (Took my mandatory programming course in it, did not like it. I only use it if I have to, meaning when I'm using an Arduino board.)*
 :   and various other languages I learned at one point but did not dwell on too much, such as R and C++.
 
-**See [my blog post](/side-gigs) for more.**
+**See [my blog post](/whatnot/side-gigs) for more.**
   
 <!-- ## Skills
 * Skill 1
