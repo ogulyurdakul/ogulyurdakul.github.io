@@ -2,10 +2,7 @@
 main:
     
   - title: "Commented CV"
-    url: /cv/
-
-  # - title: "Publications"
-  #   url: /publications/  
+    url: /cv/ 
 
   - title: "Cheat Sheets"
     url: /cheat-sheets/ 
@@ -15,6 +12,9 @@ main:
         
   - title: "and Whatnot"
     url: /whatnot/
+
+  # - title: "Publications"
+  #   url: /publications/ 
     
   # - title: "Side Gigs"
   #   url: /side-gigss/
