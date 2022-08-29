@@ -22,7 +22,7 @@ In the field of mathematics called analysis, a frequently encountered question i
 
 ### Of Theories of Consciousness
 
-## Interldue
+## Interlude: The Cost of Completion
 
 ## Three Attempts to Completeness
 

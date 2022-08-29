@@ -3,8 +3,8 @@ title: 'An Attempted Defence of Functionalism Against the Cross-wired Brain Thou
 date: 2022-01-31
 permalink: /whatnot/2022/cross_wired_brain_attempted_defence/
 tags:
+  - course essays
   - philosophy of mind
-  - past work
 ---
 
 *I wrote this final essay for the PHIL407 Philosophy of Mind I course I took during the Fall 2021 semester. I had been waiting patiently for this course to fit in my course schedule so that I could take it, and I did not hesitate one bit from taking it when I noticed that it clashed with none of my courses at the beginning of my course. It was one of the best decisions of my undergraduate education (I was still continuing my maths double major, so I was still an undergrad), and I did continue to take the second course PHIL408. There is also [a short version](/whatnot/2022/cross_wired_brain_attempted_defence/#short) that I wrote as a submission to SCSS2022, but sadly I wasn't accepted.*
