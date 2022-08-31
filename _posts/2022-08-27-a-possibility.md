@@ -22,11 +22,17 @@ In the field of mathematics called analysis, a frequently encountered question i
 
 ### Of Theories of Consciousness
 
-## Interlude: The Cost of Completion
+## Interlude
 
-## Three Attempts to Completeness
+## The Cost of Completion
 
-### 
+### Of Rational Numbers
+
+### Of Stage Magic
+
+### Of Theories of Consciousness
+
+## Non-Conclusion
 
 ## Notes
 
