@@ -1,6 +1,6 @@
 ---
 title: 'A Scenario of Incompleteness'
-date: 2022-08-27
+date: 2222-08-27
 permalink: /whatnot/2022/a_scenario_of_incompleteness/
 tags:
   - philosophy
@@ -28,13 +28,15 @@ $$
 S_n = \sum_{i = 1}^n \frac{9}{10^i}
 $$
 
-The elements of this sequence are all well defined, going $0.9$, $0.99$, $0.999$, $0.9999$ and so on. It is clear that the infinite sum that we are after (that is equal to $0. \bar 9$) is the limit of this sequence. A remark here: What we are after is *the limit*, and it need not be an element occurring in the sequence itself.
+The elements of this sequence are all well defined, going $0.9$, $0.99$, $0.999$, $0.9999$ and so on. It is clear that the infinite sum that we are after (that is equal to $0. \bar 9$) is the limit of this sequence. A remark here: What we are after is *the limit*, and it need not be an element occurring in the sequence itself. 
 
-Furthermore to our luck, they can also be expressed analytically in another form with some algebraic manipulations through the geometric sum formula:
+To our luck, the elements of this partial sum sequence can also be expressed analytically in another form with some algebraic manipulations through the geometric sum formula:
 
 $$
 S_n = \sum_{i = 1}^n \frac{9}{10^i} = \frac{9}{10} \sum_{i = 0}^{n-1} \frac{1}{10^i} = \frac{9}{10} \frac{1 - \frac{1}{10^n}}{1 - \frac{1}{10}} = 1 - \frac{1}{10^n}
 $$
+
+This shows evidently that the elements of the sequence 
 
 ### Of Stage Magic
 
