@@ -77,7 +77,7 @@ Now there are several interesting questions that can be asked
    m > N \quad \Rightarrow \quad \lvert a_m - L \rvert < \varepsilon
    $$
 
- [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark2) 
+   [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark2) 
 
 <!-- 1. <a id="footnotetext1"></a>  [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark1) 
 <sup><a id="footnotemark1" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext1">1</a></sup> -->
