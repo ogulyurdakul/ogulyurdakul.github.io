@@ -33,11 +33,17 @@ $$
 
 ### Of Theories of Consciousness
 
-## Interldue
+## Interlude
 
-## Three Attempts to Completeness
+## The Cost of Completion
 
-### 
+### Of Rational Numbers
+
+### Of Stage Magic
+
+### Of Theories of Consciousness
+
+## Non-Conclusion
 
 ## Notes
 

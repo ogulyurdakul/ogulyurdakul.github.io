@@ -4,7 +4,7 @@ date: 2019-01-13
 permalink: /whatnot/2018/innateness_emergentism/
 tags:
   - cognitive science
-  - past work
+  - course essays
 ---
 
 *This is the final essay I delivered for the COGS504 Natural and Artificial Minds course I took during the Fall 2018 semester. It was the first course I took from the Cognitive Science department and I enjoyed it immensely, thanks to our instructor Ceyhan Temürcü. I wanted to share it because it is the first piece of writing I prepared in the topics I aim to work on, and I really did work hard on it at the time. Aside minor fixes, I share it exactly as it is content-wise.*
