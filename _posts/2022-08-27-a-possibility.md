@@ -16,17 +16,24 @@ To best illustrate the possibility that I am entertaining, I would first like to
 
 ### Of Rational Numbers
 
-In the field of mathematics called analysis, a frequently encountered question is convergence. It provides the answer to the famous seemingly confusing problem of whether $1 = 0.\bar 9$ (and let's try to settle that discussion, too, while we're at it). What is meant by $0. \bar 9$ is actually the following sum: 
+In the field of mathematics called analysis, a frequently encountered question is convergence. It provides the answer to the famous seemingly confusing problem of whether $1 = 0.\bar 9$ (and let's try to settle that discussion, too, while we're at it). What is meant by $0. \bar 9$ is actually the following sum:
+
 $$
 0. \bar 9 = \sum_{i = 1}^\infty \frac{9}{10^i}
 $$
+
 The problematic part of this expression is the infinity: How do you sum infinitely many numbers? What does that even mean? Had it been a *finite* sum, then we would be all good, everything would be well defined, so let's try building a solution on top of them. We construct a partial sums series, given as follows:
+
 $$
 S_n = \sum_{i = 1}^n \frac{9}{10^i}
 $$
-The elements of this sequence are all well defined, going $0.9$, $0.99$, $0.999$, $0.9999$ and so on. Furthermore to our luck, they can also be expressed analytically in another form with some algebraic manipulations through the geometric sum formula:
+
+The elements of this sequence are all well defined, going $0.9$, $0.99$, $0.999$, $0.9999$ and so on. It is clear that the infinite sum that we are after (that is equal to $0. \bar 9$) is the limit of this sequence. A remark here: What we are after is *the limit*, and it need not be an element occurring in the sequence itself.
+
+Furthermore to our luck, they can also be expressed analytically in another form with some algebraic manipulations through the geometric sum formula:
+
 $$
-S_n = \sum_{i = 1}^n \frac{9}{10^i} = \frac{9}{10} \sum_{i = 0}^{n-1} \frac{1}{10^i} = \frac{9}{10} \frac{1 - \frac{1}{10^n}}{1 - \frac{1}{10}}
+S_n = \sum_{i = 1}^n \frac{9}{10^i} = \frac{9}{10} \sum_{i = 0}^{n-1} \frac{1}{10^i} = \frac{9}{10} \frac{1 - \frac{1}{10^n}}{1 - \frac{1}{10}} = 1 - \frac{1}{10^n}
 $$
 
 ### Of Stage Magic
