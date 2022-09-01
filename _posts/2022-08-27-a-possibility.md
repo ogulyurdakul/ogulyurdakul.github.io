@@ -50,6 +50,8 @@ $$
 \sum_{k = 1}\frac{1}{k^2} = \frac{1} + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6}
 $$
 
+Now there are several interesting questions that can be asked
+
 ### Of Stage Magic
 
 ### Of Theories of Consciousness
@@ -69,7 +71,12 @@ $$
 ## Notes
 
 1. <a id="footnotetext1"></a> See Seth (2007) for a summary. [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark1) 
-2. <a id="footnotetext2"></a> See Seth (2007) for a summary. [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark2) 
+2. <a id="footnotetext2"></a> Even more rigour: A sequence $a_n$ is said to converge to $L$ if for all $\varepsilon > 0$ there exists an index $N\in \mathbb N$ such that
+   $$
+   m > N \quad \Rightarrow \quad \lvert a_m - L \rvert < \varepsilon
+   $$
+
+ [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark2) 
 
 <!-- 1. <a id="footnotetext1"></a>  [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark1) 
 <sup><a id="footnotemark1" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext1">1</a></sup> -->
