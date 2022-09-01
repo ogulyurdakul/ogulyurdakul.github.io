@@ -47,7 +47,7 @@ $$
 This is another convergent sum, and without going into [details](https://www.wikiwand.com/en/Basel_problem), here is its limit:
 
 $$
-\sum_{k = 1}\frac{1}{k^2} = \frac{1} + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6}
+\sum_{k = 1}\frac{1}{k^2} = 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6}
 $$
 
 Now there are several interesting questions that can be asked
