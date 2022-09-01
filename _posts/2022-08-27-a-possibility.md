@@ -28,7 +28,7 @@ $$
 S_n = \sum_{k = 1}^n \frac{9}{10^k}
 $$
 
-The elements of this sequence are all well defined, going $0.9$, $0.99$, $0.999$, $0.9999$ and so on. It is clear that the infinite sum that we are after (that is equal to $0. \bar 9$) is the limit of this sequence. A remark here: What we are after is *the limit*, and it need not be an element occurring in the sequence itself. 
+Notice how the upper limit of the sum are all $n\in \mathbb N$, so are all finite instead of infinite. Thus, the elements of this sequence (i.e. finite sums) are all well defined, going $0.9$, $0.99$, $0.999$, $0.9999$ and so on. It is clear that the infinite sum that we are after (that is equal to $0. \bar 9$) is the limit of this sequence. A remark here: What we are after is *the limit*, and it need not be an element occurring in the sequence itself. 
 
 To our luck, the elements of this partial sum sequence can also be expressed analytically in another form with some algebraic manipulations through the geometric sum formula:
 
@@ -50,7 +50,7 @@ $$
 \sum_{k = 1}\frac{1}{k^2} = 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6}
 $$
 
-Now there are several interesting questions that can be asked
+Now there are several interesting remarks that can be made regarding this sum (Where did $\pi$ come from to a sum of rational numbers? Why is it squared? How does any of this make sense? What?) 
 
 ### Of Stage Magic
 
