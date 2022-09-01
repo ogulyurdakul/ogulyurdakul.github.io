@@ -36,7 +36,7 @@ $$
 S_n = \sum_{k = 1}^n \frac{9}{10^k} = \frac{9}{10} \sum_{k = 0}^{n-1} \frac{1}{10^k} = \frac{9}{10} \frac{1 - \frac{1}{10^n}}{1 - \frac{1}{10}} = 1 - \frac{1}{10^n}
 $$
 
-This shows evidently that the elements of the sequence get closer and closer to $1$, which is actually the definition of convergence. Somewhat more formally, a sequence $a_n$ is said to converge to the limit $L$ if the absolute difference between the elements of the sequence and $L$, namely $\lvert a_n - L\rvert$ can be made arbitrarily small if you go far enough.<sup><a id="footnotemark2" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext2">2 (even more rigour)</a></sup> And therefore we conclude that the limit of the partial sum sequence $S_n$ is (exactly) $1$.
+This shows evidently that the elements of the sequence get closer and closer to $1$, which is actually the definition of convergence. Somewhat more formally, a sequence $a_n$ is said to converge to the limit $L$ if the absolute difference between the elements of the sequence and $L$, namely $\lvert a_n - L\rvert$ can be made arbitrarily small if you go far enough.<sup><a id="footnotemark2" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext2">2 (more rigour)</a></sup> And therefore we conclude that the limit of the partial sum sequence $S_n$ is (exactly) $1$.
 
 This was one of the most harmless (yet useful) cases. What do we think about the next sum, which even has its own [Wikipedia entry](https://www.wikiwand.com/en/Basel_problem)
 
@@ -72,6 +72,7 @@ Now there are several interesting questions that can be asked
 
 1. <a id="footnotetext1"></a> See Seth (2007) for a summary. [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark1) 
 2. <a id="footnotetext2"></a> Even more rigour: A sequence $a_n$ is said to converge to $L$ if for all $\varepsilon > 0$ there exists an index $N\in \mathbb N$ such that
+   
    $$
    m > N \quad \Rightarrow \quad \lvert a_m - L \rvert < \varepsilon
    $$
