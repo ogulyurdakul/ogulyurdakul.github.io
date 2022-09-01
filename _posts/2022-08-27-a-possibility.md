@@ -1,6 +1,6 @@
 ---
 title: 'A Scenario of Incompleteness'
-date: 2022-08-27
+date: 2222-08-27
 permalink: /whatnot/2022/a_scenario_of_incompleteness/
 tags:
   - philosophy
@@ -50,7 +50,9 @@ $$
 \sum_{k = 1}\frac{1}{k^2} = 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6}
 $$
 
-Now there are several interesting remarks that can be made regarding this sum (Where did $\pi$ come from to a sum of rational numbers? Why is it squared? How does any of this make sense? What?) 
+Now there are several interesting remarks that can be made regarding this sum (Where did $\pi$ come from to a sum of rational numbers? Why is it squared? How does any of this make sense? What?), but I would like to focus on one of them: The summands are all rational numbers yet the limit is an irrational number. This means that the partial sum sequence, which is necessarily a rational sequence as it is composed of finite sums of rational numbers, gets closer and closer to an irrational number.
+
+I have one final definition to make before I explain why this is of interest.
 
 ### Of Stage Magic
 
