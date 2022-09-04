@@ -41,7 +41,7 @@ This shows evidently that the elements of the sequence get closer and closer to 
 This was one of the most harmless cases. What should we do about the following one: Is it a convergent infinite sum?
 
 $$
-\sum_{k = 1}\frac{1}{k^2} = \frac{1} + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots
+\sum_{k = 1}\frac{1}{k^2} = 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots
 $$
 
 Before skipping to the answer, let's try to be clever and see whether we can work our way from the previous example. If we stare at it long enough, we would notice that the terms we are adding get smaller and smaller with increasing $N$, furthermore they get closer and closer together. In fact, we can make the difference between different partial sums $S_n$ and $S_m$ as close to one another as we please. In a more formal notation, for any $\varepsilon > 0$, we can find an index $N \in \mathbb N$ such that $n,m > N$ implies $\lvert S_n - S_m \rvert < \varepsilon$. Such a sequence is called a *Cauchy sequence* after the mathematician [Augustin-Louis Cauchy](https://www.wikiwand.com/en/Augustin-Louis_Cauchy). The partial sum sequences of both of the above infinite sums are Cauchy sequences, and we already know that the first one is convergent. Then what about the second sum?
