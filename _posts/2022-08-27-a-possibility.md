@@ -83,7 +83,7 @@ Now there are several interesting remarks that can be made regarding this sum (W
    $$
 
    [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark2) 
-3. <a id="footnotetext3"></a> Even more rigour: I should say in which metric space to be precise, but I gloss over that so that I don't have to make another definition. If you're interested, and easy definition of a metric space is a set, say $X$, equipped with a sense of distance between its elements, given by its non-negative real-valued metric function $d:X \times X \to \R^+ \cup \{0\}$. [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark3) 
+3. <a id="footnotetext3"></a> Even more rigour: I should say in which metric space to be precise, but I gloss over that so that I don't have to make another definition. If you're interested, and easy definition of a metric space is a set, say $X$, equipped with a sense of distance between its elements, given by its non-negative real-valued metric function $d:X \times X \to \mathbb R^+ \cup \{0\}$. [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark3) 
 
 <!-- 1. <a id="footnotetext1"></a>  [Back up.](/whatnot/2022/a_scenario_of_incompleteness/#footnotemark1) 
 <sup><a id="footnotemark1" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext1">1</a></sup> -->
