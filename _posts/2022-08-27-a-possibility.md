@@ -1,6 +1,6 @@
 ---
 title: 'A Scenario of Incompleteness'
-date: 2022-08-27
+date: 2222-08-27
 permalink: /whatnot/2022/a_scenario_of_incompleteness/
 tags:
   - philosophy
@@ -68,7 +68,7 @@ The show is quite good, the magician is nothing short of an expert that moves wi
 
 Although at one point, before the final act when the performer announces that they will in a moment levitate live on stage (another loud gasp), your friend sits up with razor focus on their face and starts watching the scene with an increased attention. The magician steps on a podium with confidence, puts off their cloak (because apparently that's not how you levitate) and stands tall with their glamorous dress in the spotlight. The music starts rising with anticipation, and as the crescendo slowly carries the tone higher and higher, you notice the magicians feet slowly rising from the podium. The magician ascends on the stage as the whole room lights and the music climaxes to celebrate the performer's achievement. The assistant shows up on the stage with a hula hoop and moves it all around the magician to prove there is no physical support. You don't really understand what makes your friend go into hyperfocus on this final act, it was as good as all the previous ones, but you don't fret too much and enjoy the show. The magician finally descends, takes a bow and thanks the assistant. The curtain closes, the show is over.
 
-As the theatre hall lights up and the stunned spectators start leaving the hall, you notice that your friend is sat deep in their seat with a pensive look on their face. Just as you are about to ask what's wrong, they say "I think I can figure out how the magician did it." You don't as what, clearly they're talking about the levitation act.
+As the theatre hall lights up and the stunned spectators start leaving the hall, you notice that your friend is sat deep in their seat with a pensive look on their face. Just as you are about to ask what's wrong, they say "I think I can figure out how the magician did it." You don't ask what, clearly they're talking about the levitation act.
 
 <!-- And so is a story of incompleteness of stage magic:  -->
 
