@@ -14,7 +14,7 @@ To best illustrate the possibility that I am entertaining, I would first like to
 
 ## Three Stories of Incompleteness
 
-### Of Rational Numbers
+### ... of Rational Numbers
 
 In the field of mathematics called analysis, a frequently encountered question is convergence. It provides the answer to the famous seemingly confusing problem of whether $1 = 0.\bar 9$ (and let's try to settle that discussion, too, while we're at it). What is meant by $0. \bar 9$ is actually the following sum:
 
@@ -58,23 +58,23 @@ Now there are several interesting remarks that can be made regarding this sum (W
 
 Let's summarize what we have seen so far before adding a final yet crucial definition. Checking the first convergent infinite sum, we had noticed that its partial sum sequence's element were getting closer and closer *to one another*, i.e. was a Cauchy sequence. So, we had raised our hopes that this might imply that the second infinite sum might also be convergent, whose partial sum sequence was also Cauchy. It turns out that to get a satisfying answer, we should also specify in which set we want it to converge: The rational numbers or its superset, the real numbers. If we take it as real numbers, then yes: The infinite sum -or equivalently its partial sum sequence- converges to another real number. But if we take it as the rational numbers the answer is no, the infinite sum does not converge to another rational number. The set of rational numbers in this sense can be "oblivious" as to where a Cauchy sequence might attempt to converge. More formally, rational numbers are *incomplete* in mathematical jargon: Not all rational Cauchy sequences are convergent to another rational. We have seen, though, that the second sequence is indeed convergence if treated within the scope of real numbers, so our hope seems to hold there. Does that mean this is always the case in real numbers? In other words, is any real Cauchy sequence convergent to another real number? The answer in this case is yes, real numbers are *complete*<sup><a id="footnotemark4" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext4">4</a></sup>, furthermore it is the completion of the rational numbers. Informally stated, the set of real numbers is never "oblivious" as to where any real Cauchy sequence is attempting to converge, it always contains the limit to which such a sequence in it is convergent. This last fact is certainly not trivial and most certainly not without proof, but stating is enough for my purposes.<sup><a id="footnotemark5" href="/whatnot/2022/a_scenario_of_incompleteness/#footnotetext5">5</a></sup>
 
+And so is the story of incompleteness of rational numbers: Although we might raise our hopes for a sequence's convergence by observing that it is Cauchy, it need not be the case. The set of rational numbers remains oblivious as to where a seemingly convergent sequence is going, and the only way to find where such a sequence is going is to pass to its completion, the real numbers.
 
+### ... of Stage Magic
 
-### Of Stage Magic
-
-### Of Theories of Consciousness
+### ... of Consciousness Science
 
 ## Interlude
 
 ## The Cost of Completion
 
-### Of Rational Numbers
+### ... of Rational Numbers
 
 <!-- Book in Files and Folders/PDF/Math/Mathematics and Its History - John Stillwell (auth.).pdf -->
 
-### Of Stage Magic
+### ... of Stage Magic
 
-### Of Theories of Consciousness
+### ... of Theories of Consciousness
 
 ## Non-Conclusion
 
