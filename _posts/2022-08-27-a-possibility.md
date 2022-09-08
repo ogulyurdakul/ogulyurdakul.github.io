@@ -6,7 +6,7 @@ tags:
   - philosophy
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp; "Excuse me, do you have a minute," you friend asks. "The show was brilliant, by the way."
+&nbsp;&nbsp;&nbsp;&nbsp; "Excuse me, do you have a minute," you friend asks. "The show was brilliant, by the way." <br>
 &nbsp;&nbsp;&nbsp;&nbsp; "Oh, thank you very much! I'm about to be done, just a second."
 
 The assistant turns off the lights, locks the backstage door with a large key, and turns to you with a tired smile. "There, how can I help you?"
