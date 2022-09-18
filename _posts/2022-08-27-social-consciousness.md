@@ -37,13 +37,13 @@ One final type of possible content for social consciousness is the possibility o
 \end{compactdesc} -->
 
 Context (C-) qualia
-:   of any mental content upon being placed in a specific social context,\\ e.g. the redness of a flag at half-mast.
+:   of any mental content upon being placed in a specific social context, e.g. the redness of a flag at half-mast.
 
 Membership (M-) qualia
-:   of the sense of belonging to a specific social group,\\ e.g. the "Turkish-ness" of a Turkish person.
+:   of the sense of belonging to a specific social group, e.g. the "Turkish-ness" of a Turkish person.
 
 Shared (S-) qualia
-:   that is shared across the members of a social group, \\ e.g. the redness of a flag at half-mast to a Turkish person.
+:   that is shared across the members of a social group, e.g. the redness of a flag at half-mast to a Turkish person.
 
 A key aspect to all kinds of content for social consciousness is that different social contexts imposed on the exact same set of perceptual information can lead to different qualia. Take the visual information of a person in blue and black dominated clothing approaching as you stand in your bedroom, and the subsequent tactile information of the cold metal pressing against your wrists, that of the softness of bed sheets under you, with the proprioceptive information of the muscular movement in opposition to their tension. Keeping the perceptual information the same, the situation can either come to mean that you are being arrested by the police or that you are having fun with your partner depending on the social context. This synthesis of social cognition can be assigned phenomenal properties, a necessarily social one due to its generation process: The fearfulness and anger of having been -- perhaps unjustly, with more context-- arrested, as opposed to the excitement of role play (for some, at least). Such experiences can be assigned phenomenal properties after they are labelled and processed by whatever social cognitive process involved, and these properties would be characterized just like the individual or unrestricted qualitative properties (ineffability, inaccessibility to the third person, supposed incommunicability, etc.).
 
