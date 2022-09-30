@@ -88,7 +88,7 @@ I suppose a CV has to contain this section. So, for completeness sake, here is a
 <ins>Natural:</ins>
 :   *Turkish (Native)*
 :   *English (Proficient)*
-:   *French (Intermediate)*
+:   *French (Previously proficient, needs some practice talking)*
 :   *Latin (Aspiring beginner for absolutely no reason at all)*
 
 <ins>Formal:</ins>
