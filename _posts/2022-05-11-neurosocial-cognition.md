@@ -7,7 +7,7 @@ tags:
   - course essays
 ---
 
-*I wrote this essay as a midterm assignment in class for the PHIL408 Philosophy of Mind II course I took during the Spring 2022 semester, as a follow-up of the previous semester's PHIL407. We had been discussing the ideas of Dennett, Frith and Gallese among many on cognition and social cognition, embodied simulation and comprehension out of competence. Because it was an in-class midterm and we had limited time (2 hours), our professor had spared us from the obligation of citing our sources explicitly, which is why there are not any in the below text aside from one place (and that is more a name-dropping than a proper citation). I can only state this is absolutely not a presentation of my ideas but of the scientists and philosophers I mentioned earlier, but in my own comprehension and words, with my own examples to the best of my knowledge.*
+*I wrote this essay as a midterm assignment in class for the PHIL408 Philosophy of Mind II course I took during the Spring 2022 semester, as a follow-up of the previous semester's PHIL407. We had been discussing the ideas of Dennett, Frith and Gallese among many on cognition and social cognition, embodied simulation and comprehension out of competence. Because it was an in-class midterm and we had limited time (2 hours), our professor had spared us from the obligation of citing our sources explicitly, which is why there are not any in the below text aside from one place (and that is more a name-dropping than a proper citation). <ins>I can only state this is absolutely not a presentation of my ideas but of the scientists and philosophers I mentioned earlier,</ins> but in my own comprehension and words, with my own examples to the best of my knowledge.*
 
 ---
 
@@ -35,5 +35,5 @@ In the end, we seem to make use of the same neural mechanisms that plan and are 
 
 ## Notes
 
-1. <a id="footnotetext1"></a> While I talk of the emergence of a sense of self only when the member is deceptive, it need not be the case. A suitable member is also obliged to accurately show its competence in relevant respects to be included in the collaborative survival strategy. I do not delve on the development of self, but focus on social cognition in the rest of the essay. [Back up.](/whatnot/2022/social_consciousness/#footnotemark1)
-2. <a id="footnotetext2"></a> To me, at least. [Back up.](/whatnot/2022/social_consciousness/#footnotemark2)
+1. <a id="footnotetext1"></a> While I talk of the emergence of a sense of self only when the member is deceptive, it need not be the case. A suitable member is also obliged to accurately show its competence in relevant respects to be included in the collaborative survival strategy. I do not delve on the development of self, but focus on social cognition in the rest of the essay. [Back up.](/whatnot/2022/neurosocial_cognition/#footnotemark1)
+2. <a id="footnotetext2"></a> To me, at least. [Back up.](/whatnot/2022/neurosocial_cognition/#footnotemark2)
