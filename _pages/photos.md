@@ -17,6 +17,12 @@ redirect_from:
 
 Below you can see the Flickr albums for each posted day, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my other Flickr albums formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
 
+## 29.09-01.10.2022 *ABF Ankara Shodan Seminar*
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720302879247" title="29.09-01.10.2022 ABF Ankara Shodan Seminar"><img src="https://live.staticflickr.com/65535/52425990112_6e56fcf703.jpg" width="500" height="375" alt="29.09-01.10.2022 ABF Ankara Shodan Seminar"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 ## *Roll #1* An introduction to film photography
 
 <div align="center">
