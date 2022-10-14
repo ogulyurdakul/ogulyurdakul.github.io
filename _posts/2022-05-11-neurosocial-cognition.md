@@ -7,7 +7,7 @@ tags:
   - course essays
 ---
 
-*I wrote this essay as a midterm assignment in class for the PHIL408 Philosophy of Mind II course I took during the Spring 2022 semester, as a follow-up of the previous semester's PHIL407. We had been discussing the ideas of Dennett, Frith and Gallese among many on cognition and social cognition, embodied simulation and comprehension out of competence. Because it was an in-class midterm and we had limited time (2 hours), our professor had spared us from the obligation of citing our sources explicitly, which is why there are not any in the below text aside from one place (and more a name-dropping than a proper citation). I can only state this is absolutely not a presentation of my ideas but of the scientists and philosophers I mentioned earlier, but in my own comprehension and words, with my own examples to the best of my knowledge.*
+*I wrote this essay as a midterm assignment in class for the PHIL408 Philosophy of Mind II course I took during the Spring 2022 semester, as a follow-up of the previous semester's PHIL407. We had been discussing the ideas of Dennett, Frith and Gallese among many on cognition and social cognition, embodied simulation and comprehension out of competence. Because it was an in-class midterm and we had limited time (2 hours), our professor had spared us from the obligation of citing our sources explicitly, which is why there are not any in the below text aside from one place (and that is more a name-dropping than a proper citation). I can only state this is absolutely not a presentation of my ideas but of the scientists and philosophers I mentioned earlier, but in my own comprehension and words, with my own examples to the best of my knowledge.*
 
 ---
 
