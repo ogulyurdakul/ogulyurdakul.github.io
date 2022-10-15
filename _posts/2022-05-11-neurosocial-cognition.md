@@ -1,6 +1,6 @@
 ---
 title: 'Social Cognition in the Emergence of Comprehension'
-date: 2022-05-11
+date: 2222-05-11
 permalink: /whatnot/2022/neurosocial_cognition/
 tags:
   - philosophy
