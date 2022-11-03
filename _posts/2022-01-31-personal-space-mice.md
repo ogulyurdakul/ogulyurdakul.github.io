@@ -72,9 +72,9 @@ The data as imported via the code provided in *Behavior Classification Starter K
 - Euclidean distance of the intruder's nose to the resident's.] This is used a sa proxy for the distance between the two mice as perceived by the resident mouse. The obtained values are normalized by the diagonal length of the frame. If $l_r^{(nose)}$ and $l_i^{(nose)}$ denote the nose locations of the resident and intruder mice, the obtained state, say $x_t$ at time $t$ is proportional to $\|l^{(nose)}_r - l^{(nose)}_i\|_2$.
 - Approach velocity of the intruder's nose to the resident.] This value is approximated from the previous state using the constant velocity model: 
 
-$$v_t = \frac{x_{t+1} - x_t}{\Delta t}$$ 
+    $$v_t = \frac{x_{t+1} - x_t}{\Delta t}$$ 
 
-where $\Delta t$ is the sampling frequency of the camera, equal to $1 / 30$ seconds. Because this is computed from an already-normalized quantity, I applied no further normalization.
+    where $\Delta t$ is the sampling frequency of the camera, equal to $1 / 30$ seconds. Because this is computed from an already-normalized quantity, I applied no further normalization.
 - Cosine of the angle between the orientations of the two mice.] This value is found for each time frame using the head orientations of the two mice. Let $\vec{h_r}$ and $\vec{h_i}$ denote the head vectors of the resident and intruder mice, respectively, each found by $$\vec{h_r} = l^{(nose)}_r - l^{(neck)}_r \qquad \vec{h_i} = l^{(nose)}_i - l^{(neck)}_i $$ where $l^{(neck)}$ denotes neck location of each mice. The cosine of the angle between these two vectors at time $t$ is then computed as 
 
     $$\cos\theta_t = \frac{\vec{h_r} \cdot \vec{h_i}}{\|\vec{h_r}\|_2\|\vec{h_i}\|_2}$$ 
