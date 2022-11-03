@@ -1,6 +1,6 @@
 ---
 title: 'Intrusion of Personal Space as a Cause for Violence: An Inverse Reinforcement Learning Problem on Laboratory Mice'
-date: 2022-01-31
+date: 2222-01-31
 permalink: /whatnot/2022/personal_space_lab_mice/
 tags:
   - cognitive science
@@ -142,6 +142,10 @@ I classify my reasons for my model's failure under various categories.
 ## Conclusion
 
 In this study, I tried to learn the utility function of a mouse from the data in the CalMS21 dataset. I made use of an affine utility function over a set of spatial variables to see which spatial features of the intruder cause the resident to mainly attack, but also cause other behaviours as well. The results of my project remain inconclusive. The model as it is implemented in WebPPL failed to successfully learn such a utility function. In the end, I discuss the possible technical reasons for my model's failure, which are failures in the model and hence the modeller. Perhaps a different model and modeller can come up with a better methodology to come and make the desired link, between the spatial features of an intruder and its effects on resident aggression.
+
+## Supplementary Material: Data and Code
+
+Along with the code, I will be submitting two supplementary material. Supplementary Material A is a `.ipynb` file, which is the Google Colab notebook I use and a `.md` document, which is the WebPPL notebook. The Google Colab notebook contains the necessary code snippets that download, processes and exports the data in JSON format. The JSON file is not absolutely necessary, as the WebPPL notebook already contains it as a string. Supplementary Material B is the WebPPL notebook containing the model, it prints out the results in an array format to be analysed back in Colab for the non-approximated case. The models with the approximated distributions are left as they are, without multiple inference sessions.
 
 ## Notes
 
