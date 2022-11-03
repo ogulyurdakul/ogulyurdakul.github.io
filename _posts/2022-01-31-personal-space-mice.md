@@ -88,18 +88,18 @@ Therefore at each $t$, the state $[x_t, v_t, \cos\theta_t]$ is provided to the m
 The state transition model is taken as the constant velocity model, and the third state is always assumed to be constant: 
 
 $$\begin{align*}
-  \hat{x}_{t+1} &= x_t + \Delta t * v_t \\ \hat{v}_{t+1} &= v_t \\ \hat{\cos\theta}_{t+1} &= \cos\theta_t
+  \hat{x}_{t+1} &= x_t + v_t \Delta t  \\ \hat{v}_{t+1} &= v_t \\ \hat{\cos\theta}_{t+1} &= \cos\theta_t
 \end{align*}$$ 
 
 The other two states are taken to be constant. This transition function is cached to save on computation time, which is why it is left deterministic.
 
 The mouse model uses a affine function to evaluate the instantaneous utility of each action. For an action $a$, the instantaneous utility is 
 
-$$U(a, s_t) = \alpha_0^a + \alpha_1^a * x_t + \alpha_2^a * v_t + \alpha_3^a * \cos\theta_t \tag{*}$$ 
+$$U(a, s_t) = \alpha_0^a + \alpha_1^a * x_t + \alpha_2^a * v_t + \alpha_3^a \cos\theta_t \tag{*}$$ 
 
 where the coefficients $\alpha^a_i$ are specific to each action, which are the quantities to be inferred. The cumulative utility is the discounted sum of future utilities. The future utilities are computed using the transition function given above. The mouse is coded as a maximum utility agent, so the action that brings the maximum utility is selected deterministically. 
 
-$$CU(a, s_t) = U_t(a, s_t) + \gamma * \max_{\hat{a}}CU(\hat{a}, \hat{s}_{t+1})$$ 
+$$CU(a, s_t) = U_t(a, s_t) + \gamma \max_{\hat{a}}CU(\hat{a}, \hat{s}_{t+1})$$ 
 
 The linear utility functions are kept reserved for meaningful actions, like attacking and investigation. The utility of taking no actions is fixed at 0. Future utilities $k$ step ahead of current time are discounted by the discount factor $\gamma^k$, where $\gamma = 0.9$. Finally, the infinite recursion is approximated by a finite one, with maximum recursion depth equal to 10. 
 
@@ -155,7 +155,7 @@ Bishop, C. M. (2006). Pattern recognition. *Machine learning*, 128(9).
 
 Davies, E. R. (2004). *Machine vision: theory, algorithms, practicalities*. Elsevier.
 
-Goodman, N. D., & Stuhlm ̈uller, A. (2014). *The Design and Implementation of Probabilistic Programming Languages*. http://dippl.org. (Accessed: 2022-1-31)
+Goodman, N. D., & Stuhlmüller, A. (2014). *The Design and Implementation of Probabilistic Programming Languages*. http://dippl.org. (Accessed: 2022-1-31)
 
 Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., ... Oliphant, T. E. (2020, September). Array programming with NumPy. *Nature*, 585(7825), 357–362. Retrieved from https://doi.org/10.1038/s41586-020-2649-2 doi: 10.1038/s41586-020-2649-2
 
