@@ -1,6 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-date: 2222-10-30
+date: 2022-10-30
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - cognitive science
