@@ -47,7 +47,7 @@ I chose to use WebPPL only for model fitting purposes, as I found Python to be a
 The raw data of the experiment is collected with a camera at a bird's eye view of a mouse enclosure. One male mouse, called the resident mouse, is habituated to the enclosure first. Then, another white intruder mouse is introduced into the cage. Their interactions are recorded by the top-mounted camera with a 30 Hz frame rate. Each frame is then given one of these four labels by experts describing which action is being performed by the resident mouse: Attack, investigation, mounting, and other. The distinguishing feature of this dataset is that along with the videos of the recordings, time series describing the seven anatomically chosen points on each mice is provided. Each frame is processed using Mouse Action Recognition System (MARS) software (Segalin et al., 2021) which makes use of recent advances in computer vision to extract these seven points. Figure 1 shows a summary of the experiment setup and the information provided by MARS.
 
 <p float="left" align="middle">
-    <img src="/images/personal_lab_mice/experiment.png" width="45%" />
+    <img src="/images/personal_lab_mice/experiment.png" width="95%" />
     <br> <em size="-2">Figure 1: (Left) A simplified schematic of the experiment setup. (Right) A sample frame from the recordings, together with the pose estimates from MARS and a trail left by each mouse. Picture taken with modifications from Sun et al. (2021).</em>
 </p>
 
@@ -63,27 +63,45 @@ The data as imported via the code provided in *Behavior Classification Starter K
 **Preprocessing.** The only preprocessing applied to the data is median filtering, which is a basic method of noise removal (Davies, 2004). I opted for this preprocessing step due to its simplicity, and the heavy noise I observed upon plotting the location of each mouse, which showed quite unrealistic, sudden jumps. I deemed that they are likely due to MARS and not the mice themselves. Figure 2 shows the data after this median filtering.
 
 <p float="left" align="middle">
-    <img src="/images/personal_lab_mice/residentNoseLoacs.png" width="45%" />
+    <img src="/images/personal_lab_mice/residentNoseLoacs.png" width="95%" />
     <br> <em size="-2">Figure 2: Resident mouse nose locations after median filtering. The initial point is marked with a blue cross. Data taken from the fifth training data.</em>
 </p>
 
 **Feature Extraction.** To keep the model simple, only the three features are extracted from the data. The three are put in a three dimensional list as a state vector, which contains the following information in the given order: 
 
 - Euclidean distance of the intruder's nose to the resident's.] This is used a sa proxy for the distance between the two mice as perceived by the resident mouse. The obtained values are normalized by the diagonal length of the frame. If $l_r^{(nose)}$ and $l_i^{(nose)}$ denote the nose locations of the resident and intruder mice, the obtained state, say $x_t$ at time $t$ is proportional to $\|l^{(nose)}_r - l^{(nose)}_i\|_2$.
-- Approach velocity of the intruder's nose to the resident.] This value is approximated from the previous state using the constant velocity model: $$v_t = \frac{x_{t+1} - x_t}{\Delta t}$$ where $\Delta t$ is the sampling frequency of the camera, equal to $1 / 30$ seconds. Because this is computed from an already-normalized quantity, I applied no further normalization.
-- Cosine of the angle between the orientations of the two mice.] This value is found for each time frame using the head orientations of the two mice. Let $\vec{h_r}$ and $\vec{h_i}$ denote the head vectors of the resident and intruder mice, respectively, each found by $$\vec{h_r} = l^{(nose)}_r - l^{(neck)}_r \qquad \vec{h_i} = l^{(nose)}_i - l^{(neck)}_i $$ where $l^{(neck)}$ denotes neck location of each mice. The cosine of the angle between these two vectors at time $t$ is then computed as $$\cos\theta_t = \frac{\vec{h_r} \cdot \vec{h_i}}{\|\vec{h_r}\|_2\|\vec{h_i}\|_2}$$ I opted for the cosine of the angle and not the angle directly as it was a symmetric measure around 0 naturally.
+- Approach velocity of the intruder's nose to the resident.] This value is approximated from the previous state using the constant velocity model: 
+
+$$v_t = \frac{x_{t+1} - x_t}{\Delta t}$$ 
+
+where $\Delta t$ is the sampling frequency of the camera, equal to $1 / 30$ seconds. Because this is computed from an already-normalized quantity, I applied no further normalization.
+- Cosine of the angle between the orientations of the two mice.] This value is found for each time frame using the head orientations of the two mice. Let $\vec{h_r}$ and $\vec{h_i}$ denote the head vectors of the resident and intruder mice, respectively, each found by $$\vec{h_r} = l^{(nose)}_r - l^{(neck)}_r \qquad \vec{h_i} = l^{(nose)}_i - l^{(neck)}_i $$ where $l^{(neck)}$ denotes neck location of each mice. The cosine of the angle between these two vectors at time $t$ is then computed as 
+
+    $$\cos\theta_t = \frac{\vec{h_r} \cdot \vec{h_i}}{\|\vec{h_r}\|_2\|\vec{h_i}\|_2}$$ 
+
+    I opted for the cosine of the angle and not the angle directly as it was a symmetric measure around 0 naturally.
 
 Therefore at each $t$, the state $[x_t, v_t, \cos\theta_t]$ is provided to the model, along with the behaviour annotations.
 
 **Model.** I wrote the model in WebPPL (Goodman & Stuhlmüller, 2014) to make use of the probabilistic programming facilities. I wrote a sequential inferencing algorithm, where the prior is provided only in the beginning, each time instance is processed on its own and the posterior is provided as a prior to the next datum of time instance.
 
 The state transition model is taken as the constant velocity model, and the third state is always assumed to be constant: 
+
 $$\begin{align*}
   \hat{x}_{t+1} &= x_t + \Delta t * v_t \\ \hat{v}_{t+1} &= v_t \\ \hat{\cos\theta}_{t+1} &= \cos\theta_t
 \end{align*}$$ 
+
 The other two states are taken to be constant. This transition function is cached to save on computation time, which is why it is left deterministic.
 
-The mouse model uses a affine function to evaluate the instantaneous utility of each action. For an action $a$, the instantaneous utility is $$U(a, s_t) = \alpha_0^a + \alpha_1^a * x_t + \alpha_2^a * v_t + \alpha_3^a * \cos\theta_t \tag{*}$$ where the coefficients $\alpha^a_i$ are specific to each action, which are the quantities to be inferred. The cumulative utility is the discounted sum of future utilities. The future utilities are computed using the transition function given above. The mouse is coded as a maximum utility agent, so the action that brings the maximum utility is selected deterministically. $$CU(a, s_t) = U_t(a, s_t) + \gamma * \max_{\hat{a}}CU(\hat{a}, \hat{s}_{t+1})$$ The linear utility functions are kept reserved for meaningful actions, like attacking and investigation. The utility of taking no actions is fixed at 0. Future utilities $k$ step ahead of current time are discounted by the discount factor $\gamma^k$, where $\gamma = 0.9$. Finally, the infinite recursion is approximated by a finite one, with maximum recursion depth equal to 10. 
+The mouse model uses a affine function to evaluate the instantaneous utility of each action. For an action $a$, the instantaneous utility is 
+
+$$U(a, s_t) = \alpha_0^a + \alpha_1^a * x_t + \alpha_2^a * v_t + \alpha_3^a * \cos\theta_t \tag{*}$$ 
+
+where the coefficients $\alpha^a_i$ are specific to each action, which are the quantities to be inferred. The cumulative utility is the discounted sum of future utilities. The future utilities are computed using the transition function given above. The mouse is coded as a maximum utility agent, so the action that brings the maximum utility is selected deterministically. 
+
+$$CU(a, s_t) = U_t(a, s_t) + \gamma * \max_{\hat{a}}CU(\hat{a}, \hat{s}_{t+1})$$ 
+
+The linear utility functions are kept reserved for meaningful actions, like attacking and investigation. The utility of taking no actions is fixed at 0. Future utilities $k$ step ahead of current time are discounted by the discount factor $\gamma^k$, where $\gamma = 0.9$. Finally, the infinite recursion is approximated by a finite one, with maximum recursion depth equal to 10. 
 
 For all the parameters $\alpha^a_i$ to be inferred, an uncorrelated multivariate gaussian with marginal variances of 15 with zero mean is used.
 
@@ -92,7 +110,7 @@ For all the parameters $\alpha^a_i$ to be inferred, an uncorrelated multivariate
 The initial results of the inference process seemed like a success in the beginning, as the model seemed to be learning  some non-trivial parameters. But later on, I realized that different runs of the model with the same dataset inferred radically different coefficients. Additionally, each inference session resulted in a deterministic result, meaning the posterior distribution turned out to be a probability mass function concentrated on a single point in the parameter space.
 
 <p float="left" align="middle">
-    <img src="/images/personal_lab_mice/exmp.png" width="45%" />
+    <img src="/images/personal_lab_mice/exmp.png" width="65%" />
     <br> <em size="-2">Figure 3: Indices on the $x$-axis show the parameter indices, where the first four belong to the attack utility coefficients, the later four are the investigation utility coefficients.</em>
 </p>
 
