@@ -74,6 +74,8 @@ The strategy I followed in making these adaptations was keeping the test or expe
 3. <a id="footnotetext2_3"></a> Nothing in principle prevents the outside inquisitor \(S_2\) from knowing \(L_1\), but let's keep the matters simple. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark2_3)
 4. <a id="footnotetext2_4"></a> This is important, since if the language cannot be transcribed, both thought experiments lose an important component that is the communication medium. Similarly, a subject that cannot write is useless in these experimental setups, but that is resolved quite easily with a mental reemployment of another subject more suitable for the job. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark2_4)
 
+*Post-Script Note: I admit I originally wrote and submitted this one in a rush, so I noticed quite a number of grammar mistakes and typos while posting it here. I only fixed those in the essay. On the other hand, I was also surprised how I took the phrase "meaning-bearing mind" without questioning (it was given in the question text), and I think it is a term worth thinking on. Maybe later.*
+
 ### References
 
 Dennett, D. C. (2016). Çince odası. In O. Karakaş (Trans.), *Sezgi Pompaları ve Diğer Düşünme Aletleri* (p. 302). Alfa Yayınları.
