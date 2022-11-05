@@ -36,7 +36,7 @@ Broadly speaking, the data processing pipeline I followed was as follows:
 1. Importation the dataset into a Python notebook on Google Colab.
 2. Elementary preprocessing on the raw data.
 3. Feature extraction using NumPy (Harris et al., 2020).
-4. Exportation of the data in JSON format for importation to WebPPL (Goodman & Stuhlm ̈uller, 2014).
+4. Exportation of the data in JSON format for importation to WebPPL (Goodman & Stuhlmüller, 2014).
 5. Model training and result acquisition in WebPPL.
 6. Analysis of model training results in Python back in Colab.
 
@@ -93,9 +93,9 @@ $$\begin{align*}
 
 The other two states are taken to be constant. This transition function is cached to save on computation time, which is why it is left deterministic.
 
-The mouse model uses a affine function to evaluate the instantaneous utility of each action. For an action $a$, the instantaneous utility is 
+The mouse model uses an affine function to evaluate the instantaneous utility of each action. For an action $a$, the instantaneous utility is 
 
-$$U(a, s_t) = \alpha_0^a + \alpha_1^a * x_t + \alpha_2^a * v_t + \alpha_3^a \cos\theta_t \tag{*}$$ 
+$$U(a, s_t) = \alpha_0^a + \alpha_1^a x_t + \alpha_2^a v_t + \alpha_3^a \cos\theta_t \tag{*}$$ 
 
 where the coefficients $\alpha^a_i$ are specific to each action, which are the quantities to be inferred. The cumulative utility is the discounted sum of future utilities. The future utilities are computed using the transition function given above. The mouse is coded as a maximum utility agent, so the action that brings the maximum utility is selected deterministically. 
 

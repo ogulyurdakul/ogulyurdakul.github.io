@@ -3,7 +3,7 @@ layout: archive-nosidebar
 title: "Photo Journal"
 permalink: /photo-journal/
 comments: true
-author_profile: false
+author_profile: true
 redirect_from: 
   - /pics/
   - /photos/
