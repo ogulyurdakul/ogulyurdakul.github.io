@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my personal webpage. I'm currently an M.Sc. student of Electrical and Electronics Engineering at METU, studying statistical signal processing, and I want to become a researcher in cognitive science/neuroscience and an educator of whatever topic I will know enough to teach, whenever that happens. Here, you can find
 
-- A [commented version of my CV](/cv), the comments being some more personal remarks,
+- A [commented version of my CV](/cv), the comments being some more personal remarks that are traditionally left out of regular CVs,
 - [Cheat sheets](/cheat-sheets) on various topics if you're interested in those,
 - My [photo journal](/photo-journal),
 - And [Whatnot](/whatnot), a blog where I share my essays and other works.
