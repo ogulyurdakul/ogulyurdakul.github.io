@@ -1,6 +1,6 @@
 ---
 title: 'Intrusion of Personal Space as a Cause for Violence: An Inverse Reinforcement Learning Problem on Laboratory Mice'
-date: 2222-01-31
+date: 2022-01-31
 permalink: /whatnot/2022/personal_space_lab_mice/
 tags:
   - cognitive science
@@ -145,7 +145,7 @@ In this study, I tried to learn the utility function of a mouse from the data in
 
 ## Supplementary Material: Data and Code
 
-Along with the code, I will be submitting two supplementary material. Supplementary Material A is a `.ipynb` file, which is the Google Colab notebook I use and a `.md` document, which is the WebPPL notebook. The Google Colab notebook contains the necessary code snippets that download, processes and exports the data in JSON format. The JSON file is not absolutely necessary, as the WebPPL notebook already contains it as a string. Supplementary Material B is the WebPPL notebook containing the model, it prints out the results in an array format to be analysed back in Colab for the non-approximated case. The models with the approximated distributions are left as they are, without multiple inference sessions.
+The supplementary material for this project are given [here](https://github.com/ogulyurdakul/personal-space-lab-mice) in GitHub. Supplementary Material A is a `.ipynb` file, which is the Google Colab notebook I use and a `.md` document, which is the WebPPL notebook. The Google Colab notebook contains the necessary code snippets that download, processes and exports the data in JSON format. The JSON file is not absolutely necessary, as the WebPPL notebook already contains it as a string. Supplementary Material B is the WebPPL notebook containing the model, it prints out the results in an array format to be analysed back in Colab for the non-approximated case. The models with the approximated distributions are left as they are, without multiple inference sessions.
 
 ## Notes
 
