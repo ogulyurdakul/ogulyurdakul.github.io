@@ -12,6 +12,7 @@ tags:
 
 1. [Is "autonomous" Same as "automated"?](/whatnot/2022/phil_of_cogsci/#autonomy)
 2. [Turing Tests and Chinese Rooms for Other Minds](/whatnot/2022/phil_of_cogsci/#tt_cra_other_minds)
+3. [Type 2 Theory of ``Mind''](/whatnot/2022/phil_of_cogsci/#type2_mind)
 
 ---
 
