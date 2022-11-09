@@ -122,18 +122,14 @@ In other words, each of these modules' internal explanation as to how it comes t
 3. <a id="footnotetext3_3"></a> Funnily enough, I find this look on these Type 2 components similar to abstracting away from them. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_3)
 4. <a id="footnotetext3_4"></a> Tangled Hierarchy in Hofstadter's words. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_4)
 
-*Post-Script Note:*
-
 ### References
 
 Hofstadter, D. R. (1999). Strange Loops, Or Tangled Hierarchies. In *Gödel, Escher, Bach: An Eternal Golden Braid* (p. 708–709). Basic Books.
 
-Levin, J. (2021). Functionalism. In E. N. Zalta (Ed.), *The Stanford encyclopedia of philosophy* (Winter 2021 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/
-archives/win2021/entries/functionalism/.
+Levin, J. (2021). Functionalism. In E. N. Zalta (Ed.), *The Stanford encyclopedia of philosophy* (Winter 2021 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/win2021/entries/functionalism/.
 
 Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Intelligence, 9* , 37-48. doi:10.1016/0004-3702(77)90013-3
 
-Parker, M. (2014, 4). *The 10,000 Domino Computer - Youtube*. Retrieved from https://www.youtube
-.com/watch?v=OpLU__bhu2
+Parker, M. (2014, 4). *The 10,000 Domino Computer - Youtube*. Retrieved from https://www.youtube.com/watch?v=OpLU__bhu2
 
 Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences, 3* (3), 424.3
