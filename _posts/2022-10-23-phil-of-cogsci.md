@@ -135,5 +135,4 @@ Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Int
 Parker, M. (2014, 4). *The 10,000 Domino Computer - Youtube*. Retrieved from https://www.youtube
 .com/watch?v=OpLU__bhu2
 
-Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences, 3* (3), 424.
-3
+Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences, 3* (3), 424.3
