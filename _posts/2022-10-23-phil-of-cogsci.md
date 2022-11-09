@@ -12,7 +12,7 @@ tags:
 
 1. [Is "autonomous" Same as "automated"?](/whatnot/2022/phil_of_cogsci/#autonomy)
 2. [Turing Tests and Chinese Rooms for Other Minds](/whatnot/2022/phil_of_cogsci/#tt_cra_other_minds)
-3. [Type 2 Theory of ``Mind''](/whatnot/2022/phil_of_cogsci/#type2_mind)
+3. [Type 1 Theory of "Mind"](/whatnot/2022/phil_of_cogsci/#type2_mind)
 
 ---
 
@@ -90,7 +90,7 @@ Turing, A. M. (1950, 10). Computing Machinery and Intelligence. *Mind*, LIX(236)
 
 ---
 
-## <a id="type2_mind"></a> Type 2 Theory of ``Mind''
+## <a id="type2_mind"></a> Type 1 Theory of "Mind"
 
 In his essay, Marr (1977) defines two classes of explanatory theories that could be provided to a problem in artificial intelligence: 
 
