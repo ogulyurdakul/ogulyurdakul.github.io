@@ -86,3 +86,54 @@ Hofstadter, D. R., & Dennett, D. C. (2010). *The Mind's I: Fantasies and Reflect
 Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences, 3* (3), 417-424.
 
 Turing, A. M. (1950, 10). Computing Machinery and Intelligence. *Mind*, LIX(236), 433-460. doi: 10.1093/mind/LIX.236.433
+
+---
+
+## <a id="type2_mind"></a> Type 2 Theory of ``Mind''
+
+In his essay, Marr (1977) defines two classes of explanatory theories that could be provided to a problem in artificial intelligence: 
+
+**Type 1** theories constitute a dichotomy of abstract and physical levels. The abstract level, in Marr's words, provides the ``computational theory'' behind the problem and defines **what** is being computed, as in what sort of abstract quantities are required to solve the problem (e.g. entropy, time, intensity, etc.), and **why** such quantities are computed, as in the goal of an intelligent agent in solving the problem of interest and how they are supposed to be related (e.g. maximize the entropy, perform in minimal time, detect sufficient input intensity, etc.). On the other hand, the physical level defines the specific implementation details and answers **how** the quantities and mechanisms defined by the abstract level are being realized physically (e.g. by neurons, transistors, domino pieces<sup><a id="footnotemark3_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext3_1">1</a></sup>, etc.).
+
+**Type 2** theories are predominantly described by the lack of a structure that Type 1 theories possess. If the scientist cannot identify the abstract constituents of the problem and the mechanisms in between, the only remaining choice is to make do with an already existing solution that they cannot analyse at no level beyond the physical implementation. To Marr, this is a clear indication of the lack of sufficient understanding of the solution underlying the problem: The inability to "abstract away" the physical.
+
+Before discussing the possibility of a Type 1 theory of the/a mind, I would like to evaluate this classification. Marr makes it clear that he sees the true solution to the problem even in a Type 1 theory as residing at the abstract level, and conversely, he sees the lack thereof as the absence of a well-understood theory. This is a clear indication of his functional lenience, with implications for the multiple realizability of the solution with different physical media (Levin, 2021). This makes Marr's classification subject to attacks on functionalism in general. 
+
+An attack that exemplifies those on functionalism (or one of a similar spirit) on the possibility of a Type 1 theory of mind, I believe would come from Searle: If the mind were to have a Type 1 theory, it would be multiply realizable by more than one physical medium, likely those other than biological, as long as they complied with the **what**s and **why**s dictated by the abstract level. Searle would object by claiming intentionality is a biological property (Searle, 1980), and hence would conclude that such a theory cannot exist.
+
+On the other hand, I find it difficult to locate where Turing would stand. His test can only identify intelligence in behaviouristic terms,<sup><a id="footnotemark3_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext3_2">2</a></sup> so it seems to suggest if a computer walks like a mind and quacks like a mind, it must be mind without checking whether it is filled with air, transistors, or neurons. In Marr's words, the computer passing the Turing Test might just as well be realized ``by the simultaneous action of a considerable number of processes, *whose interaction is its own simplest description*'' (Marr, 1977), therefore being a Type 2 theory. On the other hand, it is not difficult to imagine a computer realizing a Type 1 theory of a mind if it exists. So, the Turing Test does not distinguish between theories of different types, so long as they act like a mind.
+
+My general standing on the matter relies heavily on a remark made by Marr: That Type 1 and Type 2 distinction is not a binary classification, but mere identification of the two extremes of a spectrum (Marr, 1977, footnote 3), and that even Type 1 theories can consist (and most likely *do* consist) of several intermediate Type 2 theories (Marr, 1977, p.40). With this remark as a cornerstone, I can imagine a Swiss cheese Type 1 theory of ``mind'' with Type 2 holes emerging one day. The Swiss cheese analogy is critical in the sense that the holes are what characterize the theory (the cheese). The Type 1 theory builds on the many aspects of the mind that are explicated only through Type 2 theories. So, calling them holes is in a sense discrediting them, implying as if they nibble away from the substance of the theory. Calling them the *postulates* of the overarching Type 1 theory would be more suitable: They are taken for what they are as a single module to be used with others to<sup><a id="footnotemark3_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext3_3">3</a></sup>.
+
+I find this similar to Hofstadter's idea that the mind could be understood in terms of a hierarchy<sup><a id="footnotemark3_4" href="/whatnot/2022/phil_of_cogsci/#footnotetext3_4">4</a></sup> of levels, each of which building on the other yet still being isolated in their explanations Hofstadter. Hofstadter claims that a reductionistic explanation of the mind could exist in principle (in fact he is sure of it), yet it would be incomprehensible as it would necessarily be extremely far from our vocabulary of explanations. To comprehend such a theory, it is necessary to introduce levels built of objects made out of those on the lower levels yet whose interactions lose meaning once you go down. In this hierarchy of levels, I imagine the theory making more "familiar" sense (as in becoming comprehensible) as you go up, becoming more Type 1, and making more "unfamiliar" sense as you go down, becoming more Type 2. The level of abstraction and hence that of understanding is therefore found on the higher levels, but they are nothing but sensible modularizations of lower Type 2 theories. 
+
+In other words, each of these modules' internal explanation as to how it comes to be such and such and solve the (sub)problem it is assigned is made by nothing less than the "simultaneous action of a considerable number of processes, *whose interaction is its own simplest description*" as Marr says. Once they are modularized, they become **what**s obeying the **why**s of a Type 1 theory, **how**ever they are realized. The type of a theory relies on the perspective. I would like to imagine Hofstadter would find the following (inverted) pictorial summary of my point entertaining.
+
+<p float="left" align="middle">
+    <img src="/images/phil_of_cogsci/oneTwo.png" width="45%" />
+    <br> <em size="-2">Figure 1: Looking at the blacks, the theory is Type 2. Looking at the white, the theory is Type 1. Inverted Swiss cheese. </em>
+</p>
+
+### Notes
+
+1. <a id="footnotetext3_1"></a> Parker (2014) constructs a binary adder with domino pieces by first constructing the necessary logic gates. The problem is that it only works once as the domino pieces are down in the end and the whole system has to be reset. This implies that the medium of domino pieces can host a UTM in principle, and if we can indeed simulate a mind on a computer (hence a UTM), we can also do it with domino pieces. That mind, although, would only think *once*. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_1)
+2. <a id="footnotetext3_2"></a> I tiptoe away from what another way might be. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_2)
+3. <a id="footnotetext3_3"></a> Funnily enough, I find this look on these Type 2 components similar to abstracting away from them. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_3)
+4. <a id="footnotetext3_4"></a> Tangled Hierarchy in Hofstadter's words. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_4)
+
+*Post-Script Note:*
+
+### References
+
+Hofstadter, D. R. (1999). Strange Loops, Or Tangled Hierarchies. In *Gödel, Escher, Bach: An Eternal Golden Braid* (p. 708–709). Basic Books.
+
+Levin, J. (2021). Functionalism. In E. N. Zalta (Ed.), *The Stanford encyclopedia of philosophy* (Winter 2021 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/
+archives/win2021/entries/functionalism/.
+
+Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Intelligence, 9* , 37-48. doi:10.1016/0004-3702(77)90013-3
+
+Parker, M. (2014, 4). *The 10,000 Domino Computer - Youtube*. Retrieved from https://www.youtube
+.com/watch?v=OpLU__bhu2
+
+Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences, 3* (3), 424.
+3
