@@ -35,12 +35,13 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 <ins>February 2022 - Present: Research Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
 :   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
-:   During Spring 2021-2022, I was responsible for [EE230](https://catalog.metu.edu.tr/course.php?course_code=5670230) and the updated [EE306](https://catalog.metu.edu.tr/course.php?course_code=5670306).
+:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306).
+:   **Fall 2022-2023:** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) and [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
 
 <ins>Summer 2019 - Present: Lab Member</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
 :   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
-:   I study statistical signal processing, with emphasis on particle filters and Chernoff fusion.
+:   I study statistical signal processing, with emphasis on particle filters, Chernoff fusion and extended target tracking.
 
 <ins>Summer 2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
