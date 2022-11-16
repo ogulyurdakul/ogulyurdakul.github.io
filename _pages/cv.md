@@ -75,7 +75,8 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/whatnot/side_gigs/#maths-workshop).
 
 <ins>05/2017 – 05/2018: Team Leader and Director of Communications for [TEDxMETUAnkara 2017 "Grand Illusions"](https://www.ted.com/tedx/events/25058)</ins>
-:   I booked speakers and worked with them on their speeches and was responsible for the overall operations of the event. I also designed and managed [the event website](https://www.tedxmetuankara.com) on Wix. More in [side gigs](/whatnot/side_gigs/#tedxmetuankara).
+:   I booked speakers and worked with them on their speeches and was responsible for the overall operations of the event. I also designed and managed [the event website](https://www.tedxmetuankara.com) on Wix. More in [side gigs](/whatnot/side_gigs/#tedxmetuankara
+).
 
 ## Publications
 I suppose a CV has to contain this section. So, for completeness sake, here is a list of publication(s, hopefully).
