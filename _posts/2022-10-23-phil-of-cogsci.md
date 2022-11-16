@@ -112,7 +112,7 @@ I find this similar to Hofstadter's idea that the mind could be understood in te
 In other words, each of these modules' internal explanation as to how it comes to be such and such and solve the (sub)problem it is assigned is made by nothing less than the "simultaneous action of a considerable number of processes, *whose interaction is its own simplest description*" as Marr says. Once they are modularized, they become **what**s obeying the **why**s of a Type 1 theory, **how**ever they are realized. The type of a theory relies on the perspective. I would like to imagine Hofstadter would find the following (inverted) pictorial summary of my point entertaining.
 
 <p float="left" align="middle">
-    <img src="/images/phil_of_cogsci/oneTwo.png" width="45%" />
+    <img src="/images/phil_of_cogsci/oneTwo.png" width="35%" />
     <br> <em size="-2">Figure 1: Looking at the blacks, the theory is Type 2. Looking at the white, the theory is Type 1. Inverted Swiss cheese. </em>
 </p>
 
