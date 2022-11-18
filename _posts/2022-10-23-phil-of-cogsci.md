@@ -1,6 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-date: 2022-10-30
+date: 2022-11-16
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - philosophy of mind
@@ -13,6 +13,7 @@ tags:
 1. [Is "autonomous" Same as "automated"?](/whatnot/2022/phil_of_cogsci/#autonomy)
 2. [Turing Tests and Chinese Rooms for Other Minds](/whatnot/2022/phil_of_cogsci/#tt_cra_other_minds)
 3. [Type 1 Theory of "Mind"](/whatnot/2022/phil_of_cogsci/#type2_mind)
+4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
 
 ---
 
@@ -111,7 +112,7 @@ I find this similar to Hofstadter's idea that the mind could be understood in te
 In other words, each of these modules' internal explanation as to how it comes to be such and such and solve the (sub)problem it is assigned is made by nothing less than the "simultaneous action of a considerable number of processes, *whose interaction is its own simplest description*" as Marr says. Once they are modularized, they become **what**s obeying the **why**s of a Type 1 theory, **how**ever they are realized. The type of a theory relies on the perspective. I would like to imagine Hofstadter would find the following (inverted) pictorial summary of my point entertaining.
 
 <p float="left" align="middle">
-    <img src="/images/phil_of_cogsci/oneTwo.png" width="45%" />
+    <img src="/images/phil_of_cogsci/oneTwo.png" width="35%" />
     <br> <em size="-2">Figure 1: Looking at the blacks, the theory is Type 2. Looking at the white, the theory is Type 1. Inverted Swiss cheese. </em>
 </p>
 
@@ -133,3 +134,44 @@ Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Int
 Parker, M. (2014, 4). *The 10,000 Domino Computer - Youtube*. Retrieved from https://www.youtube.com/watch?v=OpLU__bhu2
 
 Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences, 3* (3), 424.3
+
+---
+
+## <a id="tug_of_mind"></a> Tug-of-Mind
+
+When we talk about what the mind is, there seem to be two pathways one can take based on the discussions we had in the first week. One natural way of defining what the mind is is to take it from its most prominent possessors, the humans. This way, "mind" is taken as something solely the humans possess, implemented via their brain -- or their nervous system, for the sake of generality. This is in short what the mind-brain identity theory says (Kim, 2011b), that the mental processes are exactly brain processes. Along this line of thinking, the study of the mind becomes naturally the study of the brain, and so cognitive neuroscience would come to encompass cognitive science. The goal of the cognitive scientist -as a side to the cognitive neuroscientists- could become the analysis of the biological processes as discovered by the neuroscientist -- if that isn't already the job of the cognitive neuroscientist. The theories developed would not go beyond explanations of the biological, which means that any simulation of the mind processes would necessarily be simulations of (specific) biological processes. Since in this case, the jobs of the cognitive scientist and the cognitive *neuro*scientist are concurrent and inherently have the same object of inquiry, they should be concurring on any method of going about the business. Study the brain processes, whatever they are.
+
+To most, including myself, this does not feel like a very natural way of understanding the mind. Let's go about a quick thought experiment to illustrate this point. Let's take a cognitive scientist with the above job description, with the usual funding of a thought experiment, i.e. sufficiently large (yet finite<sup><a id="footnotemark4_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext4_1">1</a></sup>) computational resources. If they were to simulate a mind process, the mind-ness of which is due to the fact that is grounded on a biological process, they would in fact be implementing the mind process in question on a non-brain hardware. If the process is indeed a mental process, the workings of which are inspired or modelled after real human nervous systems, then we contradict our own initial argument that mental processes are brain processes: Clearly, the simulated mind processes have now become not-brain processes. The only way I see to evade such a conclusion is to posit that such a simulation can never be done, but I find that casts doubt on the viability of the discoveries and the method of neuroscience.
+
+Inspired by the above thought experiment, one could say another, braver way of defining what "mind" is, that it is to take it as something that is only *exemplified* by humans, and that in principle it could be possessed by many other species, be it organic (biological) or inorganic. While it may look innocent, this is not a real way of making a definition. In the first case, the definition is rather simple: Mind processes are nothing but brain processes by definition, so the mind is their totality. What have they become now? I doubt there is a unique way of definition, but for now, let's leave it at this (as we have done in the lectures): Mind is going above data, by whatever hardware it is implemented. This can also be taken as a starting point for defining functionalism (Kim, 2011a), taking "mind" as something larger than humans and condemning the opposition before as chauvinistic due to its restriction to them.
+
+It is now the jobs of the cognitive scientist and the cognitive *neuro*scientist can start to diverge, for it seems while the cognitive neuroscientist studies mind as implemented by the brain, the cognitive scientist studies mind *simpliciter*. What they might consider as their isolated yet complex tasks as performed by their subject matter (and abstract mind for the cognitive scientist and the human mind-brain for the cognitive neuroscientist) can diverge significantly. 
+
+For example, a cognitive scientist might consider language to be such a basic phenomenon. They take language *simpliciter*, i.e. with its syntax, semantics and pragmatics, or as an abstract pattern with supposed rules and dynamics. They might stipulate what the grounds are for the human brains to possess language, such as Chomsky's language acquisition device, but they do not necessarily worry about biological rigour, evidence or well-definition of such stipulations. The cognitive neuroscientist focuses majorly on those latter worries: What are the neurological grounds for such claims? Are the processes implemented in a distributed manner on (say) the brain or would they have dedicated regions of implementation? What are the neural mechanisms that implement various facets of language? How have these neural mechanisms come to be? 
+
+Conversely, a cognitive *neuro*scientist might take motion control and planning as a basic phenomenon. They would not be interested in it from, say, the control theory perspective of general motion planning. Such theories and ideas become auxiliary, meaning they only have their importance in virtue that they might be implemented by neural mechanisms. The cognitive scientist might see such a framework as overly restrictive and desire to ask higher-level questions<sup><a id="footnotemark4_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext4_2">2</a></sup>. Perhaps<sup><a id="footnotemark4_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext4_3">3</a></sup> a mind does not need to move the body in the same principles as the brain does (whatever they are). They would look for these principles, an algorithm and not the specific implementation details, the significance and role of the quantities being computed in a more abstract setting than "merely the brain."
+
+In short, what is taken as a complex-yet-basic<sup><a id="footnotemark4_4" href="/whatnot/2022/phil_of_cogsci/#footnotetext4_4">4</a></sup> task of interest might differ between the two disciplines. And this could effectively create a tug-of-war -- a tug-of-"mind": The cognitive scientist pulls the starting point towards more general or higher-level concepts such as language, planning, representation and computational principles; while the cognitive neuroscientist pulls it towards more lower-level and physical/neural concepts such as vision, sensorimotor processes, sensorimotor integration and default mode networks. 
+
+Such an opposition might disable a common ground  Newell’s (1973) if both disciplines were to follow his suggestion for clear reasons: They don't agree on what task to study! Cognitive science, choosing the "general mind" as its concept of interest, draws the circle of complex-yet-basic around phenomena too high-level for cognitive neuroscience. Cognitive neuroscience, on the other hand, studies the mind as implemented by the brain, and the circle of complex-yet-basic might not even come close to including the inquiries of cognitive science, and it would regard what's inside as too restricted to the human mind(brain).
+
+But, I do think there is hope: Despite my talking about how the two disciplines could never work on the same problems, they do so all the time. I find this is possible if we take these two disciplines and their approaches as the two levels of Marr (1977): The abstract level and the physical level. Cognitive science wears the abstract level hat and tries to rise above the mind observed as performed by the brain, to generate what and why it should be computing, to better understand and formulate the problem. To this end, it must be well informed of the progress of its partner in mind, cognitive neuroscience wearing the physical level hat, as it is the one that provides the grounds and justifications for what is being implemented by the brain. The claims as to what minds are should inevitably apply to the human minds as well. This brings out the following compromise: These common grounds can effectively bring the two disciplines only in a Type 1 theory setting. 
+
+Therefore as the cognitive scientist tries to generalize the present ideas to a general, likely unobserved and stipulated Mind with a capital M, the cognitive neuroscientist grounds them to the human mind-brain. Another compromise here is that they might not necessarily be studying their corresponding sets of complex-yet-basic phenomena. This, however, should not disturb Newell, I think, because the chess example he gives (justified with a "why not") is in neither sets. Besides, unless we study the two studies intersect, I imagine the development of a unified understanding of the mind as Newell desires would become far more difficult to achieve. 
+
+### Notes
+
+1. <a id="footnotetext4_1"></a> I find it rather safe to impose the finiteness constraint: After all, I as a mind possessor am finite. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_1)
+2. <a id="footnotetext4_2"></a> At this point I find myself at a lack of a satisfactory example: It seems the cognitive scientist might as well ask the same questions as the cognitive neuroscientist framed in the same way, only look for a more general answer. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_2)
+3. <a id="footnotetext4_3"></a> A very big “perhaps” here, one that I make intentionally for the sake of an example. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_3)
+4. <a id="footnotetext4_4"></a> The “basic” here is not in the sense of elementary or fundamental, but more of the same spirit as the chess example of Newell (1973). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_4)
+
+### References
+
+Kim, J. (2011a). Mind as a Causal System: Causal-Theoretical Functionalism. In *Philosophy of Mind* (3rd ed.). Westview Press.
+
+Kim, J. (2011b). Mind as the Brain: Psychoneural Identity Theory. In *Philosophy of Mind* (3rd ed.). Westview Press.
+
+Marr, D. (1977, 8). Artificial Intelligence – A Personal View. *Artificial Intelligence*, 9 , 37-48. doi:10.1016/0004-3702(77)90013-3
+
+Newell, A. (1973). You can’t play 20 questions with nature and win: Projective comments on the papers of this symposium.
