@@ -14,6 +14,7 @@ tags:
 2. [Turing Tests and Chinese Rooms for Other Minds](/whatnot/2022/phil_of_cogsci/#tt_cra_other_minds)
 3. [Type 1 Theory of "Mind"](/whatnot/2022/phil_of_cogsci/#type2_mind)
 4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
+4. [What Is It Like To Be In The Chinese Room?](/whatnot/2022/phil_of_cogsci/#wil_cra)
 
 ---
 
@@ -175,3 +176,38 @@ Kim, J. (2011b). Mind as the Brain: Psychoneural Identity Theory. In *Philosophy
 Marr, D. (1977, 8). Artificial Intelligence – A Personal View. *Artificial Intelligence*, 9 , 37-48. doi:10.1016/0004-3702(77)90013-3
 
 Newell, A. (1973). You can’t play 20 questions with nature and win: Projective comments on the papers of this symposium.
+
+---
+
+## <a id="wil_cra"></a> What Is It Like To Be In The Chinese Room?
+
+Farrell (2016) in his work provides an account of what it means for a discussion to be technical. His motivation to do so stems from a need to clarify what terms we are referring to and what claims we are making. He claims for a discussion to be (philosophically) technical, it needs to involve
+
+- **(T)** technical terms
+- **(I)** introduced by philosophers with specialized
+- **(M)** meanings which allow the technical discourse.
+
+So, let's try to analyze the Chinese Room Argument (CRA) (Searle, 1980) in terms of these criteria: Its reliance on concepts such as the Turing Test, computer and program clears out the (T) criterion, as they convey very specific meanings, with some even not belonging to daily use (such as the ``Turing Test''). While some of these terms are not necessarily defined by philosophers, they certainly attain certain philosophical meanings and implications, which are introduced by philosophers, so (I) and (M) are also checked. Therefore we seem to conclude that CRA is a technical discourse in the sense of Farrell.
+
+But let's take CRA another look. The argument as told by Searle is told in the first-person, so we are implicitly invited to think \emph{what it is like} to be Searle in the situation described. Even if the discourse was not first-person, it is not too difficult to observe that it is a `what it is like' (WIL) argument: The whole punchline of the experiment relies on the reader's empathy with the subject of the experiment inside the room. We imagine ourselves being in the room, processing strings of Chinese characters through a manual that passes the Turing Test, making conversation with an actual Chinese person outside the room yet not knowing anything about it and then are led to agree with Searle with the conclusion of the thought experiment.<sup><a id="footnotemark5_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext5_1">1</a></sup>
+
+What to make of this contradiction? On one hand, CRA seems to satisfy the requirements of a technical discourse as defined by Farrell, yet its main mechanism is a WIL argument, which Farrell denies to be technical. 
+
+The conundrum can be resolved by noticing that the components of CRA as analysed previously are not the usual components which are considered by Farrell in his work. In the examples he gives, the WIL situations (e.g. being a bat as in Nagel, 1974) are themselves non-technical and therefore fail to account for all three conditions posited by Farrell. In CRA, however, the WIL situation crafted by Searle is a technical one: It relies on the reader's understanding of the technical terms such as the passage of the Turing Test, human being's story-understanding capacity, and many more. And so, only because the WIL situation at hand is selected carefully, I conclude CRA is a technical argument.
+
+Lastly, while I may have concluded it is indeed technical, I find this technicality also makes it an unappealing WIL argument. In the examples given by Farrell, the WIL situations were all very much familiar and likely have a place (or a counterpart) in the readers' lives. While this familiarity provided the convincing power of these WIL statements,<sup><a id="footnotemark5_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext5_2">2</a></sup> it pushed them out of technical discourse. The converse, I believe, applies here: While the WIL argument of CRA is technical indeed, it loses its appeal to empathy exactly because it is technical. I, for one, find it difficult to imagine using a manual written in English yet passing the Turing Test in Chinese; yet the knowledge of Chinese not dawning on me as I use it. Or, why should we treat the subject in the room as part of the program as dictated by the manual and not simply as a substrate for the manual's program to run? I believe these questions that push the argument outside the boundaries of my intuition, as well as the many loose ends pointed out by Hofstadter and Dennett (2010) which are again results of technical analyses, are a result of this technical nature. And I doubt any more technical clarification will pull it back to the reaches of my intuition.
+
+### Notes
+
+1. <a id="footnotetext5_1"></a> I don't find it too difficult to see that any thought experiment about consciousness such as Mary the colour scientist and the cross-wired brain are essentially WIL arguments: What is it like to be Mary? What is it like to have our brains cross-wired? Perhaps such thinking is what led Nagel to define having consciousness as having the property of there being something it is like to be that organism (1974). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark5_1)
+2. <a id="footnotetext5_2"></a> Not necessarily philosophical arguments. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark5_2)
+
+### References
+
+Farrell, J. (2016). `What it is Like' Talk is not Technical Talk. *Journal of Consciousness Studies, 23* (9-10), 50 -- 65.
+
+Hofstadter, D. R., & Dennett, D. C. (2010). *The Mind's I: Fantasies and Reflections on Self and Soul.* Basic Books.
+
+Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review, 83* (4), 435 -- 450.
+
+Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences, 3* (3), 417 -- 424.
