@@ -1,6 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-date: 2022-11-16
+date: 2022-11-23
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - philosophy of mind
@@ -8,7 +8,7 @@ tags:
   - course essays
 ---
 
-*These are the weekly quizzes for the COGS517 Philosophy of Cognitive Science course I took during the Fall 2022 semester. They are relatively short (2-3 A4 sheets at most), so I decided to gather them in a single post as I write them. They are in chronological order, and as the course progresses they -more or less- follow a certain progression of topics and questions. While they start off heavily philosophy of mind centric, I expect them to turn to philosophy of cognitive science each week.*
+*These are the weekly quizzes for the COGS517 Philosophy of Cognitive Science course I took during the Fall 2022 semester. They are relatively short (2-3 A4 sheets at most), so I decided to gather them in a single post as I write them. They are in chronological order, and as the course progresses they -more or less- follow a certain progression of topics and questions. While they start off heavily philosophy of mind centric, I expect them to turn more to the philosophy of cognitive science each week.*
 
 1. [Is "autonomous" Same as "automated"?](/whatnot/2022/phil_of_cogsci/#autonomy)
 2. [Turing Tests and Chinese Rooms for Other Minds](/whatnot/2022/phil_of_cogsci/#tt_cra_other_minds)
