@@ -183,9 +183,9 @@ Newell, A. (1973). You can’t play 20 questions with nature and win: Projective
 
 Farrell (2016) in his work provides an account of what it means for a discussion to be technical. His motivation to do so stems from a need to clarify what terms we are referring to and what claims we are making. He claims for a discussion to be (philosophically) technical, it needs to involve
 
-- **(T)** technical terms
-- **(I)** introduced by philosophers with specialized
-- **(M)** meanings which allow the technical discourse.
+- **(T)**echnical terms
+- **(I)**ntroduced by philosophers with specialized
+- **(M)**eanings which allow the technical discourse.
 
 So, let's try to analyze the Chinese Room Argument (CRA) (Searle, 1980) in terms of these criteria: Its reliance on concepts such as the Turing Test, computer and program clears out the (T) criterion, as they convey very specific meanings, with some even not belonging to daily use (such as the ``Turing Test''). While some of these terms are not necessarily defined by philosophers, they certainly attain certain philosophical meanings and implications, which are introduced by philosophers, so (I) and (M) are also checked. Therefore we seem to conclude that CRA is a technical discourse in the sense of Farrell.
 
