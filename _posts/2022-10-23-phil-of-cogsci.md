@@ -1,6 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-date: 2022-11-23
+date: 2022-12-01
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - philosophy of mind
@@ -16,6 +16,7 @@ tags:
 4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
 5. [What Is It Like To Be In The Chinese Room?](/whatnot/2022/phil_of_cogsci/#wil_cra)
 6. [Theory Type of Computational Neuroscience?](/whatnot/2022/phil_of_cogsci/#cogsneuro_type)
+
 ---
 
 ## <a id="autonomy"></a> Is "autonomous" the Same as "automated"?
