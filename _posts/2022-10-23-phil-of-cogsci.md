@@ -15,7 +15,7 @@ tags:
 3. [Type 1 Theory of "Mind"](/whatnot/2022/phil_of_cogsci/#type2_mind)
 4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
 5. [What Is It Like To Be In The Chinese Room?](/whatnot/2022/phil_of_cogsci/#wil_cra)
-6. [Theory Type of Computational Neuroscience?](/whatnot/2022/phil_of_cogsci/#cogsneuro_type)
+6. [Theory Type of Computational Neuroscience](/whatnot/2022/phil_of_cogsci/#cogsneuro_type)
 
 ---
 
