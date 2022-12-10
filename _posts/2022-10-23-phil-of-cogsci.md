@@ -1,10 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-<<<<<<< HEAD
 date: 2022-12-10
-=======
-date: 2022-11-23
->>>>>>> parent of 16ec953 (Merge branch 'master' of https://github.com/ogulyurdakul/ogulyurdakul.github.io)
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - philosophy of mind
@@ -19,11 +15,8 @@ tags:
 3. [Type 1 Theory of "Mind"](/whatnot/2022/phil_of_cogsci/#type2_mind)
 4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
 5. [What Is It Like To Be In The Chinese Room?](/whatnot/2022/phil_of_cogsci/#wil_cra)
-<<<<<<< HEAD
 6. [Theory Type of Computational Neuroscience](/whatnot/2022/phil_of_cogsci/#cogsneuro_type)
 7. [Intentional Stance and the Computer Metaphor](/whatnot/2022/phil_of_cogsci/#intentional_metaphor)
-=======
->>>>>>> parent of 16ec953 (Merge branch 'master' of https://github.com/ogulyurdakul/ogulyurdakul.github.io)
 
 ---
 
@@ -223,6 +216,47 @@ Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Science
 
 ---
 
+## <a id="cogsneuro_type"></a> Theory Type of Computational Neuroscience
+
+In their survey of methods and models in computational neuroscience, Sejnowski, Koch, and Churchland (1988) mention the Hartline-Ratliff model which can explain the Hermann grid illusion. The model says that the cells to which the photoreceptors project (which I will refer to as the projected neuron) weigh the inputs of these photoreceptors in such a way that the contrast between the center of a certain region (called the receptive field) and its borders intensifies the projected cell activity, that the increase in the photoreceptors corresponding to the border of the receptive field inhibits the cell response. This indeed provides a theoretical account for the Hermann grid illusion, a theory which we can analyze in the framework of Marr (1977).
+
+If this is indeed a Type 1 theory, then we should be able to clearly identify the three necessary components:
+
+- **What** quantities are being computed?
+- **Why** are they computed?
+- **How** is the computation realized physically?
+
+The easiest one to clear out seems to be the *how* of the model: The synaptic connections between the projected neuron and the relevant photoreceptors implement the physical realization of the inhibition and excitation. Excitation can be seen as an additive input to cell activity (i.e. output firing rate), while inhibition can be seen as subtractive. The *what* of the model seem to be the central illumination and the outer illumination of the receptive field's border in the simplest terms,<sup><a id="footnotemark6_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_1">1</a></sup> two physical quantities that are represented as the firing rates of two populations of photoreceptors that we categorize. The *why* of the model, however, seems to be harder to identify. Why indeed should a problem-solving (neuro)biological system realize such a mechanism?
+
+To better understand our lack of an answer to this final question, let's go back to the start of our analysis and make an important remark. The subtle wording implies that the Hartline-Ratliff model aimed to account for the Hermann grid illusion. This is more a phenomenon that we experience, rather than a problem the organism solves in a so-and-so manner. Our inquisition led us to an account of the Hermann grid illusion, one that can even be realized in different physical substrates, but not the problem it solves. Defining the *why* of our model as ``to account for the Hermann grid illusion'' is a solution but a non-productive one, there is always the question of why any biological system would aim to implement it. Why should the neural image be constructed in this way?
+
+While I suspect there may be an actual problem this Hartline-Ratliff model solves, one that I am unaware of, I am more interested in leaving this last piece of the puzzle lacking.<sup><a id="footnotemark6_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_2">2</a></sup> Since we can't complete our Type 1 picture, what are we left with? Some *how*s and *what*s, but no *why*. Should we discard our model for its lack of a computational problem it solves? This seems counterproductive, as the model clearly accounts for an observed phenomenon, serves to make predictions about it and even guides the way for different physical realizations for artificial systems to replicate the same phenomena; it is certainly not useless. 
+
+On the other hand, recalling that Marr defines a Type 2 theory primarily by the lack of structure as in Type 1, should we label this theory as Type 2? I oppose this view as well, and turn to Newell (1973) for an answer: I consider the Type 1 vs. Type 2 as a false dichotomy. While it is useful to think about models that give a clear account (Type 1) vs. those that are explained solely by the explicit interaction of their multiple components (Type 2), it is not hard to imagine a whole spectrum of models that lie in between. Models often abstract away incompletely, with various Type 2 sub-theories that implement different parts of an overarching Type 1 model. These Type 2 sub-theories serve like the axiomatic basis of a mathematical theory: We assume they come to represent *what* they are without an account for *how* or *why*, we just make a match of our observations and the big *what*s of the overall Type 1 model. Their *why*s can be taken trivially as being actors or components of overarching Type 1 theory, which is not enough for their own sake but satisfactory for the Type 1 theory. Depending on how large/small and influential these Type 2 sub-theories are within the general Type 1 theory, the whole theory can shift towards being Type 1 or Type 2. This shift reflects our understanding of the guts of the model hand, and it is not hard to imagine a ``lowest level,'' below which there are no more Type 1 but only Type 2 accounts.
+
+Going back to our *why*-deficit<sup><a id="footnotemark6_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_3">3</a></sup> Hartline-Ratliff model, we can take it to be as a well but not fully accounted sub-theory of a yet-to-be-determined Type 1 theory. Its current explanatory power will have to be put to sleep so that in the future we might discover 
+
+1. either the abstract problem the lateral inhibition solves and complete it to a Type 1 theory of its own, or 
+2. a more general theory in which the *what*s and *how*s of the currently incomplete theory will live in.
+
+The crucial point will be to remain open to both possibilities and reconcile with the fact that while it may never be a full Type 1 theory on its own, it still has explanatory and predictive power that can be put the use in other theories. This would make it neither Type 1 or Type 2 *simpliciter*, but this division should not be taken for granted anyways: Only as a guiding principle, the two extremes of a spectrum.
+
+### Notes
+
+1. <a id="footnotetext6_1"></a> To break the binary classification of the photoreceptors as inner or outer, we can give each photoreceptor variable weights so that when the total activity of the population is multiplied with the corresponding weights, the response is obtained. This way a photoreceptor does not have to be either inner or outer, but can reside in between. However, the inner-outer distinction is enough for me, and making the distinction will not change the course of the argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_1)
+2. <a id="footnotetext6_2"></a> I apologize for the anti-climactic turn. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_2)
+2. <a id="footnotetext6_3"></a> Supposedly, at least, for the sake of argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
+
+### References
+
+Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Intelligence, 9*, 37-48. doi: 10.1016/0004-3702(77)90013-3
+
+Newell, A. (1973). You can’t play 20 questions with nature and win: Projective comments on the papers of this symposium.
+
+Sejnowski, T. J., Koch, C., & Churchland, P. S. (1988). Computational Neuroscience. *Science, 241* (4871), 1299–1306.
+
+---
+
 ## <a id="intentional_metaphor"></a> Intentional Stance and the Computer Metaphor
 
 Before thinking of the intentional stance and the computer metaphor together, let's clarify what we mean by each of these terms to have a solid foundation.
@@ -230,12 +264,12 @@ Before thinking of the intentional stance and the computer metaphor together, le
 In his article, Dennett identifies three points of view, *stances* as he calls it, towards an agent in explaining its behaviour (1971).
 
 - **Physical stance**, where we explain the behaviour in purely physical terms. This stance relies purely on natural science theories.
-- **Design stance**, where we explain the behaviour as the result of a design process with certain goals,<sup><a id="footnotemark6_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_1">1</a></sup> constraints, inputs and outputs.
+- **Design stance**, where we explain the behaviour as the result of a design process with certain goals,<sup><a id="footnotemark7_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext7_1">1</a></sup> constraints, inputs and outputs.
 - **Intentional stance**, where we explain the behaviour in folk psychological terms, such as beliefs and desires.
 
-These stances serve us to explain behaviour in different resolutions, with different levels of confidence and in different time scales. If<sup><a id="footnotemark6_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_2">2</a></sup> we can assume a physical stance towards the agent with confidence, our explanations are as solid and fine as the natural sciences we rely on, but making a simple prediction would require extremely lengthy reasoning. On the design level, we abstract away from the fine grains of the physical stance and can account for the agent's behaviour (and predict it) much faster, yet we take the subtle risk of missing our physical-level disturbances and hence of making prediction errors. These errors accumulate furthermore when we assume the intentional stance and twist and cram the agent's theory into folk psychology, in the comfort of making incredibly fast predictions.
+These stances serve us to explain behaviour in different resolutions, with different levels of confidence and in different time scales. If<sup><a id="footnotemark7_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext7_2">2</a></sup> we can assume a physical stance towards the agent with confidence, our explanations are as solid and fine as the natural sciences we rely on, but making a simple prediction would require extremely lengthy reasoning. On the design level, we abstract away from the fine grains of the physical stance and can account for the agent's behaviour (and predict it) much faster, yet we take the subtle risk of missing our physical-level disturbances and hence of making prediction errors. These errors accumulate furthermore when we assume the intentional stance and twist and cram the agent's theory into folk psychology, in the comfort of making incredibly fast predictions.
 
-On the other, the computer metaphor refers to the likening of the workings of the mind to that of a digital computer (Searle, 1990). While some scientists do believe there is a perfect match between the two, i.e. that the mind exactly works like a digital computer,<sup><a id="footnotemark6_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_3">3</a></sup> some cognitive scientists often implicitly adopt this assumption in its partial form. Under this metaphor, the mental states are taken to abide by a certain syntax or a computer instantiation, where the word "computer" is taken in the most abstract sense, although they can be more than simple computational states. While I will not discuss the validity of the metaphor, it suffices to say that it is a problematic point of view and not a unanimous one.
+On the other, the computer metaphor refers to the likening of the workings of the mind to that of a digital computer (Searle, 1990). While some scientists do believe there is a perfect match between the two, i.e. that the mind exactly works like a digital computer,<sup><a id="footnotemark7_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext7_3">3</a></sup> some cognitive scientists often implicitly adopt this assumption in its partial form. Under this metaphor, the mental states are taken to abide by a certain syntax or a computer instantiation, where the word "computer" is taken in the most abstract sense, although they can be more than simple computational states. While I will not discuss the validity of the metaphor, it suffices to say that it is a problematic point of view and not a unanimous one.
 
 Now, in light of the three stances of Dennett and this concept of a computer metaphor: Does adopting the intentional stance avoid adopting the computer metaphor? 
 
@@ -247,9 +281,9 @@ Lastly, I believe the computer metaphor can find a place to live in Dennett's th
 
 ### Notes
 
-1. <a id="footnotetext6_1"></a> Not to be confused with desires. This is a purely mathematical or algorithmic goal, such as the maximization of a certain quantity, like a reward function. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_1)
-2. <a id="footnotetext6_2"></a> Big if. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_2)
-2. <a id="footnotetext6_3"></a> See Searle (1990), endnote 2. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
+1. <a id="footnotetext7_1"></a> Not to be confused with desires. This is a purely mathematical or algorithmic goal, such as the maximization of a certain quantity, like a reward function. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_1)
+2. <a id="footnotetext7_2"></a> Big if. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_2)
+3. <a id="footnotetext7_3"></a> See Searle (1990), endnote 2. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_3)
 
 ### References
 
