@@ -189,7 +189,7 @@ Farrell (2016) in his work provides an account of what it means for a discussion
 
 So, let's try to analyze the Chinese Room Argument (CRA) (Searle, 1980) in terms of these criteria: Its reliance on concepts such as the Turing Test, computer and program clears out the (T) criterion, as they convey very specific meanings, with some even not belonging to daily use (such as the "Turing Test"). While some of these terms are not necessarily defined by philosophers, they certainly attain certain philosophical meanings and implications, which are introduced by philosophers, so (I) and (M) are also checked. Therefore we seem to conclude that CRA is a technical discourse in the sense of Farrell.
 
-But let's take CRA another look. The argument as told by Searle is told in the first-person, so we are implicitly invited to think \emph{what it is like} to be Searle in the situation described. Even if the discourse was not first-person, it is not too difficult to observe that it is a `what it is like' (WIL) argument: The whole punchline of the experiment relies on the reader's empathy with the subject of the experiment inside the room. We imagine ourselves being in the room, processing strings of Chinese characters through a manual that passes the Turing Test, making conversation with an actual Chinese person outside the room yet not knowing anything about it and then are led to agree with Searle with the conclusion of the thought experiment.<sup><a id="footnotemark5_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext5_1">1</a></sup>
+But let's take CRA another look. The argument as told by Searle is told in the first-person, so we are implicitly invited to think *what it is like* to be Searle in the situation described. Even if the discourse was not first-person, it is not too difficult to observe that it is a `what it is like' (WIL) argument: The whole punchline of the experiment relies on the reader's empathy with the subject of the experiment inside the room. We imagine ourselves being in the room, processing strings of Chinese characters through a manual that passes the Turing Test, making conversation with an actual Chinese person outside the room yet not knowing anything about it and then are led to agree with Searle with the conclusion of the thought experiment.<sup><a id="footnotemark5_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext5_1">1</a></sup>
 
 What to make of this contradiction? On one hand, CRA seems to satisfy the requirements of a technical discourse as defined by Farrell, yet its main mechanism is a WIL argument, which Farrell denies to be technical. 
 
@@ -211,3 +211,39 @@ Hofstadter, D. R., & Dennett, D. C. (2010). *The Mind's I: Fantasies and Reflect
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review, 83* (4), 435 -- 450.
 
 Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences, 3* (3), 417 -- 424.
+
+---
+
+## <a id="intentional_metaphor"></a> Intentional Stance and the Computer Metaphor
+
+Before thinking of the intentional stance and the computer metaphor together, let's clarify what we mean by each of these terms to have a solid foundation.
+
+In his article, Dennett identifies three points of view, *stances* as he calls it, towards an agent in explaining its behaviour (1971).
+
+- **Physical stance**, where we explain the behaviour in purely physical terms. This stance relies purely on natural science theories.
+- **Design stance**, where we explain the behaviour as the result of a design process with certain goals,<sup><a id="footnotemark6_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_1">1</a></sup> constraints, inputs and outputs.
+- **Intentional stance**, where we explain the behaviour in folk psychological terms, such as beliefs and desires.
+
+These stances serve us to explain behaviour in different resolutions, with different levels of confidence and in different time scales. If<sup><a id="footnotemark6_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_2">2</a></sup> we can assume a physical stance towards the agent with confidence, our explanations are as solid and fine as the natural sciences we rely on, but making a simple prediction would require extremely lengthy reasoning. On the design level, we abstract away from the fine grains of the physical stance and can account for the agent's behaviour (and predict it) much faster, yet we take the subtle risk of missing our physical-level disturbances and hence of making prediction errors. These errors accumulate furthermore when we assume the intentional stance and twist and cram the agent's theory into folk psychology, in the comfort of making incredibly fast predictions.
+
+On the other, the computer metaphor refers to the likening of the workings of the mind to that of a digital computer (Searle, 1990). While some scientists do believe there is a perfect match between the two, i.e. that the mind exactly works like a digital computer,<sup><a id="footnotemark6_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_3">3</a></sup> some cognitive scientists often implicitly adopt this assumption in its partial form. Under this metaphor, the mental states are taken to abide by a certain syntax or a computer instantiation, where the word "computer" is taken in the most abstract sense, although they can be more than simple computational states. While I will not discuss the validity of the metaphor, it suffices to say that it is a problematic point of view and not a unanimous one.
+
+Now, in light of the three stances of Dennett and this concept of a computer metaphor: Does adopting the intentional stance avoid adopting the computer metaphor? 
+
+I find it important to note that all three stances are only explanatory tools. One can even say that adopting one stance does not automatically come with any uniqueness or ontological claims. One can adopt the algorithmic stance in explaining a reinforcement learning agent's behaviour, with its reward functions, observations and action policies; without explicitly committing that they are the only possible explanations for the behaviour in question. Similarly, one can take the intentional stance and make predictions about the same reinforcement learning agent, claiming it believes so-and-so because it desires this-and-that, without committing explicitly to the existence of beliefs and desires. The three stances are tools of explanation, at different time scales, resolutions and reliabilities. They don't have to (but may) put forward any theory about the *actual* underlying the observed agent's behaviour.
+
+With this observation in mind, I find it evident that the intentional stance does indeed avoid the computer metaphor, as it simply does not make any commitments regarding the *actual* theory behind the mind. In taking the intentional stance, one simply ascribes folk psychological properties to an agent without claiming it indeed possesses them and makes some predictions regarding its current and future behaviour. This has nothing to do with likening or equating the *actual* workings of the mind to that of a computer. We may even go as far as to notice that the partial equivalences of the computer metaphor, such as calling one thing the "software" or the  "hardware," don't even find a place in folk psychology, so it is only natural that the two points of view don't overlap.
+
+Lastly, I believe the computer metaphor can find a place to live in Dennett's three stances: The design stance. Claiming that the mind works like a digital computer instantiation, with mental states likened to computer states, the algorithmic stance can be taken to analyze the mind. By assuming the design stance we might come to implicitly assume that there is a "designer," much like coming to implicitly assume a "programmer" in the computer metaphor. The only problem is that in taking a stance --any stance- we imply that we are aiming to explain the behaviour of an agent, likely a human agent. To give such an explanation in the design stance, we require the underlying syntax or the program, which we currently do not have.
+
+### Notes
+
+1. <a id="footnotetext6_1"></a> Not to be confused with desires. This is a purely mathematical or algorithmic goal, such as the maximization of a certain quantity, like a reward function. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_1)
+2. <a id="footnotetext6_2"></a> Big if. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_2)
+2. <a id="footnotetext6_3"></a> See Searle (1990), endnote 2. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
+
+### References
+
+Dennett, D. C. (1971). Intentional Systems. *The Journal of Philosophy, 68* (4), 87–106.
+
+Searle, J. R. (1990). Cognitive Science and the Computer Metaphor. In *Artifical Intelligence, Culture and Language: On Education and Work* (pp. 23–34). Springer.
