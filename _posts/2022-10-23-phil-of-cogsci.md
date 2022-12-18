@@ -17,6 +17,7 @@ tags:
 5. [What Is It Like To Be In The Chinese Room?](/whatnot/2022/phil_of_cogsci/#wil_cra)
 6. [Theory Type of Computational Neuroscience](/whatnot/2022/phil_of_cogsci/#cogsneuro_type)
 7. [Intentional Stance and the Computer Metaphor](/whatnot/2022/phil_of_cogsci/#intentional_metaphor)
+8. [Computation with Different Inputs](/whatnot/2022/phil_of_cogsci/#diff_inputs)
 
 ---
 
@@ -290,3 +291,37 @@ Lastly, I believe the computer metaphor can find a place to live in Dennett's th
 Dennett, D. C. (1971). Intentional Systems. *The Journal of Philosophy, 68* (4), 87–106.
 
 Searle, J. R. (1990). Cognitive Science and the Computer Metaphor. In *Artifical Intelligence, Culture and Language: On Education and Work* (pp. 23–34). Springer.
+
+---
+
+## <a id="diff_inputs"></a> Computation with Different Inputs
+
+Let us consider the following two scenarios.
+:    **(I)** On one side, consider a baseball player, a fielder running to catch the ball. We can take the behaviour exhibited by the player in response to the ball's flight to be a computation, one that takes the (predominantly) visual input corresponding to the ball to plan and execute actions to accomplish a localization and self-orientation goal. 
+:    **(II)** On the other side we have a bee, one that is taken away from its hive, trying to get home. The key ingredient here is that the bee's eye works differently than our human fielder's, it polarizes light to provide additional angular information to the bee. The bee, with this additional information, can find its home base easily even if it finds itself very far away (proportional to the size of the bee). 
+
+Considering that the bee makes use of such additional information to achieve its localization and self-orientation goal, similar to the human's, should we consider it computation still?
+
+Let's first look at what's happening on the fielder's side. There is a clearly defined over-arching goal of ball catching and various inputs. It is important not to restrict the inputs to those external to the fielder, since the bodily inputs such as proprioception and metabolic information are also part of the inputs provided to the controller we are supposing --we don't want the player to run out of breath unnecessarily, lose coordination or balance, etc. Therefore the computational process we seek, which is most likely a closed-loop control problem, is one that maps these inputs to bodily actions to accomplish the defined goal. In doing so, I find it safe to assume there are numerous levels of sub-goals and parallel goals, all coordinated by a central coordinator.<sup><a id="footnotemark8_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext8_1">1</a></sup> 
+
+If we take (I) as computation, one that maps available perceptual input to the coordinative output of behaviour an action, I see no reason to exclude (II) from being a result of a computation. There is again the perceptual information, with the addition of polarization information, and the coordination of the flight behaviour to localize and move towards the hive. The addition of polarization should not violate the \emph{computation-ness} of the bee's behaviour given we're assuming the fielder's. It is simply a perceptual input different to ours, but it is still in need of information processing so that the location of the hive can be extracted from it and mapped to appropriate information. If we assume representation in (I), say of the ball's supposed location, velocity, curvature etc., we can easily find representation in (II) as well: The home base's supposed location, the angle difference between the bee's heading direction and this supposed location, and more. Let's also not forget the representations needed for bodily control needed on top of the basal ones. If the fielder needs to keep balance as they run with the ball so does the bee need to maintain steady flight in going towards the home base, and if the first one begs the need for representation, why shouldn't the second one?
+
+If our doubts of computation-ness in (II) stem from the further perceptual information of polarization, let's try and go to the extremes of increased and decreased information and look for computation there. Let us equate the comparison further by considering two identical and abstract agents, solving the same problem of locating and going to a distant finish mark.
+:    **(M)** The first agent has full knowledge of the map, its location in it and the obstacles. It even has the best path planned out, either by pure restrictions of the environment or provided by some all-might path-planner deity.
+:    **(m)** The second agent is the unluckiest agent there could be: It has no knowledge of the map, it's location in it or the obstacles. It even has no capacity to extract such a map as it has no perceptual input, it is completely blind to the environment, except for the ability to tell whether it is at the finish mark or not.
+
+The common capabilities of these two agents are that they can indeed control their own body, and can tell whether they are at the finish mark or not. 
+
+If this were a race, it would certainly be an unfair one: While the agent in (M) has full information regarding the solution of the problem, even the best possible solution itself, it is still tasked with executing it. On the other hand, the only choice for the agent in (m) is to perform a random walk, check whether it is at the finish mark, and if not, simply keep going. Both of these agents are tasked with controlling their bodies to execute a certain plan, be it extraordinarily perfect or as imperfect as possible, and continually check whether the defined task (of reaching the finish mark) is fulfilled or not, so that they can decide between pressing on or stopping. Naturally one will finish way earlier than the other, if at all, but the computational needs for the two are identical, although necessarily different. If we are dubbing the lesser information scenario as computation, there should be no reason to exclude the greater information scenario. 
+
+Lastly, I would like to make the above example more concrete by giving an actual computational problem. Let's say we have two computers tasked with computing the prime factorization of a given natural number \(N\), namely the following unique factorization: \[N = p_1^{n_1}p_2^{n_2}...p_k^{n_k} \qquad \text{where } p_i \in \mathbb P \text{ and } k,n_i\in \mathbb N^+\] The list of prime divisors and their exponents is the finish mark, and the common ``perceptual input'' is the number \(n\) which provides the boolean check for arriving at the finish mark. 
+:    (\(M_n\)) On one side we have a privileged algorithm: It has an immense hash table full of pointers. It has the prime factorization for any \(n\) that fits the word length,<sup><a id="footnotemark8_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext8_2">2</a></sup> with all the unique primes and their integer exponents.
+:    (\(m_n\)) The less privileged algorithm is a random guesser: It tries all the natural numbers of the given word length (smaller or greater than \(n\)) as divisors, primeness and again randomly guesses the exponent. If it fails, it tries another natural number, until it finds all the prime divisors.
+
+It is clear that the program in (\(M_n\)) will provide the correct result immediately, as it already has the answer while the one in (\(m_n\)) will take significantly longer, especially considering it tries a vast array of numbers, smaller or larger, and likely with multiplicity (no reason why a prior guess shouldn't come up again). Although it is trivial to see how both of them are computations: Sure, the first one will require immense storage, but it is nonetheless computation because we constructed the example to be computational! The computational process to take place upon execution is an extremely simple one, yet it still is computation. The addition of more ``perceptual information,'' i.e. the perception of all the possible \(n\)'s prime factorizations, does not rule out computation-ness, although can modify and simplify it.
+
+### Notes
+
+1. <a id="footnotetext8_1"></a> This seems to disregard the possibility of parallel processing: What if multiple processes are running in parallel without a central controller? I will go on assuming a central controller, as I don't think parallelization poses a problem in the coming. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark8_1)
+2. <a id="footnotetext8_2"></a> The word length is the number of bits used in representing numbers in a computer. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark8_2)
+
