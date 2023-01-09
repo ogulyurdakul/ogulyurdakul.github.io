@@ -1,6 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-date: 2022-12-01
+date: 2022-12-23
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - philosophy of mind
@@ -16,6 +16,9 @@ tags:
 4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
 5. [What Is It Like To Be In The Chinese Room?](/whatnot/2022/phil_of_cogsci/#wil_cra)
 6. [Theory Type of Computational Neuroscience](/whatnot/2022/phil_of_cogsci/#cogsneuro_type)
+7. [Intentional Stance and the Computer Metaphor](/whatnot/2022/phil_of_cogsci/#intentional_metaphor)
+8. [Computation with Different Inputs](/whatnot/2022/phil_of_cogsci/#diff_inputs)
+9. [Putting the Mind into Context](/whatnot/2022/phil_of_cogsci/#context)
 
 ---
 
@@ -190,7 +193,7 @@ Farrell (2016) in his work provides an account of what it means for a discussion
 
 So, let's try to analyze the Chinese Room Argument (CRA) (Searle, 1980) in terms of these criteria: Its reliance on concepts such as the Turing Test, computer and program clears out the (T) criterion, as they convey very specific meanings, with some even not belonging to daily use (such as the "Turing Test"). While some of these terms are not necessarily defined by philosophers, they certainly attain certain philosophical meanings and implications, which are introduced by philosophers, so (I) and (M) are also checked. Therefore we seem to conclude that CRA is a technical discourse in the sense of Farrell.
 
-But let's take CRA another look. The argument as told by Searle is told in the first-person, so we are implicitly invited to think \emph{what it is like} to be Searle in the situation described. Even if the discourse was not first-person, it is not too difficult to observe that it is a `what it is like' (WIL) argument: The whole punchline of the experiment relies on the reader's empathy with the subject of the experiment inside the room. We imagine ourselves being in the room, processing strings of Chinese characters through a manual that passes the Turing Test, making conversation with an actual Chinese person outside the room yet not knowing anything about it and then are led to agree with Searle with the conclusion of the thought experiment.<sup><a id="footnotemark5_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext5_1">1</a></sup>
+But let's take CRA another look. The argument as told by Searle is told in the first-person, so we are implicitly invited to think *what it is like* to be Searle in the situation described. Even if the discourse was not first-person, it is not too difficult to observe that it is a `what it is like' (WIL) argument: The whole punchline of the experiment relies on the reader's empathy with the subject of the experiment inside the room. We imagine ourselves being in the room, processing strings of Chinese characters through a manual that passes the Turing Test, making conversation with an actual Chinese person outside the room yet not knowing anything about it and then are led to agree with Searle with the conclusion of the thought experiment.<sup><a id="footnotemark5_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext5_1">1</a></sup>
 
 What to make of this contradiction? On one hand, CRA seems to satisfy the requirements of a technical discourse as defined by Farrell, yet its main mechanism is a WIL argument, which Farrell denies to be technical. 
 
@@ -221,22 +224,22 @@ In their survey of methods and models in computational neuroscience, Sejnowski, 
 
 If this is indeed a Type 1 theory, then we should be able to clearly identify the three necessary components:
 
-- *What* quantities are being computed?
-- *Why* are they computed?
-- *How* is the computation realized physically?
-    
+- **What** quantities are being computed?
+- **Why** are they computed?
+- **How** is the computation realized physically?
+
 The easiest one to clear out seems to be the *how* of the model: The synaptic connections between the projected neuron and the relevant photoreceptors implement the physical realization of the inhibition and excitation. Excitation can be seen as an additive input to cell activity (i.e. output firing rate), while inhibition can be seen as subtractive. The *what* of the model seem to be the central illumination and the outer illumination of the receptive field's border in the simplest terms,<sup><a id="footnotemark6_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_1">1</a></sup> two physical quantities that are represented as the firing rates of two populations of photoreceptors that we categorize. The *why* of the model, however, seems to be harder to identify. Why indeed should a problem-solving (neuro)biological system realize such a mechanism?
 
 To better understand our lack of an answer to this final question, let's go back to the start of our analysis and make an important remark. The subtle wording implies that the Hartline-Ratliff model aimed to account for the Hermann grid illusion. This is more a phenomenon that we experience, rather than a problem the organism solves in a so-and-so manner. Our inquisition led us to an account of the Hermann grid illusion, one that can even be realized in different physical substrates, but not the problem it solves. Defining the *why* of our model as "to account for the Hermann grid illusion" is a solution but a non-productive one, there is always the question of why any biological system would aim to implement it. Why should the neural image be constructed in this way?
 
 While I suspect there may be an actual problem this Hartline-Ratliff model solves, one that I am unaware of, I am more interested in leaving this last piece of the puzzle lacking.<sup><a id="footnotemark6_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_2">2</a></sup> Since we can't complete our Type 1 picture, what are we left with? Some *how*s and *what*s, but no *why*. Should we discard our model for its lack of a computational problem it solves? This seems counterproductive, as the model clearly accounts for an observed phenomenon, serves to make predictions about it and even guides the way for different physical realizations for artificial systems to replicate the same phenomena; it is certainly not useless. 
 
-On the other hand, recalling that Marr defines a Type 2 theory primarily by the lack of structure as in Type 1, should we label this theory as Type 2? I oppose this view as well, and turn to Newell (1973) for an answer: I consider the Type 1 vs. Type 2 as a false dichotomy. While it is useful to think about models that give a clear account (Type 1) vs. those that are explained solely by the explicit interaction of their multiple components (Type 2), it is not hard to imagine a whole spectrum of models that lie in between. Models often abstract away incompletely, with various Type 2 sub-theories that implement different parts of an overarching Type 1 model. These Type 2 sub-theories serve like the axiomatic basis of a mathematical theory: We assume they come to represent *what* they are without an account for *how* or *why*, we just make a match of our observations and the big *What*s of the overall Type 1 model. Their *why*s can be taken trivially as being actors or components of overarching Type 1 theory, which is not enough for their own sake but satisfactory for the Type 1 theory. Depending on how large/small and influential these Type 2 sub-theories are within the general Type 1 theory, the whole theory can shift towards being Type 1 or Type 2. This shift reflects our understanding of the guts of the model hand, and it is not hard to imagine a "lowest level," below which there are no more Type 1 but only Type 2 accounts.
+On the other hand, recalling that Marr defines a Type 2 theory primarily by the lack of structure as in Type 1, should we label this theory as Type 2? I oppose this view as well, and turn to Newell (1973) for an answer: I consider the Type 1 vs. Type 2 as a false dichotomy. While it is useful to think about models that give a clear account (Type 1) vs. those that are explained solely by the explicit interaction of their multiple components (Type 2), it is not hard to imagine a whole spectrum of models that lie in between. Models often abstract away incompletely, with various Type 2 sub-theories that implement different parts of an overarching Type 1 model. These Type 2 sub-theories serve like the axiomatic basis of a mathematical theory: We assume they come to represent *what* they are without an account for *how* or *why*, we just make a match of our observations and the big *what*s of the overall Type 1 model. Their *why*s can be taken trivially as being actors or components of overarching Type 1 theory, which is not enough for their own sake but satisfactory for the Type 1 theory. Depending on how large/small and influential these Type 2 sub-theories are within the general Type 1 theory, the whole theory can shift towards being Type 1 or Type 2. This shift reflects our understanding of the guts of the model hand, and it is not hard to imagine a "lowest level," below which there are no more Type 1 but only Type 2 accounts.
 
 Going back to our *why*-deficit<sup><a id="footnotemark6_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext6_3">3</a></sup> Hartline-Ratliff model, we can take it to be as a well but not fully accounted sub-theory of a yet-to-be-determined Type 1 theory. Its current explanatory power will have to be put to sleep so that in the future we might discover 
 
-- either the abstract problem the lateral inhibition solves and complete it to a Type 1 theory of its own, or 
-- a more general theory in which the *what*s and *how*s of the currently incomplete theory will live in.
+1. either the abstract problem the lateral inhibition solves and complete it to a Type 1 theory of its own, or 
+2. a more general theory in which the *what*s and *how*s of the currently incomplete theory will live in.
 
 The crucial point will be to remain open to both possibilities and reconcile with the fact that while it may never be a full Type 1 theory on its own, it still has explanatory and predictive power that can be put the use in other theories. This would make it neither Type 1 or Type 2 *simpliciter*, but this division should not be taken for granted anyways: Only as a guiding principle, the two extremes of a spectrum.
 
@@ -244,12 +247,118 @@ The crucial point will be to remain open to both possibilities and reconcile wit
 
 1. <a id="footnotetext6_1"></a> To break the binary classification of the photoreceptors as inner or outer, we can give each photoreceptor variable weights so that when the total activity of the population is multiplied with the corresponding weights, the response is obtained. This way a photoreceptor does not have to be either inner or outer, but can reside in between. However, the inner-outer distinction is enough for me, and making the distinction will not change the course of the argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_1)
 2. <a id="footnotetext6_2"></a> I apologize for the anti-climactic turn. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_2)
-3. <a id="footnotetext6_3"></a> Supposedly, at least, for the sake of argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
+2. <a id="footnotetext6_3"></a> Supposedly, at least, for the sake of argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
 
 ### References
 
-Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Intelligence, 9* , 37-48. doi: 10.1016/0004-3702(77)90013-3
+Marr, D. (1977, 8). Artificial Intelligence — A Personal View. *Artificial Intelligence, 9*, 37-48. doi: 10.1016/0004-3702(77)90013-3
 
 Newell, A. (1973). You can’t play 20 questions with nature and win: Projective comments on the papers of this symposium.
 
 Sejnowski, T. J., Koch, C., & Churchland, P. S. (1988). Computational Neuroscience. *Science, 241* (4871), 1299–1306.
+
+---
+
+## <a id="intentional_metaphor"></a> Intentional Stance and the Computer Metaphor
+
+Before thinking of the intentional stance and the computer metaphor together, let's clarify what we mean by each of these terms to have a solid foundation.
+
+In his article, Dennett identifies three points of view, *stances* as he calls it, towards an agent in explaining its behaviour (1971).
+
+- **Physical stance**, where we explain the behaviour in purely physical terms. This stance relies purely on natural science theories.
+- **Design stance**, where we explain the behaviour as the result of a design process with certain goals,<sup><a id="footnotemark7_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext7_1">1</a></sup> constraints, inputs and outputs.
+- **Intentional stance**, where we explain the behaviour in folk psychological terms, such as beliefs and desires.
+
+These stances serve us to explain behaviour in different resolutions, with different levels of confidence and in different time scales. If<sup><a id="footnotemark7_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext7_2">2</a></sup> we can assume a physical stance towards the agent with confidence, our explanations are as solid and fine as the natural sciences we rely on, but making a simple prediction would require extremely lengthy reasoning. On the design level, we abstract away from the fine grains of the physical stance and can account for the agent's behaviour (and predict it) much faster, yet we take the subtle risk of missing our physical-level disturbances and hence of making prediction errors. These errors accumulate furthermore when we assume the intentional stance and twist and cram the agent's theory into folk psychology, in the comfort of making incredibly fast predictions.
+
+On the other, the computer metaphor refers to the likening of the workings of the mind to that of a digital computer (Searle, 1990). While some scientists do believe there is a perfect match between the two, i.e. that the mind exactly works like a digital computer,<sup><a id="footnotemark7_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext7_3">3</a></sup> some cognitive scientists often implicitly adopt this assumption in its partial form. Under this metaphor, the mental states are taken to abide by a certain syntax or a computer instantiation, where the word "computer" is taken in the most abstract sense, although they can be more than simple computational states. While I will not discuss the validity of the metaphor, it suffices to say that it is a problematic point of view and not a unanimous one.
+
+Now, in light of the three stances of Dennett and this concept of a computer metaphor: Does adopting the intentional stance avoid adopting the computer metaphor? 
+
+I find it important to note that all three stances are only explanatory tools. One can even say that adopting one stance does not automatically come with any uniqueness or ontological claims. One can adopt the algorithmic stance in explaining a reinforcement learning agent's behaviour, with its reward functions, observations and action policies; without explicitly committing that they are the only possible explanations for the behaviour in question. Similarly, one can take the intentional stance and make predictions about the same reinforcement learning agent, claiming it believes so-and-so because it desires this-and-that, without committing explicitly to the existence of beliefs and desires. The three stances are tools of explanation, at different time scales, resolutions and reliabilities. They don't have to (but may) put forward any theory about the *actual* underlying the observed agent's behaviour.
+
+With this observation in mind, I find it evident that the intentional stance does indeed avoid the computer metaphor, as it simply does not make any commitments regarding the *actual* theory behind the mind. In taking the intentional stance, one simply ascribes folk psychological properties to an agent without claiming it indeed possesses them and makes some predictions regarding its current and future behaviour. This has nothing to do with likening or equating the *actual* workings of the mind to that of a computer. We may even go as far as to notice that the partial equivalences of the computer metaphor, such as calling one thing the "software" or the  "hardware," don't even find a place in folk psychology, so it is only natural that the two points of view don't overlap.
+
+Lastly, I believe the computer metaphor can find a place to live in Dennett's three stances: The design stance. Claiming that the mind works like a digital computer instantiation, with mental states likened to computer states, the algorithmic stance can be taken to analyze the mind. By assuming the design stance we might come to implicitly assume that there is a "designer," much like coming to implicitly assume a "programmer" in the computer metaphor. The only problem is that in taking a stance --any stance- we imply that we are aiming to explain the behaviour of an agent, likely a human agent. To give such an explanation in the design stance, we require the underlying syntax or the program, which we currently do not have.
+
+### Notes
+
+1. <a id="footnotetext7_1"></a> Not to be confused with desires. This is a purely mathematical or algorithmic goal, such as the maximization of a certain quantity, like a reward function. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_1)
+2. <a id="footnotetext7_2"></a> Big if. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_2)
+3. <a id="footnotetext7_3"></a> See Searle (1990), endnote 2. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_3)
+
+### References
+
+Dennett, D. C. (1971). Intentional Systems. *The Journal of Philosophy, 68* (4), 87–106.
+
+Searle, J. R. (1990). Cognitive Science and the Computer Metaphor. In *Artifical Intelligence, Culture and Language: On Education and Work* (pp. 23–34). Springer.
+
+---
+
+## <a id="diff_inputs"></a> Computation with Different Inputs
+
+Let us consider the following two scenarios.
+
+- **(I)** On one side, consider a baseball player, a fielder running to catch the ball. We can take the behaviour exhibited by the player in response to the ball's flight to be a computation, one that takes the (predominantly) visual input corresponding to the ball to plan and execute actions to accomplish a localization and self-orientation goal. 
+- **(II)** On the other side we have a bee, one that is taken away from its hive, trying to get home. The key ingredient here is that the bee's eye works differently than our human fielder's, it polarizes light to provide additional angular information to the bee. The bee, with this additional information, can find its home base easily even if it finds itself very far away (proportional to the size of the bee). 
+
+Considering that the bee makes use of such additional information to achieve its localization and self-orientation goal, similar to the human's, should we consider it computation still?
+
+Let's first look at what's happening on the fielder's side. There is a clearly defined over-arching goal of ball catching and various inputs. It is important not to restrict the inputs to those external to the fielder, since the bodily inputs such as proprioception and metabolic information are also part of the inputs provided to the controller we are supposing --we don't want the player to run out of breath unnecessarily, lose coordination or balance, etc. Therefore the computational process we seek, which is most likely a closed-loop control problem, is one that maps these inputs to bodily actions to accomplish the defined goal. In doing so, I find it safe to assume there are numerous levels of sub-goals and parallel goals, all coordinated by a central coordinator.<sup><a id="footnotemark8_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext8_1">1</a></sup> 
+
+If we take (I) as computation, one that maps available perceptual input to the coordinative output of behaviour an action, I see no reason to exclude (II) from being a result of a computation. There is again the perceptual information, with the addition of polarization information, and the coordination of the flight behaviour to localize and move towards the hive. The addition of polarization should not violate the *computation-ness* of the bee's behaviour given we're assuming the fielder's. It is simply a perceptual input different to ours, but it is still in need of information processing so that the location of the hive can be extracted from it and mapped to appropriate information. If we assume representation in (I), say of the ball's supposed location, velocity, curvature etc., we can easily find representation in (II) as well: The home base's supposed location, the angle difference between the bee's heading direction and this supposed location, and more. Let's also not forget the representations needed for bodily control needed on top of the basal ones. If the fielder needs to keep balance as they run with the ball so does the bee need to maintain steady flight in going towards the home base, and if the first one begs the need for representation, why shouldn't the second one?
+
+If our doubts of computation-ness in (II) stem from the further perceptual information of polarization, let's try and go to the extremes of increased and decreased information and look for computation there. Let us equate the comparison further by considering two identical and abstract agents, solving the same problem of locating and going to a distant finish mark.
+
+- **(M)** The first agent has full knowledge of the map, its location in it and the obstacles. It even has the best path planned out, either by pure restrictions of the environment or provided by some all-might path-planner deity.
+- **(m)** The second agent is the unluckiest agent there could be: It has no knowledge of the map, it's location in it or the obstacles. It even has no capacity to extract such a map as it has no perceptual input, it is completely blind to the environment, except for the ability to tell whether it is at the finish mark or not.
+
+The common capabilities of these two agents are that they can indeed control their own body, and can tell whether they are at the finish mark or not. 
+
+If this were a race, it would certainly be an unfair one: While the agent in (M) has full information regarding the solution of the problem, even the best possible solution itself, it is still tasked with executing it. On the other hand, the only choice for the agent in (m) is to perform a random walk, check whether it is at the finish mark, and if not, simply keep going. Both of these agents are tasked with controlling their bodies to execute a certain plan, be it extraordinarily perfect or as imperfect as possible, and continually check whether the defined task (of reaching the finish mark) is fulfilled or not, so that they can decide between pressing on or stopping. Naturally one will finish way earlier than the other, if at all, but the computational needs for the two are identical, although necessarily different. If we are dubbing the lesser information scenario as computation, there should be no reason to exclude the greater information scenario.
+
+Lastly, I would like to make the above example more concrete by giving an actual computational problem. Let's say we have two computers tasked with computing the prime factorization of a given natural number $N$, namely the following unique factorization:
+
+$$N = p_1^{n_1}p_2^{n_2}...p_k^{n_k} \qquad \text{where } p_i \in \mathbb P \text{ and } k,n_i\in \mathbb N^+$$ 
+
+The list of prime divisors and their exponents is the finish mark, and the common "perceptual input" is the number $n$ which provides the boolean check for arriving at the finish mark. 
+
+- **($M_n$)** On one side we have a privileged algorithm: It has an immense hash table full of pointers. It has the prime factorization for any $n$ that fits the word length,<sup><a id="footnotemark8_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext8_2">2</a></sup> with all the unique primes and their integer exponents.
+- **($m_n$)** The less privileged algorithm is a random guesser: It tries all the natural numbers of the given word length (smaller or greater than $n$) as divisors, primeness and again randomly guesses the exponent. If it fails, it tries another natural number, until it finds all the prime divisors.
+
+It is clear that the program in ($M_n$) will provide the correct result immediately, as it already has the answer while the one in ($m_n$) will take significantly longer, especially considering it tries a vast array of numbers, smaller or larger, and likely with multiplicity (no reason why a prior guess shouldn't come up again). Although it is trivial to see how both of them are computations: Sure, the first one will require immense storage, but it is nonetheless computation because we constructed the example to be computational! The computational process to take place upon execution is an extremely simple one, yet it still is computation. The addition of more "perceptual information," i.e. the perception of all the possible $n$'s prime factorizations, does not rule out computation-ness, although can modify and simplify it.
+
+### Notes
+
+1. <a id="footnotetext8_1"></a> This seems to disregard the possibility of parallel processing: What if multiple processes are running in parallel without a central controller? I will go on assuming a central controller, as I don't think parallelization poses a problem in the coming. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark8_1)
+2. <a id="footnotetext8_2"></a> The word length is the number of bits used in representing numbers in a computer. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark8_2)
+
+---
+
+## <a id="context"></a> Putting the Mind into Context
+
+So far, as far as I have seen, one dominant approach to understanding the mind<sup><a id="footnotemark9_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext9_1">1</a></sup> has been to abstract away from the implementations of various facets of human behaviour that we deem intelligent and noteworthy; like language, planning, and perception; and then to find a suitable formalization of these abstractions: Let's not care about the so-and-so language but the concept of language in general. Let's not care how attention works in humans but the concept of attention in general. The implicit motivation I see behind such abstractions is that we are aiming towards a conception of a mind that is itself abstracted away in general from this and that implementation, i.e. the mind-bearing individuals, whomever or whatever they are. I find this approach to be of a similar spirit as that of a mathematician: Let's not deal with this or that group<sup><a id="footnotemark9_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext9_2">2</a></sup> but groups in general, leading to abstract group theory. In doing so one frees from the details of the specific instantiation but instead discovers the patterns of the underlying, more general structure.<sup><a id="footnotemark9_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext9_3">3</a></sup> Along these same lines, if we wish to understand the structure of minds in general and not just one of them, it is only natural to push for abstractions and try to gloss over the "implementation details" in one human, or a group of humans, or even humans in general. What we (hope to) end up with, then, is a theory for the mind that is independent of time, one that does not evolve or emerge slowly but simply is, has been and presumably, always will be.
+
+What seems to be missing from this picture is that the minds we study are almost always deeply embedded in a social context. Hrdy (2007) shows that the human species' need for alloparenting is very likely to have contributed to their evolutionary development and has effects on communication. On the other hand, joint attention, which is one of the three main reasons for early infant communication, is a strong predictive of current language and theory of mind skills, as well as aspects of later development (Kinard & Watson, 2015). These seem to suggest that the skills we associate with the mind are tangled inevitably with social interactions and more importantly the evolution of the human species overall, opposing the instantaneous and contextually detached idea of what a mind is sought out by the formalist approach above.
+
+So we seem to be in a conflict between our goal of an abstract and context-free understanding of the mind and the evidence motivating a highly contextual one that heavily relies on evolution. How should we resolve this problem? How do we go about finding the middle ground between the two, or which one is to be re-investigated and made to fit with the other's implications?
+
+Dennett seems to be putting the current formalist approaches up to debate (Searle & Dennett, 1995). He questions the current concepts of the mind -such as consciousness- and its lexicon and looks towards evolution for a novel framework to understand the mind (Dennett, 2017). In doing so, he makes evolution (or "Darwin's dangerous idea," as he puts it) a core tenet of his framework and builds on top of the scientific foundation to suggest his framework, and his theory hosts the ideas we discussed previously naturally while modifying the current lexicon when needed. Therefore we see that such a reconciliation is already taking place, and attracting attention, too.
+
+On the other hand, if we insist on looking for an abstract formulation of the mind, we can reconcile with these contextual and evolutionary ideas by discarding the instantaneity that we seem to imply and taking the mind as something that can emerge and evolve, albeit still being highly abstract. We can abstract the necessary evolutionary pressures on its development, isolating out the conditions that push towards developing communication, attention and other similar aspects. One could oppose by claiming this method of abstraction is at risk of only explaining the human mind because it only considers its evolutionary emergence. This opposition can be easily eliminated by pointing out that the first approach is bound with the same risk: The old approach studies only a subset of this new one, namely the minds available today as opposed to them together with their history. Furthermore, such an approach would be even more successful in reaching the original goal of a theory that accounts for the mind in general. Because a theory striving for formalization even when the evolutionary emergence and the contextual situatedness of the mind are accounted for could explain *why* there is a mind, as opposed to there not being any.
+
+### Notes
+
+1. <a id="footnotetext9_1"></a> Here, I fall victim to a certain anthropocentrism in taking the understanding of the mind to be based solely on the human mind. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_1)
+2. <a id="footnotetext9_2"></a> A group is one elementary algebraic structure. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark9_2)
+3. <a id="footnotetext9_3"></a> I find this similar to a token/type distinction, even though everything is abstract still. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark9_3)
+
+### References
+
+Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds.* WW Norton & Company.
+
+Hrdy, S. B. (2007). Evolutionary Context of Human Development: The Cooperative Breeding Model. *Family Relationships: An Evolutionary Perspective*, 39–68.
+
+Kinard, J. L., & Watson, L. R. (2015). Joint Attention during Infancy and Early Childhood Across Cultures. In J. D. Wright (Ed.), *International Encyclopedia of the Social & Behavioral Sciences (Second Edition)* (Second Edition ed., p. 844-850). Oxford: Elsevier. Retrieved from https://www.sciencedirect.com/science/article/pii/B9780080970868231723 doi: https://doi.org/10.1016/B978-0-08-097086-8.23172-3
+
+Searle, J. R., & Dennett, D. C. (1995, Dec). *‘The Mystery of Consciousness’: An Exchange.* Retrieved from https://www.nybooks.com/articles/1995/12/21/the-mystery-of-consciousness-an-exchange/2
