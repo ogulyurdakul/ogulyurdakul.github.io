@@ -413,7 +413,7 @@ I believe the last reply in Figure 2 is a further indicative of failing the Turi
 
 ### Notes
 
-1. <a id="footnotetext10_1"></a> Heavily recommend Ludovico Einaudi's music: Here's my [Best of Ludovico Einaudiplaylist](https://open.spotify.com/playlist/18q80tJar0gfXkGno2nWQC?si=bec40278ed964bd1). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark10_1)
+1. <a id="footnotetext10_1"></a> Heavily recommend Ludovico Einaudi's music: Here's my [Best of Ludovico Einaudi Spotify playlist](https://open.spotify.com/playlist/18q80tJar0gfXkGno2nWQC?si=bec40278ed964bd1). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark10_1)
 
 ### References
 
