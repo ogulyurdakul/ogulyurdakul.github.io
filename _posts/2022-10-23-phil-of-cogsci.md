@@ -393,12 +393,12 @@ ChatGPT seems to have no idea that it is communicating with me via a text medium
 #### Appendix
 
 <p float="left" align="middle">
-    <img src="/images/phil_of_cogsci/takeone.png" width="35%" />
+    <img src="/images/phil_of_cogsci/takeone.png" width="95%" />
     <br> <em size="-2">Figure 1: Screenshot of the first chat. </em>
 </p>
 
 <p float="left" align="middle">
-    <img src="/images/phil_of_cogsci/didit.png" width="35%" />
+    <img src="/images/phil_of_cogsci/didit.png" width="95%" />
     <br> <em size="-2">Figure 2: Screenshot of the second chat.<sup><a id="footnotemark10_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext10_1">1</a></sup> </em>
 </p>
 
