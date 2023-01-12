@@ -375,8 +375,11 @@ ChatGPT does not "want" to pass the Turing Test. It is very quickly to acknowled
 With this goal in mind, I decided that a question that heavily relies on context. To that end, I thought maybe a Theory of Mind (ToM) problem would be a good fit to make ChatGPT fail the Turing Test, since it relies on coming to a conclusion based on some information not directly available in the factual data. So, here is my first attempt:
 
 > **OCY:** Hi ChatGPT! I'm going to tell you a story and then ask a question about it. I would like you to answer that question with a justification. Are you ready?
+> 
 > **ChatGPT:** Yes, I am ready. Please go ahead with your story and question.
+> 
 > **OCY:** Two children, named Sally and Anne, are playing in a room. Sally is playing with her teddy bear, while Ronny is playing with some LEGOs. At one point, Sally's mom calls her, and Sally leaves the room. Sally then places her teddy bear in her locker and leaves the room. While Sally is away, Anne goes to Sally's locker, takes the teddy bear, and places it in her backpack. After a while, Sally returns to the room and wants to continue with her teddy bear. Where would she look for it first?
+> 
 > **ChatGPT:** Sally would likely look for her teddy bear in the place where she last saw it, which was in her locker. This is because people generally look for objects in the last place they saw them, as it is the most likely place they would be found. It is also possible that Sally might ask Anne if she has seen the teddy bear, but Sally would most likely look in her locker first.
 
 I find it slightly terrifying that ChatGPT possesses some notion of a ToM, but then again I calm myself by stating that this is merely the power of reinforcement learning (OpenAI, n.d.). I imagine that ChatGPT in these replies is merely reflecting the ToM its training personnel have of other people, and likely doing a very complicated version of replacing the subjects of "Sally" and "Ronny" with other dummy variables in its learned ToM models. I find it interesting to imagine how ChatGPT would turn out in ToM respects if it were trained only via children who have not developed ToM yet, but I highly doubt it is a feasible (or even ethi``cal) idea. After the above conversation, I decided maybe somehow involving ChatGPT as an actor in this ToM setup would change something, but as soon as I attempted to give it a body (or any physical possession) it fell back to repeating that it is a program, so I failed. The rest of this conversation is in appendix Figure 1.
@@ -386,6 +389,7 @@ Then I decided maybe I could have ChatGPT do my homework for me, but to me: I de
 And I think I succeeded in making ChatGPT fail the Turing Test. Here is my second conversation.
 
 > **OCY:** Hi ChatGPT! I'd like you to subject me to a Turing Test. What is your first question to me?
+> 
 > **ChatGPT:** Hello! I'm happy to engage in a Turing Test with you. However, I should note that the Turing Test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. <ins>In order to conduct a proper Turing Test, it would be necessary for me to communicate with you through a medium that does not allow you to see or hear me, such as a chat interface.</ins> Is that something you would like to do?
 
 ChatGPT seems to have no idea that it is communicating with me via a text medium -- in fact, I doubt it is even aware that a communication is taking place. This unawareness of the communication medium took me by surprise, so much so that I didn't realize it acutally happened. I simply pointed out that it was actually the case that we are talking via text only, and proceeded with the Turing Test. The rest of this conversation can be found in appendix Figure 2. There I provide some more comments regarding the rest of the conversation as well.
