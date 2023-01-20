@@ -24,8 +24,9 @@ tags:
 10. [Turing Testing ChatGPT](/whatnot/2022/phil_of_cogsci/#chatgpt_tt)
 
 ---
+---
 
-## <a id="autonomy"></a> Is "autonomous" the Same as "automated"? <a href="/whatnot/2022/phil_of_cogsci/#essays">↩</a>
+## <a id="autonomy"></a> Is "autonomous" the Same as "automated"? <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 First of all, I have to say that for all practical or everyday cases I can imagine, these two words seem to be synonymous: Both kinds of autonomy convey the meaning of a possibly complex process being performed independent of an external agent's interference or control. For sufficiently complex tasks I imagine both entail implementing some sort of auto-correction upon error detection, modelling of the environment and planning on that model, and much more. I have to admit my reluctance in positing the existence of a representation, though. After all, the falling of water at a water flow seems to occur autonomously at face value, while I find it questionable that there is a representation there at all.<sup><a id="footnotemark1_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext1_1">1</a></sup> So, I make no distinction between these two terms in terms of the existence of representation. Both may or may not have it, as far as I am concerned here.
 
@@ -37,8 +38,8 @@ Lastly, I would like to make a brief discussion on the computer scientist's view
 
 ### Notes
 
-1. <a id="footnotetext1_1"></a> I suspect this debate will lead the way to "nature computes" type of arguments, but more in a "nature represents" way. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark1_1)
-2. <a id="footnotetext1_2"></a> While we talked as if this is Knuth's definition in class, I discovered that in fact Knuth is quoting George E. Forsythe, who wrote about the central questions of computer science. See Knuth (1974, p. 323) for the quote.  [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark1_2)
+1. <a id="footnotetext1_1"></a> I suspect this debate will lead the way to "nature computes" type of arguments, but more in a "nature represents" way. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark1_1)
+2. <a id="footnotetext1_2"></a> While we talked as if this is Knuth's definition in class, I discovered that in fact Knuth is quoting George E. Forsythe, who wrote about the central questions of computer science. See Knuth (1974, p. 323) for the quote.  [↩](/whatnot/2022/phil_of_cogsci/#footnotemark1_2)
 
 *Post-Script Note: I only added the Knuth (1974) reference as I discovered that later.*
 
@@ -51,7 +52,7 @@ Knuth, D. E. (1974). Computer Science and its Relation to Mathematics. *The Ame
 ---
 ---
 
-## <a id="tt_cra_other_minds"></a> Turing Tests and Chinese Rooms for Other Minds
+## <a id="tt_cra_other_minds"></a> Turing Tests and Chinese Rooms for Other Minds <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 Before attempting to adapt the Turing Test and the Chinese Room to meaning-bearing minds possibly other than humans', I find it important to clarify what we take these experiments to be. This will allow me and the reader to judge the accuracy of the adaptation and whether the hypothesis tested by the original test is still tested in the adaptation, or what the new hypothesis tested is.
 
@@ -81,10 +82,10 @@ The strategy I followed in making these adaptations was keeping the test or expe
 
 ### Notes
 
-1. <a id="footnotetext2_1"></a> Turing mentions the delay can be mimicked by the computer, but I am taking precautions against possible questions that create a difference in reaction times. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark2_1)
-2. <a id="footnotetext2_2"></a> I admit that I have not read the full target paper and its subsequent discussions. And since I have not seen the passage of Turing Test as a condition of the experiment in Searle's original article, I decided to take the version depicted by Dennett (2016) as a reliable summary. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark2_2)
-3. <a id="footnotetext2_3"></a> Nothing in principle prevents the outside inquisitor $S_2$ from knowing $L_1$, but let's keep the matters simple. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark2_3)
-4. <a id="footnotetext2_4"></a> This is important, since if the language cannot be transcribed, both thought experiments lose an important component that is the communication medium. Similarly, a subject that cannot write is useless in these experimental setups, but that is resolved quite easily with a mental reemployment of another subject more suitable for the job. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark2_4)
+1. <a id="footnotetext2_1"></a> Turing mentions the delay can be mimicked by the computer, but I am taking precautions against possible questions that create a difference in reaction times. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark2_1)
+2. <a id="footnotetext2_2"></a> I admit that I have not read the full target paper and its subsequent discussions. And since I have not seen the passage of Turing Test as a condition of the experiment in Searle's original article, I decided to take the version depicted by Dennett (2016) as a reliable summary. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark2_2)
+3. <a id="footnotetext2_3"></a> Nothing in principle prevents the outside inquisitor $S_2$ from knowing $L_1$, but let's keep the matters simple. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark2_3)
+4. <a id="footnotetext2_4"></a> This is important, since if the language cannot be transcribed, both thought experiments lose an important component that is the communication medium. Similarly, a subject that cannot write is useless in these experimental setups, but that is resolved quite easily with a mental reemployment of another subject more suitable for the job. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark2_4)
 
 *Post-Script Note: I admit I originally wrote and submitted this one in a rush, so I noticed quite a number of grammar mistakes and typos while posting it here. I only fixed those in the essay. On the other hand, I was also surprised how I took the phrase "meaning-bearing mind" without questioning (it was given in the question text), and I think it is a term worth thinking on. Maybe later.*
 
@@ -99,8 +100,9 @@ Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Science
 Turing, A. M. (1950, 10). Computing Machinery and Intelligence. *Mind*, LIX(236), 433-460. doi: 10.1093/mind/LIX.236.433
 
 ---
+---
 
-## <a id="type2_mind"></a> Type 1 Theory of "Mind"
+## <a id="type2_mind"></a> Type 1 Theory of "Mind" <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 In his essay, Marr (1977) defines two classes of explanatory theories that could be provided to a problem in artificial intelligence:
 
@@ -127,10 +129,10 @@ In other words, each of these modules' internal explanation as to how it comes t
 
 ### Notes
 
-1. <a id="footnotetext3_1"></a> Parker (2014) constructs a binary adder with domino pieces by first constructing the necessary logic gates. The problem is that it only works once as the domino pieces are down in the end and the whole system has to be reset. This implies that the medium of domino pieces can host a UTM in principle, and if we can indeed simulate a mind on a computer (hence a UTM), we can also do it with domino pieces. That mind, although, would only think *once*. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_1)
-2. <a id="footnotetext3_2"></a> I tiptoe away from what another way might be. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_2)
-3. <a id="footnotetext3_3"></a> Funnily enough, I find this look on these Type 2 components similar to abstracting away from them. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_3)
-4. <a id="footnotetext3_4"></a> Tangled Hierarchy in Hofstadter's words. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark3_4)
+1. <a id="footnotetext3_1"></a> Parker (2014) constructs a binary adder with domino pieces by first constructing the necessary logic gates. The problem is that it only works once as the domino pieces are down in the end and the whole system has to be reset. This implies that the medium of domino pieces can host a UTM in principle, and if we can indeed simulate a mind on a computer (hence a UTM), we can also do it with domino pieces. That mind, although, would only think *once*. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark3_1)
+2. <a id="footnotetext3_2"></a> I tiptoe away from what another way might be. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark3_2)
+3. <a id="footnotetext3_3"></a> Funnily enough, I find this look on these Type 2 components similar to abstracting away from them. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark3_3)
+4. <a id="footnotetext3_4"></a> Tangled Hierarchy in Hofstadter's words. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark3_4)
 
 ### References
 
@@ -145,8 +147,9 @@ Parker, M. (2014, 4). *The 10,000 Domino Computer - Youtube*. Retrieved from <ht
 Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences, 3* (3), 424.3
 
 ---
+---
 
-## <a id="tug_of_mind"></a> Tug-of-Mind
+## <a id="tug_of_mind"></a> Tug-of-Mind <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 When we talk about what the mind is, there seem to be two pathways one can take based on the discussions we had in the first week. One natural way of defining what the mind is is to take it from its most prominent possessors, the humans. This way, "mind" is taken as something solely the humans possess, implemented via their brain -- or their nervous system, for the sake of generality. This is in short what the mind-brain identity theory says (Kim, 2011b), that the mental processes are exactly brain processes. Along this line of thinking, the study of the mind becomes naturally the study of the brain, and so cognitive neuroscience would come to encompass cognitive science. The goal of the cognitive scientist -as a side to the cognitive neuroscientists- could become the analysis of the biological processes as discovered by the neuroscientist -- if that isn't already the job of the cognitive neuroscientist. The theories developed would not go beyond explanations of the biological, which means that any simulation of the mind processes would necessarily be simulations of (specific) biological processes. Since in this case, the jobs of the cognitive scientist and the cognitive *neuro*scientist are concurrent and inherently have the same object of inquiry, they should be concurring on any method of going about the business. Study the brain processes, whatever they are.
 
@@ -170,10 +173,10 @@ Therefore as the cognitive scientist tries to generalize the present ideas to a 
 
 ### Notes
 
-1. <a id="footnotetext4_1"></a> I find it rather safe to impose the finiteness constraint: After all, I as a mind possessor am finite. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_1)
-2. <a id="footnotetext4_2"></a> At this point I find myself at a lack of a satisfactory example: It seems the cognitive scientist might as well ask the same questions as the cognitive neuroscientist framed in the same way, only look for a more general answer. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_2)
-3. <a id="footnotetext4_3"></a> A very big “perhaps” here, one that I make intentionally for the sake of an example. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_3)
-4. <a id="footnotetext4_4"></a> The “basic” here is not in the sense of elementary or fundamental, but more of the same spirit as the chess example of Newell (1973). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark4_4)
+1. <a id="footnotetext4_1"></a> I find it rather safe to impose the finiteness constraint: After all, I as a mind possessor am finite. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark4_1)
+2. <a id="footnotetext4_2"></a> At this point I find myself at a lack of a satisfactory example: It seems the cognitive scientist might as well ask the same questions as the cognitive neuroscientist framed in the same way, only look for a more general answer. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark4_2)
+3. <a id="footnotetext4_3"></a> A very big “perhaps” here, one that I make intentionally for the sake of an example. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark4_3)
+4. <a id="footnotetext4_4"></a> The “basic” here is not in the sense of elementary or fundamental, but more of the same spirit as the chess example of Newell (1973). [↩](/whatnot/2022/phil_of_cogsci/#footnotemark4_4)
 
 ### References
 
@@ -186,8 +189,9 @@ Marr, D. (1977, 8). Artificial Intelligence – A Personal View. *Artificial Int
 Newell, A. (1973). You can’t play 20 questions with nature and win: Projective comments on the papers of this symposium.
 
 ---
+---
 
-## <a id="wil_cra"></a> What Is It Like To Be In The Chinese Room?
+## <a id="wil_cra"></a> What Is It Like To Be In The Chinese Room? <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 Farrell (2016) in his work provides an account of what it means for a discussion to be technical. His motivation to do so stems from a need to clarify what terms we are referring to and what claims we are making. He claims for a discussion to be (philosophically) technical, it needs to involve
 
@@ -207,8 +211,8 @@ Lastly, while I may have concluded it is indeed technical, I find this technical
 
 ### Notes
 
-1. <a id="footnotetext5_1"></a> I don't find it too difficult to see that any thought experiment about consciousness such as Mary the colour scientist and the cross-wired brain are essentially WIL arguments: What is it like to be Mary? What is it like to have our brains cross-wired? Perhaps such thinking is what led Nagel to define having consciousness as having the property of there being something it is like to be that organism (1974). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark5_1)
-2. <a id="footnotetext5_2"></a> Not necessarily philosophical arguments. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark5_2)
+1. <a id="footnotetext5_1"></a> I don't find it too difficult to see that any thought experiment about consciousness such as Mary the colour scientist and the cross-wired brain are essentially WIL arguments: What is it like to be Mary? What is it like to have our brains cross-wired? Perhaps such thinking is what led Nagel to define having consciousness as having the property of there being something it is like to be that organism (1974). [↩](/whatnot/2022/phil_of_cogsci/#footnotemark5_1)
+2. <a id="footnotetext5_2"></a> Not necessarily philosophical arguments. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark5_2)
 
 ### References
 
@@ -221,8 +225,9 @@ Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review, 83* (4
 Searle, J. R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences, 3* (3), 417 -- 424.
 
 ---
+---
 
-## <a id="cogsneuro_type"></a> Theory Type of Computational Neuroscience
+## <a id="cogsneuro_type"></a> Theory Type of Computational Neuroscience <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 In their survey of methods and models in computational neuroscience, Sejnowski, Koch, and Churchland (1988) mention the Hartline-Ratliff model which can explain the Hermann grid illusion. The model says that the cells to which the photoreceptors project (which I will refer to as the projected neuron) weigh the inputs of these photoreceptors in such a way that the contrast between the center of a certain region (called the receptive field) and its borders intensifies the projected cell activity, that the increase in the photoreceptors corresponding to the border of the receptive field inhibits the cell response. This indeed provides a theoretical account for the Hermann grid illusion, a theory which we can analyze in the framework of Marr (1977).
 
@@ -249,9 +254,9 @@ The crucial point will be to remain open to both possibilities and reconcile wit
 
 ### Notes
 
-1. <a id="footnotetext6_1"></a> To break the binary classification of the photoreceptors as inner or outer, we can give each photoreceptor variable weights so that when the total activity of the population is multiplied with the corresponding weights, the response is obtained. This way a photoreceptor does not have to be either inner or outer, but can reside in between. However, the inner-outer distinction is enough for me, and making the distinction will not change the course of the argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_1)
-2. <a id="footnotetext6_2"></a> I apologize for the anti-climactic turn. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_2)
-2. <a id="footnotetext6_3"></a> Supposedly, at least, for the sake of argument. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
+1. <a id="footnotetext6_1"></a> To break the binary classification of the photoreceptors as inner or outer, we can give each photoreceptor variable weights so that when the total activity of the population is multiplied with the corresponding weights, the response is obtained. This way a photoreceptor does not have to be either inner or outer, but can reside in between. However, the inner-outer distinction is enough for me, and making the distinction will not change the course of the argument. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark6_1)
+2. <a id="footnotetext6_2"></a> I apologize for the anti-climactic turn. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark6_2)
+2. <a id="footnotetext6_3"></a> Supposedly, at least, for the sake of argument. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark6_3)
 
 ### References
 
@@ -262,8 +267,9 @@ Newell, A. (1973). You can’t play 20 questions with nature and win: Projective
 Sejnowski, T. J., Koch, C., & Churchland, P. S. (1988). Computational Neuroscience. *Science, 241* (4871), 1299–1306.
 
 ---
+---
 
-## <a id="intentional_metaphor"></a> Intentional Stance and the Computer Metaphor
+## <a id="intentional_metaphor"></a> Intentional Stance and the Computer Metaphor <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 Before thinking of the intentional stance and the computer metaphor together, let's clarify what we mean by each of these terms to have a solid foundation.
 
@@ -287,9 +293,9 @@ Lastly, I believe the computer metaphor can find a place to live in Dennett's th
 
 ### Notes
 
-1. <a id="footnotetext7_1"></a> Not to be confused with desires. This is a purely mathematical or algorithmic goal, such as the maximization of a certain quantity, like a reward function. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_1)
-2. <a id="footnotetext7_2"></a> Big if. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_2)
-3. <a id="footnotetext7_3"></a> See Searle (1990), endnote 2. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark7_3)
+1. <a id="footnotetext7_1"></a> Not to be confused with desires. This is a purely mathematical or algorithmic goal, such as the maximization of a certain quantity, like a reward function. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark7_1)
+2. <a id="footnotetext7_2"></a> Big if. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark7_2)
+3. <a id="footnotetext7_3"></a> See Searle (1990), endnote 2. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark7_3)
 
 ### References
 
@@ -298,8 +304,9 @@ Dennett, D. C. (1971). Intentional Systems. *The Journal of Philosophy, 68* (4),
 Searle, J. R. (1990). Cognitive Science and the Computer Metaphor. In *Artifical Intelligence, Culture and Language: On Education and Work* (pp. 23–34). Springer.
 
 ---
+---
 
-## <a id="diff_inputs"></a> Computation with Different Inputs
+## <a id="diff_inputs"></a> Computation with Different Inputs <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 Let us consider the following two scenarios.
 
@@ -334,12 +341,13 @@ It is clear that the program in ($M_n$) will provide the correct result immediat
 
 ### Notes
 
-1. <a id="footnotetext8_1"></a> This seems to disregard the possibility of parallel processing: What if multiple processes are running in parallel without a central controller? I will go on assuming a central controller, as I don't think parallelization poses a problem in the coming. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark8_1)
-2. <a id="footnotetext8_2"></a> The word length is the number of bits used in representing numbers in a computer. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark8_2)
+1. <a id="footnotetext8_1"></a> This seems to disregard the possibility of parallel processing: What if multiple processes are running in parallel without a central controller? I will go on assuming a central controller, as I don't think parallelization poses a problem in the coming. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark8_1)
+2. <a id="footnotetext8_2"></a> The word length is the number of bits used in representing numbers in a computer. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark8_2)
 
 ---
+---
 
-## <a id="context"></a> Putting the Mind into Context
+## <a id="context"></a> Putting the Mind into Context <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 So far, as far as I have seen, one dominant approach to understanding the mind<sup><a id="footnotemark9_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext9_1">1</a></sup> has been to abstract away from the implementations of various facets of human behaviour that we deem intelligent and noteworthy; like language, planning, and perception; and then to find a suitable formalization of these abstractions: Let's not care about the so-and-so language but the concept of language in general. Let's not care how attention works in humans but the concept of attention in general. The implicit motivation I see behind such abstractions is that we are aiming towards a conception of a mind that is itself abstracted away in general from this and that implementation, i.e. the mind-bearing individuals, whomever or whatever they are. I find this approach to be of a similar spirit as that of a mathematician: Let's not deal with this or that group<sup><a id="footnotemark9_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext9_2">2</a></sup> but groups in general, leading to abstract group theory. In doing so one frees from the details of the specific instantiation but instead discovers the patterns of the underlying, more general structure.<sup><a id="footnotemark9_3" href="/whatnot/2022/phil_of_cogsci/#footnotetext9_3">3</a></sup> Along these same lines, if we wish to understand the structure of minds in general and not just one of them, it is only natural to push for abstractions and try to gloss over the "implementation details" in one human, or a group of humans, or even humans in general. What we (hope to) end up with, then, is a theory for the mind that is independent of time, one that does not evolve or emerge slowly but simply is, has been and presumably, always will be.
 
@@ -353,9 +361,9 @@ On the other hand, if we insist on looking for an abstract formulation of the mi
 
 ### Notes
 
-1. <a id="footnotetext9_1"></a> Here, I fall victim to a certain anthropocentrism in taking the understanding of the mind to be based solely on the human mind. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark9_1)
-2. <a id="footnotetext9_2"></a> A group is one elementary algebraic structure. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark9_2)
-3. <a id="footnotetext9_3"></a> I find this similar to a token/type distinction, even though everything is abstract still. [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark9_3)
+1. <a id="footnotetext9_1"></a> Here, I fall victim to a certain anthropocentrism in taking the understanding of the mind to be based solely on the human mind. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark9_1)
+2. <a id="footnotetext9_2"></a> A group is one elementary algebraic structure. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark9_2)
+3. <a id="footnotetext9_3"></a> I find this similar to a token/type distinction, even though everything is abstract still. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark9_3)
 
 ### References
 
@@ -368,8 +376,9 @@ Kinard, J. L., & Watson, L. R. (2015). Joint Attention during Infancy and Early 
 Searle, J. R., & Dennett, D. C. (1995, Dec). *‘The Mystery of Consciousness’: An Exchange.* Retrieved from <https://www.nybooks.com/articles/1995/12/21/the-mystery-of-consciousness-an-exchange/2>
 
 ---
+---
 
-## <a id="chatgpt_tt"></a> Turing Testing ChatGPT
+## <a id="chatgpt_tt"></a> Turing Testing ChatGPT <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 I have a confession to make: I tried many questions on ChatGPT. Each time I reset the chat, asked some different question as part of a new strategy. I will not give all those trials here, but an important conclusion that became very evident very quickly.
 
@@ -416,7 +425,7 @@ I believe the last reply in Figure 2 is a further indicative of failing the Turi
 
 ### Notes
 
-1. <a id="footnotetext10_1"></a> Heavily recommend Ludovico Einaudi's music: Here's my [Best of Ludovico Einaudi Spotify playlist](https://open.spotify.com/playlist/18q80tJar0gfXkGno2nWQC?si=bec40278ed964bd1). [Back up.](/whatnot/2022/phil_of_cogsci/#footnotemark10_1)
+1. <a id="footnotetext10_1"></a> Heavily recommend Ludovico Einaudi's music: Here's my [Best of Ludovico Einaudi Spotify playlist](https://open.spotify.com/playlist/18q80tJar0gfXkGno2nWQC?si=bec40278ed964bd1). [↩](/whatnot/2022/phil_of_cogsci/#footnotemark10_1)
 
 ### References
 
