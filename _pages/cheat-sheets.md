@@ -18,6 +18,7 @@ Over the years, I've developed the habit of writing out "cheat sheets" when stud
 ## Electrical and Electronics Engineering
 
 - [EE302 Feedback Systems (Spring 2018-2019)](/files/EE302CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (Hand-written)
+- [EE499 Special Topics: Vector Space Methods in Signal Processing (Fall 2020-2021)](/files/EE499CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (Hand-written)
 - [EE416 Biomedical Signals, Instrumentation and Measurement (Spring 2019-2020)](/files/EE416CheatSheet_OgulCanYurdakul.pdf){:target="_blank"} (This one has some missing parts but I believe it still covers quite some ground, so I think it's good to share.)
 - [EE5506 Advanced Statistical Signal Processing (Spring 2021-2022)](/files/EE5506CheatSheet_OgulCanYurdakul.pdf){:target="_blank"}
 
