@@ -16,7 +16,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
 :   *Specialization Area: Signal Processing*
-:   *CGPA: 3.90 / 4.00*
+:   *CGPA: 3.93 / 4.00*
 
 <ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022</ins>
 :   *[Middle East Technical University, Department of Mathematics](https://math.metu.edu.tr)*
@@ -50,7 +50,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 <ins>Summer 2018: Summer Intern</ins>
 :   *IBM Turkey, Istanbul Office*
-:   This was my first ever internship, and I value that it was *not* in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry. 
+:   This was my first ever internship, and I value that it was *not* in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry.
 
 ## Leadership and Teaching Experience
 
@@ -69,7 +69,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   I was responsible for the acquisition and organization of work offers from around Ankara for IAESTE LC METU, trained newcomers on company relations, and hosted the incoming interns.
 
 <ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
-:   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data. 
+:   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
 :   NMA became a cornerstone in defining my scientist-to-be, with its inclusivity and commitment to open science. At the end of these three weeks, I was already keen on remaining a part of NMA, somehow.
 
 <ins>Fall 2019: Instructor for Mathematics Workshop</ins>
@@ -79,6 +79,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   I booked speakers and worked with them on their speeches and was responsible for the overall operations of the event. I also designed and managed [the event website](https://www.tedxmetuankara.com) on Wix. More in [side gigs](/whatnot/side_gigs/#tedxmetuankara).
 
 ## Publications
+
 I suppose a CV has to contain this section. So, for completeness sake, here is a list of publication(s, hopefully).
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
