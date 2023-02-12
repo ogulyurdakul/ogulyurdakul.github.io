@@ -1,6 +1,6 @@
 ---
 title: 'Essays on Philosophy of Cognitive Science'
-date: 2022-12-23
+date: 2023-01-20
 permalink: /whatnot/2022/phil_of_cogsci/
 tags:
   - philosophy of mind
@@ -22,6 +22,8 @@ tags:
 8. [Computation with Different Inputs](/whatnot/2022/phil_of_cogsci/#diff_inputs)
 9. [Putting the Mind into Context](/whatnot/2022/phil_of_cogsci/#context)
 10. [Turing Testing ChatGPT](/whatnot/2022/phil_of_cogsci/#chatgpt_tt)
+
+And finally, here's my [end-of-term report](/whatnot/2022/phil_of_cogsci/#term_report), where I try to make an exposition of my perspective shift after taking the course. *PS. As of January 22nd 2023, it lacks proper references, but I will add them in the near future. I felt comfortable sharing it as is since all the needed references are already present in the quizzes already.*
 
 ---
 ---
@@ -409,12 +411,12 @@ ChatGPT seems to have no idea that it is communicating with me via a text medium
 #### Appendix
 
 <p float="left" align="middle">
-    <img src="/images/phil_of_cogsci/takeone.jpg" width="95%" />
+    <img src="/images/phil_of_cogsci/takeone.jpg" width="100%" />
     <br> <em size="-2">Figure 1: Screenshot of the first chat. </em>
 </p>
 
 <p float="left" align="middle">
-    <img src="/images/phil_of_cogsci/didit.jpg" width="95%" />
+    <img src="/images/phil_of_cogsci/didit.jpg" width="100%" />
     <br> <em size="-2">Figure 2: Screenshot of the second chat.<sup><a id="footnotemark10_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext10_1">1</a></sup> </em>
 </p>
 
@@ -430,3 +432,55 @@ I believe the last reply in Figure 2 is a further indicative of failing the Turi
 ### References
 
 OpenAI. (n.d.). CHATGPT: *Optimizing language models for dialogue.* Retrieved from https://openai.com/blog/chatgpt/
+
+---
+---
+
+## <a id="term_report"></a> Term Report <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
+
+### Introduction
+
+I feel like I have to start with a confession, one I anticipate will contribute to the purpose of this essay, explaining my purpose in taking the course. At the beginning of the semester, I intended to take another course in philosophy (of mind or any related field) after taking Philosophy of Mind I and II the last year from the Philosophy department. It had been a while since I last took a course from the Cognitive Science department, I was eager to force myself to write weekly material since I was keen on writing philosophy essays after the last two semesters and I (quite arrogantly, I have to admit) thought the course would be easy to handle since I knew the material from before. Or, so I thought.
+
+The first wake-up call came rather early, in fact during the first lecture. Cem Hoca explained the course wasn't called Philosophy of Mind but rather Philosophy of *Cognitive Science* deliberately and that the focus would shift to the latter topic although beginning to look like the former. At that point, I got the hint that the course was not going to be what I anticipated, but then the hint got drowned in the frenzy of the semester and the first couple of introductory lectures on rushing through the basics of philosophy of mind. And so I went back to my "smooth sailing" attitude towards the course. Later on, as the weeks went by and these first couple of weeks on the philosophy of mind were behind me, I slowly left this attitude and transitioned into one that made me more aware and mentally agile towards the important differences Cem Hoca mentioned in the first week: This course was *not* a course on the philosophy of mind.
+
+In the rest of this essay, I will do my best to illustrate the results of this slow transition, one that I can only see retrospectively now that I am at the end of the semester. The two sections will be like smaller essays (which I think also fits the structure of the course as well), one about each cluster of concepts and ideas formed via the connections I made between them during the semester. After these, I will try to conclude all of them in a single conclusion section.
+
+### To Pass or not to Pass
+
+I was already having my suspicions about whether the famous Turing Test (TT) is a valid test for determining whether any communicating agent has a mind or not, but still, it seemed like a reliable option to go for since we don't seem to have anything else. In fact, I am under the impression that we are constantly going about versions of the Turing Test daily: How else would we give each other (as in fellow human beings) the liberty of having a mind? Even though the Test is formulated to be conducted only via text and without any auditory and visual communication, I believe Turing himself would be inclined to relax these constraints if he could see the current advances in prosthetics, robotics and speech processing. Who is to say in not more than ten or twenty years, we will most definitely will not have any almost perfect visual and auditory mimicry of a human body? Is it going to be meaningful to maintain the same only-textual-communication restrictions on the TT then?
+
+Therefore, let's be gone with that almost century-old restriction and take a look outside: Everyone walking outside, then, could potentially be passing as mind-bearing entities when they are humanoid robots executing some well-written program (not that I claim these two things contradict). How do we give them the liberty of having minds?
+
+One observation I make that I find important here is that TT is an undecidable problem.<sup><a id="footnotemark11_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext11_1">1</a></sup> The question of whether a communicating agent (via any modality) has or does not have a mind is a yes/no question, but while it is very easy to say "no", it is not very easy to say "yes." Although I had this idea in my head for a while, I experienced this first hand when I tried subjecting ChatGPT to TT. As long as one steers away from questions that led it to overeagerly admit its "programhood," ChatGPT can be very convincing to have a mind. It is only after a while that it starts showing its programhood without explicitly stating it, by a lack of understanding a joke, a detachment from the current context in its replies, and so on. So, the process of providing an answer to the yes/no TT question does end under certain inputs, that input being ChatGPT itself. 
+
+What about our hypothetical hyperrealistic humanoids outside, roaming about the place? We might be tempted to halt on the answer "yes" to our yes/no TT question based on our comfort in ascribing them minds, but the ChatGPT example here should cast a shadow of doubt on that answer: What if they haven't failed the test *yet*, but will fail in the future? This is especially easy to conceive when we know the limits of a program such as ChatGPT, which is exclusively text-/language-based, and so fails in other aspects such as computing the product of large integers. We can easily admit that it doesn't have a mind when it seemed to previously since it reached the end of its programmed capabilities. But how about when we don't know whether the agent is "programmed" or not? What to make of it then?
+
+The point of the above discussion is that an agent cannot be said to have passed the Turing Test, only that it has not failed it -- yet. This is of the same spirit as attempting to go about the halting problem by hardcoding a "does not halt" output as long as the program in question is running, and switching to "halts" the moment it halts: Although we have an answer, we can never be sure that it is the right one.
+
+In light of this observation, which remained untethered from the content of the course so far, I would like to go back and propose a dissolution to this problem I have laid out. I have been discussing the passing or failing of the Turing Test deliberately as a dichotomous problem, and with good reason. But what if this is not necessarily the case? What if, as Newell says, the passage or failure in TT is a false dichotomy in mind possession? 
+
+This proposition, I believe, adds up quite nicely with Simon's bounded rationality. If we admit that humans as the most evident mind-possessors have bounds to their minds, we also inadvertently admit that there are some *more* capabilities that can also be performed by a mind -- it is just not within the reach of our minds. Let's call such a mind a Mind++, a mind that performs everything a human mind can, but also more. What would an intelligent being with Mind++ think of us? If it had a corresponding Turing++ Test that relies on what our minds cannot do but a Mind++ can, then it would conclude that we do not have minds! We have two options: First, we give up and say that we do not possess minds. Second, we admit that having a mind comes *in degrees*. Mind possession can only then be relieved of its dichotomous conception, and the question becomes not whether something does or does not have a mind, but *to what degree* it has a mind. The agent can have less of a mind or more of a mind.<sup><a id="footnotemark11_2" href="/whatnot/2022/phil_of_cogsci/#footnotetext11_2">2</a></sup> To this, I can further add the only fact we know about the mind, one that we reiterated many times during the course: The fact that it evolved. This evolution of the mind can then be seen as the long and tedious process of going from no mind to some mind, and then eventually to our mind.
+
+Going back to our minds, another interesting question is to think about one *keeps* passing the Turing Test --as keeping on not failing it. Recalling the ideas of embodied/situated/grounded cognition, the criteria for not failing the test seem to flow out of the bounds of purely textual, language-based criteria. A mind-possessing agent, it seems to me, must be able to manipulate its environment in ways that are out of its *own* rationality's limits (like our use of calculators to multiply large integers). It must be able to form new (symbolic) concepts for new experiences, much like the modal symbols of Barsalou. It must remain aware of the current social context of the interactions it gets into, without confusing who is who and remain a sense of identity, a boundary between what *it* is and what isn't, and thus remain situated in its a body -- be it a humanoid robot or a server bank.
+
+### The C-Word and Wrong Models Only
+
+The second aspect that I take away from this course is that the practice of cognitive science is, well, a science: It requires generating hypotheses, making experiments, and collecting data. Any claim about the human mind that remains untethered to data or a model, seems to remain outside the scope of cognitive science. To that end, as an easy and illustrative example, the question of whether the mind has a different substance than the material one is a question of philosophy of mind -- not of cognitive science. It seems difficult (to say the least) to devise experiments that test the existence of such substances, whether these substances do relate to mind possession or are the necessary and sufficient conditions for mind possession, and more. This is especially evident when we consider the problem of causality between these two substances: How do we test the existence of a factor when we are not even sure of the causal link between it and the material world, which is where the experiment happens?
+
+Even the different approaches to investigating the mind can be thought as difficult to reconcile. The analysis we made regarding the inquisitions of cognitive neuroscience and cognitive science on the mind illustrates the opposition quite nicely. Their approaches lead them to different aspects of what we might regard as the intelligent behaviour of mind-bearing entities. If we want to ground our theories and claims on data, which data should we pick? As I also conclude in my essay, here I find the reconciliation in placing the works of the two disciplins on two different levels of Marr. While the cognitive neuroscientist deals with the physical level and tries to understand how it achieves to complete one task or the other by giving an account fully remaining within the physical, the cognitive scientist takes these behaviours performed by the physical mind-bearing entities and tries to abstract away anything that enforces the physical, trying to find a non-physically bound, abstract conception of a mind. Who knows, this way we might even be able to peer into what a Mind++ is like.
+
+Recalling Newell's false dichotomies and his desire for scientific theories of the mind not to pile up but add up, I find myself closer and closer to illusionism as the healthiest approach to studying the mind. To see why, I would like to go back to the first short essay, and further advance the problem there. I had talked about the possibility that everybody outside is a humanoid robot and that we were comfortably ascribing them as mind-bearers, but we also do something bolder than that: We are (or at least, I am) perfectly comfortable with the idea that they have subjective experiences on top of a mind. What gives us jurisdiction to do so? Onto what do we base this assumption?
+
+Instead of a trick like the one I pulled for mind possession in the previous section (i.e. the one by admitting regarding having subjective experiences as a graded concept with different levels), I would like to point to Farrell's analysis of technicality. If we are to lead a (cognitive or neuro-) scientific inquiry of the mind, we have to decide what kinds of terms we will admit to our lexicon. Since these would inevitably be technical terms, we seem to be disposing of the infamous C-word that is consciousness, or equivalently of subjective experiences. Either this, or we will have to make a *technical* definition of these terms, which contradicts their current understanding. This need for technicality applies not only these two terms, though. For instance, we can also ask the same questions about the terms that Newell lists as false dichotomies, and discard them if needed. This is why I feel closer to illusionism: It does not define any term unless the data shows the need to. This allows for a completely new scientific paradigm for understanding the mind, one that will hopefully contain only the necessary and sufficient terms to explain it with sound links to evidence, modelling, and data.
+
+I find it interesting to think of the Type of model we are to find with such an approach: Will it be a Type 1 theory will full expositions as to *what* happens *why* and *why*, or a Type 2 theory of a jumbled collection of entities whose collective behaviour is its own explanation? For understandability's sake, of course it is most sensible to strive for Type 1 theories, but I think the possibility that a purely Type 1 theory might also be impossible. This would mean that the Type 1 models that we look for and understand would always be "wrong" in one sense since they cannot fully account for the remaining Type 2 bit. This seemed disturbing until I realized the following analogy between maps and models: The map with the perfect amount of details that exposes a region *exactly* for what it is, must at least be as large as that region, if not bigger. But then, what is the use of such a map, if it is as large as our region of interest, making it useless for us? The same must also hold for the models of the mind: Some Type 2 mechanisms must be allowed to remain as such and abstracted away from, allowing the aggregate Type 1 theory (i.e. the map that fits in our hands) to have understandable bits and bobs.
+
+### Conclusion
+
+What I take, as a sum of all that I have learned and the ideas that came to me along the way is this: Humans might be the only creatures that we are perfectly comfortable with ascribing minds to, but even then, if we are to lead a scientific inquiry of it, we must be ready to dispose of our ossified conceptions of it. This old understanding might derive from our most intuitive experiences of it, even the first-hand ones (such as the subjective ones), but the question remains as to whether these must play a part in forming a scientific understanding of the mind. The Turing Test analysis might be showing that we may never be sure whether to give "the credit of the mind" to a communicating agent, but then we may not have to, since this credit may not be discrete, but instead continuous. Basing our understanding of the mind by remaining open to new formulations, conceptions and lexicons about it might just lead us to ascribe a certain amount of mind. And beginning such a quest from evolution as the most fundamental fact about minds might just be the right move given this graduality we are willing to accept, and to start building a framework with some parts we might have to *not* understand.
+
+### Notes
+
+1. <a id="footnotetext11_1"></a> I use the term loosely since (1) I am not confident that I know the meaning exactly and (2) I am not sure it fits here correctly. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark11_1)
+2. <a id="footnotetext11_2"></a> Whether we can detect a "more of a mind" is another interesting question that I leave unanswered. [↩](/whatnot/2022/phil_of_cogsci/#footnotemark11_2)
