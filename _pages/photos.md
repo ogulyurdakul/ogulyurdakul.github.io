@@ -17,14 +17,6 @@ redirect_from:
 
 Below you can see the Flickr albums for each posted day, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my other Flickr albums formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
 
-## Roll #2 *An introduction to compact film cameras*
-
-I shot these with a film of 100 ISO and the camera my grandma gave me, a Nikon One Touch 100. I deliberately used it to try out the camera and so I didn't get many pictures I can show, but I liked these for some reason. The rest of the 37 shots in total are either personal, or not good, or not in focus, or over/under exposed, etc.
-
-<div align="center">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720306199563" title="Roll #2"><img src="https://live.staticflickr.com/65535/52704426715_a3c91a314c_z.jpg" width="640" height="480" alt="Roll #2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
 ## 19-22.04.2023: *Izmir Trip*
 
 <div align="center">
@@ -35,6 +27,14 @@ I shot these with a film of 100 ISO and the camera my grandma gave me, a Nikon O
 
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720307716652" title="Roll #3 &amp; #4: The high-life"><img src="https://live.staticflickr.com/65535/52839593828_c46f70ac91_w.jpg" width="500" height="375" alt="Roll #3 &amp; #4: The high-life"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+## Roll #2 *An introduction to compact film cameras*
+
+I shot these with a film of 100 ISO and the camera my grandma gave me, a Nikon One Touch 100. I deliberately used it to try out the camera and so I didn't get many pictures I can show, but I liked these for some reason. The rest of the 37 shots in total are either personal, or not good, or not in focus, or over/under exposed, etc.
+
+<div align="center">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720306199563" title="Roll #2"><img src="https://live.staticflickr.com/65535/52704426715_a3c91a314c_z.jpg" width="640" height="480" alt="Roll #2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 ## 11.02.2023 *Day out*
