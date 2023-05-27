@@ -19,11 +19,15 @@ Below you can see the Flickr albums for each posted day, and you can [click here
 
 ## 19-22.04.2023: *Izmir Trip*
 
+This was my going back to digital photography again, with my beloved Fujifilm XT30. However, the black-and-white analogue photography I did still rubbed on me, and now I quite like it. It almost feels like cheating, as if simply turning a photograph to grayscale improves it. I also realized that I really liked the 16:9 aspect ratio, especially when shooting landscape. The portraits are way more challenging as the elongated aspect ratio lets too much in. But still, I think I'll stick to it, for a while, at least.
+
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720307714310" title="2023.04.19-22: Izmir Trip"><img src="https://live.staticflickr.com/65535/52838587492_4a5411283c_w.jpg" width="500" height="375" alt="2023.04.19-22: Izmir Trip"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 ## Roll #3 & #4: *The high-life*
+
+I used both of these rolls quite liberally as if the supply was infinite, the economy was well, and the analogue films were cheap and widely available. I guess I shot as if I was living my ideal photography life. All of these are again shot with the Nikon One Touch 100 compact camera, with films of varying ISOs.
 
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720307716652" title="Roll #3 &amp; #4: The high-life"><img src="https://live.staticflickr.com/65535/52839593828_c46f70ac91_w.jpg" width="500" height="375" alt="Roll #3 &amp; #4: The high-life"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
