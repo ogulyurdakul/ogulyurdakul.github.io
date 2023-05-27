@@ -25,6 +25,18 @@ I shot these with a film of 100 ISO and the camera my grandma gave me, a Nikon O
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720306199563" title="Roll #2"><img src="https://live.staticflickr.com/65535/52704426715_a3c91a314c_z.jpg" width="640" height="480" alt="Roll #2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+## 19-22.04.2023: *Izmir Trip*
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720307714310" title="2023.04.19-22: Izmir Trip"><img src="https://live.staticflickr.com/65535/52838587492_4a5411283c_w.jpg" width="500" height="375" alt="2023.04.19-22: Izmir Trip"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+## Roll #3 & #4: *The high-life*
+
+<div align="center">
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720307716652" title="Roll #3 &amp; #4: The high-life"><img src="https://live.staticflickr.com/65535/52839593828_c46f70ac91_w.jpg" width="500" height="375" alt="Roll #3 &amp; #4: The high-life"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 ## 11.02.2023 *Day out*
 
 I really needed to go out this day, after looking at the tragedies that go on after the earthquake in Kahramanmaraş, Turkey. I went out to meet with a couple of friends, and took some shots while out. I'm very keen on starting street photography although I'm quite shy on taking pictures of people I don't know, but this night has been quite encouraging.
@@ -85,7 +97,7 @@ On the other hand, I feel like the two pictures of Elif I took this day are real
 
 ## 07.11.2021 *The last week of the photography course, Sunday.*
 
-Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter. 
+Today was the only day I could join an actual outdoor photo shoot with the course, and I think it shows. I took many pictures, and these are what I salvage among them. We did practice under a theme given by Serhat Hoca, our instructor, a couple of times (like working with reflections) and that was a lot of fun. There's one thing Serhat Hoca said I will try to keep in mind in the future about working with reflections, and that's to not treat a reflective surface like a fancy physical image filter.
 
 <div align="center">
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/194393562@N02/albums/72157720151088597" title="07.11.2021: The last week of the photography course, Sunday."><img src="https://live.staticflickr.com/65535/51679010504_9783afd520.jpg" width="500" height="375" alt="07.11.2021: The last week of the photography course, Sunday."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -116,7 +128,6 @@ We were supposed to go on a photo shoot today but we didn't due to the cold weat
 
 <!-- [<img src="/images/photoJournal/2021-11-06/crazycat.jpg" width="270">](/images/photoJournal/2021-11-06/crazycat.jpg "This cat is just the most random thing I will remember about the photography course. His main thing is to meow extremely loudly every 30 seconds, for no reason at all, and then scuttle away every second time you try to pet him. There was just no making sense of him, and I love that.") 
 [<img src="/images/photoJournal/2021-11-06/proof.jpg" width="120">](/images/photoJournal/2021-11-06/proof.jpg "I had to take this one, I just had to. I'll take a look at it whenever I'm having trouble with a proof, and make myself another cup of coffee. (Credit: I think the sign belongs to Arabica Coffee House.)")  -->
-
 
 ## 30-31.10.2021 *The third week of the photography course.*
 
