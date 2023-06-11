@@ -12,7 +12,7 @@ tags:
 
 <a id="essays"></a> **Essays:**
 
-1. [Is "autonomous" Same as "automated"?](/whatnot/2022/phil_of_cogsci/#autonomy)
+1. [Is "Autonomous" Same as "Automated"?](/whatnot/2022/phil_of_cogsci/#autonomy)
 2. [Turing Tests and Chinese Rooms for Other Minds](/whatnot/2022/phil_of_cogsci/#tt_cra_other_minds)
 3. [Type 1 Theory of "Mind"](/whatnot/2022/phil_of_cogsci/#type2_mind)
 4. [Tug-of-Mind](/whatnot/2022/phil_of_cogsci/#tug_of_mind)
@@ -28,7 +28,7 @@ And finally, here's my [end-of-term report](/whatnot/2022/phil_of_cogsci/#term_r
 ---
 ---
 
-## <a id="autonomy"></a> Is "autonomous" the Same as "automated"? <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
+## <a id="autonomy"></a> Is "Autonomous" the Same as "Automated"? <a href="/whatnot/2022/phil_of_cogsci/#essays">⤒</a> 
 
 First of all, I have to say that for all practical or everyday cases I can imagine, these two words seem to be synonymous: Both kinds of autonomy convey the meaning of a possibly complex process being performed independent of an external agent's interference or control. For sufficiently complex tasks I imagine both entail implementing some sort of auto-correction upon error detection, modelling of the environment and planning on that model, and much more. I have to admit my reluctance in positing the existence of a representation, though. After all, the falling of water at a water flow seems to occur autonomously at face value, while I find it questionable that there is a representation there at all.<sup><a id="footnotemark1_1" href="/whatnot/2022/phil_of_cogsci/#footnotetext1_1">1</a></sup> So, I make no distinction between these two terms in terms of the existence of representation. Both may or may not have it, as far as I am concerned here.
 
