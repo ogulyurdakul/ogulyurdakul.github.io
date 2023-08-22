@@ -15,33 +15,36 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
+:   *CGPA: 4.00 / 4.00*
 :   *Specialization Area: Signal Processing*
-:   *CGPA: 3.93 / 4.00*
+:   *Supervisor: [Dr Emre Ozkan](https://blog.metu.edu.tr/emreo/)*
 
 <ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022</ins>
 :   *[Middle East Technical University, Department of Mathematics](https://math.metu.edu.tr)*
 :   *High Honour, CGPA: 3.87 / 4.00*
+:   
 
 <ins>B.Sc. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
-:   *Specialization Area: Biomedical Engineering*
 :   *High Honour, CGPA: 3.76 / 4.00*
+:   *Specialization Area: Biomedical Engineering*
 
 <ins>High School Graduate, 09/2012 - 06/2016</ins>
 :   *[Ankara Private Tevfik Fikret High School](https://ankara.tfo.k12.tr/)*
 
 ## Professional Experience
 
-<ins>February 2022 - Present: Research Assistant</ins>
+<ins>February 2022 - Present: Teaching Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
-:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses, likely changing from semester to semester.
-:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306).
+:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses.
+:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306). (Check out the [MATLAB tutorial I prepared for these courses](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/)!)
 :   **Fall 2022-2023:** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) and [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
+:   **Spring 2022-2023:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230).
 
-<ins>Summer 2019 - Present: Lab Member</ins>
+<ins>Summer 2019 - Present: Researcher</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
-:   *Supervisor: Assoc. Prof. Dr. Emre Özkan*
-:   I study statistical signal processing, with emphasis on particle filters, Chernoff fusion and extended target tracking.
+:   *PI: Assoc. Prof. Dr. Emre Özkan*
+:   Under the supervision of Dr Emre Özkan, I study statistical signal processing, emphasising information fusion and extended target tracking.
 
 <ins>Summer 2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
