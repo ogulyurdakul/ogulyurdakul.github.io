@@ -32,14 +32,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 <ins>High School Graduate, 09/2012 - 06/2016</ins>
 :   *[Ankara Private Tevfik Fikret High School](https://ankara.tfo.k12.tr/)*
 
-## Professional Experience
-
-<ins>February 2022 - Present: Teaching Assistant</ins>
-:   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
-:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses.
-:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306). (Check out the [MATLAB tutorial I prepared for these courses](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/)!)
-:   **Fall 2022-2023:** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) and [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
-:   **Spring 2022-2023:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230).
+## Research Experience
 
 <ins>Summer 2019 - Present: Researcher</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
@@ -57,8 +50,19 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 ## Leadership and Teaching Experience
 
+<ins>February 2022 - Present: Teaching Assistant</ins>
+:   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
+:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses.
+:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306). (Check out the [MATLAB tutorial I prepared for these courses](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/)!)
+:   **Fall 2022-2023:** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) and [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
+:   **Spring 2022-2023:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230).
+
+<ins>July 2023: Lead Teaching Assistant </ins>
+:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Lead TA ([Certificate](/files/NMA2023_CertificateLeadTA.pdf))*
+:   -- I will have more to say about this! --
+
 <ins>July 2021: Teaching Assistant </ins>
-:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA ([Certificate](/files/NMA_TA_Certificate.pdf))*
+:   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA ([Certificate](/files/NMA2021_CertificateRegularTA.pdf))*
 :   Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
 :   Here's a [Twitter thread on a funny incident](https://twitter.com/ogulyurdakul/status/1420058847289516035?s=20&t=EkKAiZHDh7fJ4JEoGzkDHg) I went through at the end of my TAship this year.
 
