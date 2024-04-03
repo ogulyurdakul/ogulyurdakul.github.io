@@ -57,7 +57,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   **-** [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306)
 :   **-** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361).
 :   **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
-:   **-** [EE415 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
+:   **-** [EE416 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
 :    (Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)
 
 <ins>July 2023: Lead Teaching Assistant </ins>
