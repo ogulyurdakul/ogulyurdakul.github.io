@@ -52,10 +52,13 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 <ins>February 2022 - Present: Teaching Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
-:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses.
-:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306). (Check out the [MATLAB tutorial I prepared for these courses](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/)!)
-:   **Fall 2022-2023:** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) and [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
-:   **Spring 2022-2023:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230).
+:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I am TA for various courses. Here are the courses I have worked in so far:
+:   **-** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230)
+:   **-** [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306)
+:   **-** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361).
+:   **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
+:   **-** [EE415 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
+:    (Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)
 
 <ins>July 2023: Lead Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Lead TA ([Certificate](/files/NMA2023_CertificateLeadTA.pdf))*
