@@ -62,7 +62,7 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 <ins>July 2023: Lead Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Lead TA ([Certificate](/files/NMA2023_CertificateLeadTA.pdf))*
-:   -- I will have more to say about this! --
+:   In addition to the regular TA responsibilities, I was also tasked with leading seven other regular TAs. I assisted with their training and guided them regarding pod management along with other administrative responsibilities, such as dealing with TA absences.
 
 <ins>July 2021: Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA ([Certificate](/files/NMA2021_CertificateRegularTA.pdf))*
@@ -75,8 +75,12 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 ## Organizations, Trainings & Others
 
+<ins>May 2022 - Present: Volunteer at Neuromatch</ins>
+
 <ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
 :   I was responsible for the acquisition and organization of work offers from around Ankara for IAESTE LC METU, trained newcomers on company relations, and hosted the incoming interns.
+
+<ins>Summer 2020: Student in Neuronal Dynamics for Embodied Cognition</ins>
 
 <ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
 :   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
