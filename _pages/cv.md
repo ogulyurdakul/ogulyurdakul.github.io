@@ -86,6 +86,8 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
 :   NMA became a cornerstone in defining my scientist-to-be, with its inclusivity and commitment to open science. At the end of these three weeks, I was already keen on remaining a part of NMA, somehow.
 
+<ins>January 2020: Participant in 4th HBP Student Conference on Interdisciplinary Brain Research</ins>
+
 <ins>Fall 2019: Instructor for Mathematics Workshop</ins>
 :   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/whatnot/side_gigs/#maths-workshop).
 
