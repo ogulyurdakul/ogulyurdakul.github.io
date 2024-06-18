@@ -2,9 +2,9 @@
 title: "A Rao-Blackwellized Particle Filter for Superelliptical Extended Target Tracking"
 collection: publications
 permalink: /publications/seot-rbpf
-date: 2024
+date: 2024-06-18
 venue: '27th International Conference on Information Fusion (FUSION 2024)'
-paperurl: ''
+paperurl: 'http://arxiv.org/abs/2406.10389'
 citation: 'Yurdakul, O. C., Çetinkaya, M., Çelebi, E., & Özkan, E. (2024). A Rao-Blackwellized Particle Filter for Superelliptical Extended Target Tracking. Accepted for publication. <a href="http://arxiv.org/abs/2406.10389">http://arxiv.org/abs/2406.10389</a> '
 ---
 
