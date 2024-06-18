@@ -52,14 +52,17 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 <ins>February 2022 - Present: Teaching Assistant</ins>
 :   *[Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)*
-:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I will be TA for various courses.
-:   **Spring 2021-2022:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230) and (the updated) [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306). (Check out the [MATLAB tutorial I prepared for these courses](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/)!)
-:   **Fall 2022-2023:** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) and [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
-:   **Spring 2022-2023:** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230).
+:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I am TA for various courses. Here are the courses I have worked in so far:
+:   **-** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230)
+:   **-** [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306)
+:   **-** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361).
+:   **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
+:   **-** [EE416 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
+:    (Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)
 
 <ins>July 2023: Lead Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Lead TA ([Certificate](/files/NMA2023_CertificateLeadTA.pdf))*
-:   -- I will have more to say about this! --
+:   In addition to the regular TA responsibilities, I was also tasked with leading seven other regular TAs. I assisted with their training and guided them regarding pod management along with other administrative responsibilities, such as dealing with TA absences.
 
 <ins>July 2021: Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA ([Certificate](/files/NMA2021_CertificateRegularTA.pdf))*
@@ -72,12 +75,18 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 ## Organizations, Trainings & Others
 
+<ins>May 2022 - Present: Volunteer at Neuromatch</ins>
+
 <ins>2019 - 2021: Coordinator in IAESTE LC METU</ins>
 :   I was responsible for the acquisition and organization of work offers from around Ankara for IAESTE LC METU, trained newcomers on company relations, and hosted the incoming interns.
+
+<ins>Summer 2020: Student in Neuronal Dynamics for Embodied Cognition</ins>
 
 <ins>Summer 2020: Interactive Student in Neuromatch Academy</ins>
 :   I participated in a 3-week long, intense summer school as an interactive student, which entailed preparing a project. In the project, we used linear models from scikit-learn Python library and worked on preprocessed fMRI data.
 :   NMA became a cornerstone in defining my scientist-to-be, with its inclusivity and commitment to open science. At the end of these three weeks, I was already keen on remaining a part of NMA, somehow.
+
+<ins>January 2020: Participant in 4th HBP Student Conference on Interdisciplinary Brain Research</ins>
 
 <ins>Fall 2019: Instructor for Mathematics Workshop</ins>
 :   I was offered an opportunity to deliver a workshop on mathematics to a group of second-year at my high school Ankara Private Tevfik Fikret High School. More in [side gigs](/whatnot/side_gigs/#maths-workshop).
