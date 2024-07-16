@@ -12,7 +12,7 @@ citation: 'Yurdakul, O. C., Çetinkaya, M., Çelebi, E., & Özkan, E. (2024). A 
 
 [Download paper here (arXiv)](http://arxiv.org/abs/2406.10389)
 
-And here is the presentation:
+And here is the presentation *(you can download the .pdf and open with Adobe Acrobat to see the animations on slide 14)*:
 
 <iframe width="100%" height="800" src="/files/Superellipse_RPBF_presentation.pdf">
 
