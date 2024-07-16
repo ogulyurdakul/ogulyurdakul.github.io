@@ -10,9 +10,7 @@ citation: 'Yurdakul, O. C., Çetinkaya, M., Çelebi, E., & Özkan, E. (2024). A 
 
 <!-- In this paper, I propose a feature extraction technique based on Local Binary Pattern method, which assigns a binary code to each entry of a matrix based on its 8 surrounding entries. The method was first proposed for images, and was then adapted for 1D signals by taking an equal number of entries on each side of the center point.  -->
 
-[Download paper here (arXiv)](http://arxiv.org/abs/2406.10389)
-
-And here is the presentation *(you can download the .pdf and open with Adobe Acrobat to see the animations on slide 14)*:
+[Download paper here (arXiv)](http://arxiv.org/abs/2406.10389) and below  is the presentation *(you can download the .pdf and open with Adobe Acrobat to see the animations on slide 14)* if you want to get a quick and visual impression of this work.
 
 <iframe width="100%" height="800" src="/files/Superellipse_RPBF_presentation.pdf">
 
