@@ -13,16 +13,19 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 ## Education
 
-<ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - Present</ins>
+<ins>Ph.D. in Cognitive Science, 10/2024 - Present</ins>
+:   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
+
+<ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - 08/2024</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
 :   *CGPA: 4.00 / 4.00*
 :   *Specialization Area: Signal Processing*
+:   *Thesis: Superelliptical Extended Target Tracking with Contour Measurements*
 :   *Supervisor: [Dr Emre Ozkan](https://blog.metu.edu.tr/emreo/)*
 
 <ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022</ins>
 :   *[Middle East Technical University, Department of Mathematics](https://math.metu.edu.tr)*
 :   *High Honour, CGPA: 3.87 / 4.00*
-:   
 
 <ins>B.Sc. in Electrical and Electronics Engineering, 10/2016 - 01/2021</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
@@ -34,18 +37,20 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 ## Research Experience
 
-<ins>Summer 2019 - Present: Researcher</ins>
+<ins>09/2019 - Present: Researcher</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
 :   *PI: Assoc. Prof. Dr. Emre Özkan*
-:   Under the supervision of Dr Emre Özkan, I study statistical signal processing, emphasising information fusion and extended target tracking.
+:   *Under the supervision of Dr Emre Özkan, I studied statistical signal processing methods. My two main projects involved extended target tracking \cite{Superellipse_RBPF} and information fusion with empirical density approximations.*
 
-<ins>Summer 2019: Summer Intern in Research</ins>
+<ins>07/2019 - 09/2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
 :   *Supervisors: Dr. M.S.P. Subathra & Dr. S. Thomas George*
+:   *I proposed a new feature extraction method based on Local Binary Patterns, and showed that it was useful in a classification task with a shallow neural network \cite{Parkinsons}.*
 :   Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp).
 
-<ins>Summer 2018: Summer Intern</ins>
+<ins>07/2018 - 08/2018: Summer Intern</ins>
 :   *IBM Turkey, Istanbul Office*
+:   *I observed the process of data center migration on the field and helped the team with various tasks. I implemented a demonstrative use of the IBM Cloud services in an Internet-of-Things application.*
 :   This was my first ever internship, and I value that it was *not* in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry.
 
 ## Leadership and Teaching Experience
@@ -58,20 +63,21 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 :   **-** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361).
 :   **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
 :   **-** [EE416 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
+:   **-** [EE499 Vector Space Methods in Signal Processing](https://catalog.metu.edu.tr/course.php?course_code=5670499).
 :    (Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)
 
 <ins>July 2023: Lead Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Lead TA ([Certificate](/files/NMA2023_CertificateLeadTA.pdf))*
-:   In addition to the regular TA responsibilities, I was also tasked with leading seven other regular TAs. I assisted with their training and guided them regarding pod management along with other administrative responsibilities, such as dealing with TA absences.
+:   *In addition to the regular TA responsibilities, I was also tasked with leading seven other regular TAs. I assisted with their training and guided them regarding pod management along with other administrative responsibilities, such as dealing with TA absences.*
 
 <ins>July 2021: Teaching Assistant </ins>
 :   *[Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Tutorial TA ([Certificate](/files/NMA2021_CertificateRegularTA.pdf))*
-:   Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.
+:   *Having enjoyed being an interactive student immensely the year before, I wanted to become a TA in NMA-CN. I was responsible for a pod in NMA-CN online summer school. I helped them go over tutorials about fundamental topics on computational neuroscience and develop a project, answered their questions about the coding exercises and the underlying theory.*
 :   Here's a [Twitter thread on a funny incident](https://twitter.com/ogulyurdakul/status/1420058847289516035?s=20&t=EkKAiZHDh7fJ4JEoGzkDHg) I went through at the end of my TAship this year.
 
 <ins>Fall 2018 & Spring 2020: Part-Time Student Assistant</ins>
 :   *METU Department of Mathematics*
-:   I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.
+:   *I was the student assistant for the course MA153 Calculus for Mathematics Students I (Fall 2018) and MA154 Calculus for Mathematics Students II (Spring 2020); and I graded weekly assignments and provided feedback to students.*
 
 ## Organizations, Trainings & Others
 
