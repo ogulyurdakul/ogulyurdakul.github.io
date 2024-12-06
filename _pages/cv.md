@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is my somewhat unofficial CV, with my comments about each item. You can find a more official version as a PDF [here](/files/OgulCanYurdakul_fullCV.pdf).
+<!-- Below is my somewhat unofficial CV, with my comments about each item. You can find a more official version as a PDF [here](/files/OgulCanYurdakul_fullCV.pdf). -->
 
 ## Education
 
@@ -102,7 +102,6 @@ Below is my somewhat unofficial CV, with my comments about each item. You can fi
 
 ## Publications
 
-I suppose a CV has to contain this section. So, for completeness sake, here is a list of publication(s, hopefully).
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
