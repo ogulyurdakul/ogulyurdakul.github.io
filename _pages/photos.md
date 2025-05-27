@@ -15,7 +15,19 @@ redirect_from:
 
 [<img src="/images/cameraPhoto.jpg" style="float: left; width: 25%; margin-right: 1em;">](/images/cameraPhoto.jpg "Me, not so professionally. Photo Credit: Elif Leblebici.") You found my photo journal! Here I intend to share some pictures I take as I retake photography as a hobby. I took a photography course when I was in middle school, but life happened, and I, for some reason, did not take a camera in my hands for my own enjoyment until I started attending this course on photography (see the first day). I did some casual smartphone photography in the meantime, and I did enjoy it, but now I feel like I need to take this hobby a bit more seriously and invest some more time.
 
-Below you can see the Flickr albums for each posted day, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my other Flickr albums formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
+Below you can see the Flickr albums for each posted album, and you can [click here](https://www.flickr.com/photos/ogulyurdakul/collections/72157720138555823/) to see a collection of my other Flickr albums formed with a more aesthetic motivation rather than chronological. If at any point you go *"Hey, that's me/mine, but I don't want (it) to be there!"* you can just tell me, and I'll remove the photo. It should also go without saying that **if you want to use a photograph I took for any reason, please do not do so without my consent.**
+
+## Roll #5 & #6: Missing Data
+
+<div align="center">
+    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720326414316" title="Roll #5 &amp; #6: Missing Data"><img src="https://live.staticflickr.com/65535/54547850457_ddf701912b_b.jpg" width="500" height="375" alt="Roll #5 &amp; #6: Missing Data"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+## 14.02.2025: *Ulus/Ankara Castle Trip*
+
+<div align="center">
+    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/ogulyurdakul/albums/72177720323825162" title="14.02.2025 Ulus/Ankara Castle Trip"><img src="https://live.staticflickr.com/65535/54327686364_77e7a31c29_b.jpg" width="500" height="375" alt="14.02.2025 Ulus/Ankara Castle Trip"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 ## 19-22.04.2023: *Izmir Trip*
 
