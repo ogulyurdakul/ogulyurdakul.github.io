@@ -40,7 +40,7 @@ redirect_from:
 <ins>09/2019 - Present: Researcher</ins>
 :   *[METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)*
 :   *PI: Assoc. Prof. Dr. Emre Özkan*
-:   *Under the supervision of Dr Emre Özkan, I studied statistical signal processing methods. My two main projects involved extended target tracking \cite{Superellipse_RBPF} and information fusion with empirical density approximations.*
+:   *Under the supervision of Dr Emre Özkan, I studied statistical signal processing methods. My two main projects involved extended target tracking ([paper](https://ogulyurdakul.github.io/publications/seot-rbpf)) and information fusion with empirical density approximations.*
 
 <ins>07/2019 - 09/2019: Summer Intern in Research</ins>
 :   *Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering*
