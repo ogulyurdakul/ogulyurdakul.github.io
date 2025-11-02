@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Oğul Can Yurdakul"
-  avatar           : "ogul_cv.jpeg"
+  avatar           : "Ogul Can Yurdakul_sq.jpg"
   bio              : "Welcome to my personal web page!"
-  location         : "Ankara, Turkey"
+  location         : "Irvine, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IOL9YVsAAAAJ"
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "ogulyurdakul"
 
 
 # Reading Files

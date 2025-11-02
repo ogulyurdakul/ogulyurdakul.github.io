@@ -13,8 +13,12 @@ redirect_from:
 
 ## Education
 
-<ins>Ph.D. in Cognitive Science, 10/2024 - Present</ins>
-:   *[Middle East Technical University, Department of Cognitive Science](https://cogs.metu.edu.tr)*
+<ins>Ph.D. in Cognitive Science, 09/2025 - Present</ins>
+:   *[University of California - Irvine, Department of Cognitive Science](https://www.cogsci.uci.edu/)*
+:   *Supervisor: [Dr Megan Peters](https://www.meganakpeters.org/**home**)*
+
+<!-- <ins>Ph.D. in Cognitive Science, 10/2024 - Present</ins>
+:   *[Middle East Technical University, Department of Cognitive Science](https://cogs.metu.edu.tr)* -->
 
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - 08/2024</ins>
 :   *[Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)*
