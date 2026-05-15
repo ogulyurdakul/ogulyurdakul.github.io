@@ -10,9 +10,9 @@ citation: 'A novel approach to characterizing the visual dimensions of mental im
 
 ## Poster Supplements - _Last updated: 2026.05.15_
 
-This is a living document where I will add any supplementary information/results about my poster, which you can find below:
+This is a living document where I will add any supplementary information/results about my poster, which you can find here.
 
-<iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
+<!-- <iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe> -->
 
 ### Methods
 
