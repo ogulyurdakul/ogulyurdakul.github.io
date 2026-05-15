@@ -8,7 +8,7 @@ paperurl: 'https://www.visionsciences.org/presentation/?id=4213'
 citation: 'A novel approach to characterizing the visual dimensions of mental imagery vividness using Gaussian process regression (2026) Yurdakul O.C., Huang X., Shen A., Olsson E., Ekhlasi A., Klímová M., Morales J.*, Peters M.A.K.* Vision Sciences Society Annual Meeting'
 ---
 
-## Poster Supplements - Last updated: 2026.05.15
+## Poster Supplements - _Last updated: 2026.05.15_
 
 This is a living document where I will add any supplementary information/results about my poster, which you can find below:
 
@@ -20,7 +20,19 @@ This is a living document where I will add any supplementary information/results
 
 <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
-    <!-- <br> <em size="-2">Figure 1. A 3D reconstruction of a C. Elegans worm’s connectome, fitted within its approximate body shape. Retrieved from Jabr (2012).</em> -->
+    <br> <em size="-2">Supersubject vividness manifolds.</em>
+</p>
+
+:
+<p style="text-align:center">
+    <img src="/images/vss2026_vividness_gp/individual10.gif" width="75%" />
+    <br> <em size="-2">Subject 10 vividness manifolds.</em>
+</p>
+
+Subject 10-Supersubject difference manifolds:
+<p style="text-align:center">
+    <img src="/images/vss2026_vividness_gp/deltaV10.gif" width="75%" />
+    <br> <em size="-2">Subject 10-Supersubject difference manifolds.</em>
 </p>
 
 <!--  -->
