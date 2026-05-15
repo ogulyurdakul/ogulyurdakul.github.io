@@ -3,7 +3,7 @@ title: "A novel approach to characterizing the visual dimensions of mental image
 collection: publications
 permalink: /publications/vividness-gp
 date: 2026-05-19
-venue: 'Vision Sciences Society Meeting 2026'
+venue: 'Vision Sciences Society Annual Meeting 2026'
 paperurl: ''
 citation: ''
 ---
