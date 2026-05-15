@@ -16,4 +16,11 @@ This is a living document where I will add any supplementary information/results
 
 ### Methods
 
+### Results
+
+<p float="left" align="middle">
+    <img src="/images/vss2026_vividness_gp/supersubject.gif" width="45%" />
+    <!-- <br> <em size="-2">Figure 1. A 3D reconstruction of a C. Elegans worm’s connectome, fitted within its approximate body shape. Retrieved from Jabr (2012).</em> -->
+</p>
+
 <!--  -->
