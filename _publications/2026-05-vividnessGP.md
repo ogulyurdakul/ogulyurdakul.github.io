@@ -8,12 +8,12 @@ paperurl: 'https://www.visionsciences.org/presentation/?id=4213'
 citation: '----'
 ---
 
-<iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf">
-
 ## Poster Supplements
 
 This is a living document where I will add any supplementary information/results about my poster!
 
 Last updated: 2026.05.15
+
+<iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf">
 
 <!--  -->
