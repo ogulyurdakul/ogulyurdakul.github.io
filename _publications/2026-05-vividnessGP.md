@@ -8,7 +8,7 @@ paperurl: 'https://www.visionsciences.org/presentation/?id=4213'
 citation: '----'
 ---
 
-<iframe width="100%" height="800" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
+<iframe width="100%" height="500" src="/files/vss2026_ogulCanYurdakul.pdf">
 
 ## Poster Supplements
 
