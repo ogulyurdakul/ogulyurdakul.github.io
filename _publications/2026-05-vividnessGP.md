@@ -33,14 +33,16 @@ This is a living document where I will add any supplementary information/results
 </p>
 
 <script>
-  document.getElementById('gif-select').addEventListener('change', function() {
-    document.getElementById('gif-display').src = this.value;
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('gif-select').addEventListener('change', function() {
+      document.getElementById('gif-display').src = this.value;
+    });
   });
 </script>
 
 ### old
 
-<p style="text-align:center">
+<!-- <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
     <br> <em size="-2">Supersubject vividness manifolds.</em>
 </p>
@@ -53,6 +55,6 @@ This is a living document where I will add any supplementary information/results
 <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/deltaV10.gif" width="75%" />
     <br> <em size="-2">Subject 10-Supersubject difference manifolds.</em>
-</p>
+</p> -->
 
 <!--  -->
