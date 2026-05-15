@@ -14,4 +14,8 @@ citation: '----'
 
 ## Poster Supplements
 
+This is a living document where I will add any supplementary information/results about my poster!
+
+Last updated: 2026.05.15
+
 <!--  -->
