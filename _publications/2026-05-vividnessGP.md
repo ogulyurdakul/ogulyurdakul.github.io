@@ -12,11 +12,11 @@ citation: 'A novel approach to characterizing the visual dimensions of mental im
 
 This is a living document where I will add any supplementary information/results about my poster, which you can find here.
 
-<!-- <iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe> -->
+<iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
 
-### Methods
+### Gaussian Processes
 
-### Results
+### Animated Manifolds
 
 You can find the more detailed animations for each subject's and the supersubject's manifolds. The animations might load slowly after you make a selection, so please give you browser some time!
 <p style="text-align:center">
@@ -41,7 +41,7 @@ You can find the more detailed animations for each subject's and the supersubjec
   });
 </script>
 
-### old
+### Clustering Results
 
 <!-- <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
