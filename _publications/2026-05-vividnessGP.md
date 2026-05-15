@@ -18,6 +18,7 @@ This is a living document where I will add any supplementary information/results
 
 ### Results
 
+You can find the more detailed animations for each subject's and the supersubject's manifolds. The animations might load slowly after you make a selection, so please give you browser some time!
 <p style="text-align:center">
   <select id="gif-select">
     <option value="/images/vss2026_vividness_gp/label0.gif">Supersubject</option>
