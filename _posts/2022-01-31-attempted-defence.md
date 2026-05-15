@@ -25,7 +25,7 @@ I take the thought experiment as it is presented by Kim (2011). The story goes a
 
 Before we proceed further, let's take a look at some crude schematics of the relevant neural circuitry of my brain, as shown in Figure 1. Originally, the relative sensory inputs go to their relative neural circuits and through their computations cause appropriate behavioural output, as depicted in Figure 1 (left). After the operation because both the inputs and the outputs are crossed as shown in Figure 1 (right). The inputs cause the wrong neural circuit to activate, but these activations still cause appropriate behaviour.<sup><a id="footnotemark1" href="/whatnot/2022/cross_wired_brain_attempted_defence/#footnotetext1">1</a></sup> From here on, I will use the terms neural circuits that implement various functional states as boxes for simplicity just like Kim: The pain receptors trigger the Pain Box which produces pain behaviour, and vice versa. The terms "neural circuit" and "box" wil be used interchangeably.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/attempted_defence/noqualia_original.png" width="45%" />
     <img src="/images/attempted_defence/noqualia_operated.png" width="45%" />
     <br> <em size="-2">Figure 1: Crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).</em>
@@ -41,7 +41,7 @@ On a tangent, let's take a closer look at how the neurosurgeon's method during t
 
 What may be a solution to this? I say the neurosurgeon must follow a second, *backwards* causal route as well. Starting from the outputs, which are the appropriate motor neurons, the neurosurgeon follows the causal network (on its implementation, that is) in the backwards direction. This analysis yields all the neural circuitry that has the potential to cause such behaviour, so the question this time becomes "Which neurons can eventually cause these motor neurons to fire?" Let's call this question Q2. Similarly to the forwards tracing case, this analysis would point to an immensely large section of the human nervous system. But this time, the neurosurgeon also has the forwards tracing data. Intersecting the two sets of neurons yielded by the two questions and effectively asking "Which neurons fire due to the firing of these pain receptors and cause these motor neurons to  ire?", the candidate neurons would be to those linking the pain receptors to the lying on a directed path from the appropriate inputs, to the appropriate output, reducing their numbers.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/attempted_defence/samplecausal.jpeg" width="45%" />
     <br> <em size="-2">Figure 2: A sample neural network, with arrows indicating causation of firing. The triangle is an input neuron (e.g. firing of pain receptors), the square is an output neuron (e.g. firing of motor neurons), and the disks are intermediary neurons. The curved arrows indicate long causal links through several states. </em>
 </p>
@@ -76,7 +76,7 @@ In the rest of my essay, I will first be handling the thought experiment with th
 Let us go through the thought experiment once more. I am abducted by the neurosurgeon, who wishes to make an operation on me. Before the operation, the crude diagram of my relevant mentality
 is given in Figure 3. During the operation, the neurosurgeon can only discover the dispositional states because the only available evidence to discover any mental state can only be behaviour, and the neurosurgeon has to employ a minimalistic approach when identifying each box. So, the neurosurgeon finds the pain disposition and itch disposition boxes. Therefore, during the operation, the neurosurgeon unintentionally switches the connections to the Qualia Box as well, to obtain the rewiring in Figure 3.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/attempted_defence/qualia_original.png" width="45%" />
     <img src="/images/attempted_defence/qualia_operated.png" width="45%" />
     <br> <em size="-2">Figure 1: Figure 3: Updated crude schematics of my brain's relevant parts, pre-operation (left) and post-operation (right).</em>
@@ -91,7 +91,7 @@ Before we go on with the properties of the Qualia Box, let us first discuss how 
 
 > ... [T]his way of describing awareness-as the monitoring of brain activity by a subsystem of the brain itself- seems to resemble the nearly indescribable sensation which we all know and call "consciousness." Certainly one can see that the complexity here is enough that many unexpected effects could be created. For instance, it is quite plausible that a computer program with this kind of structure would make statements about itself which would have a great deal of resemblance to statements which people commonly make about themselves. This includes insisting that it has free will, that it is not explicable as a "sum of its parts", and so on. ---<cite>Hofstadter (1999) Chapter XII, Minds and Thoughts, p.388</cite>
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/attempted_defence/qualia.png" width="45%" />
     <br> <em size="-2">Figure 4: The Qualia Box. The self-connection was omitted for clarity in the previous schematics. </em>
 </p>

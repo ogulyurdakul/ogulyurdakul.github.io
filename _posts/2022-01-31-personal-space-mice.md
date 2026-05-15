@@ -46,7 +46,7 @@ I chose to use WebPPL only for model fitting purposes, as I found Python to be a
 
 The raw data of the experiment is collected with a camera at a bird's eye view of a mouse enclosure. One male mouse, called the resident mouse, is habituated to the enclosure first. Then, another white intruder mouse is introduced into the cage. Their interactions are recorded by the top-mounted camera with a 30 Hz frame rate. Each frame is then given one of these four labels by experts describing which action is being performed by the resident mouse: Attack, investigation, mounting, and other. The distinguishing feature of this dataset is that along with the videos of the recordings, time series describing the seven anatomically chosen points on each mice is provided. Each frame is processed using Mouse Action Recognition System (MARS) software (Segalin et al., 2021) which makes use of recent advances in computer vision to extract these seven points. Figure 1 shows a summary of the experiment setup and the information provided by MARS.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/personal_lab_mice/experiment.png" width="95%" />
     <br> <em size="-2">Figure 1: (Left) A simplified schematic of the experiment setup. (Right) A sample frame from the recordings, together with the pose estimates from MARS and a trail left by each mouse. Picture taken with modifications from Sun et al. (2021).</em>
 </p>
@@ -62,7 +62,7 @@ The data as imported via the code provided in *Behavior Classification Starter K
 
 **Preprocessing.** The only preprocessing applied to the data is median filtering, which is a basic method of noise removal (Davies, 2004). I opted for this preprocessing step due to its simplicity, and the heavy noise I observed upon plotting the location of each mouse, which showed quite unrealistic, sudden jumps. I deemed that they are likely due to MARS and not the mice themselves. Figure 2 shows the data after this median filtering.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/personal_lab_mice/residentNoseLoacs.png" width="95%" />
     <br> <em size="-2">Figure 2: Resident mouse nose locations after median filtering. The initial point is marked with a blue cross. Data taken from the fifth training data.</em>
 </p>
@@ -109,7 +109,7 @@ For all the parameters $\alpha^a_i$ to be inferred, an uncorrelated multivariate
 
 The initial results of the inference process seemed like a success in the beginning, as the model seemed to be learning  some non-trivial parameters. But later on, I realized that different runs of the model with the same dataset inferred radically different coefficients. Additionally, each inference session resulted in a deterministic result, meaning the posterior distribution turned out to be a probability mass function concentrated on a single point in the parameter space.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/personal_lab_mice/exmp.png" width="65%" />
     <br> <em size="-2">Figure 3: Indices on the $x$-axis show the parameter indices, where the first four belong to the attack utility coefficients, the later four are the investigation utility coefficients.</em>
 </p>

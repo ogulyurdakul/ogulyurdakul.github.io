@@ -35,7 +35,7 @@ On the other hand, I believe that computer scientific support can be made to bol
 
 ### 3.1. Human Nervous System and Connectomics
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/innateness_emergentism/roundwormconnectome.jpg" width="45%" />
     <br> <em size="-2">Figure 1. A 3D reconstruction of a C. Elegans worm’s connectome, fitted within its approximate body shape. Retrieved from Jabr (2012).</em>
 </p>
@@ -48,7 +48,7 @@ While we may hope to consult connectomics for an answer, that is as far as we ca
 
 It is important to note that I am not talking about the strength or quality of the connections between the neurons, which falls under the definition of representational constraints made by Bates et al. (1998), but the structures’ overall properties formed by the neurons. As understood from (Sporns et al., 2005), we do not have a quantitative measure of the connections of the neurons as well, at least on the collective level of forming neuronal nets and mapping them out explicitly, but the main point is that we do not know the architectural properties of these nets.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/innateness_emergentism/connectome.png" width="45%" />
     <br> <em size="-2">Figure 2. A visual map showing the relations between regions of the human brain and their strengths, where a warmer colour means a stronger connection. Retrieved from Relationship Viewer (n.d.).</em>
 </p>
@@ -83,7 +83,7 @@ A simple example of transfer learning is my own experience with it at IBM. My pr
 
 Obviously, 40 pictures for each positive class is not nearly enough to train such an algorithm, especially given that it is not specifically a facial recognition algorithm but a visual recognition one<sup><a id="footnotemark3" href="/whatnot/2018/innateness_emergentism/#footnotetext3">3</a></sup>. This illustrates one of the key benefits of transfer learning: It drastically decreases the size of the needed dataset, so the target task performs better under small datasets. This fact is also stated by Donges (2018) in his description of transfer learning, along with another advantage: Training time. Our custom classifier trained in approximately 10 to 15 minutes. For such a complex task of facial (or object for generality) recognition, this is near to nothing. Donges states that a deep neural network may take days or even weeks to complete learning and that transfer learning is a major tool in obtaining short training time with relatively little training data.
 
-<p float="left" align="middle">
+<p style="text-align:center">
     <img src="/images/innateness_emergentism/tl-plot.png" width="45%" />
     <br> <em size="-2">Figure 3. A plot showing the performance of a learning algorithm with and without transfer. Retrieved from Torrey and Shavlik (2009).</em>
 </p>

@@ -2,7 +2,7 @@
 title: "A novel approach to characterizing the visual dimensions of mental imagery vividness using Gaussian process regression"
 collection: publications
 permalink: /publications/vss2026-vividness-gp
-date: 2026-05-19
+date: 2026-05-15
 venue: 'Vision Sciences Society Annual Meeting'
 paperurl: 'https://www.visionsciences.org/presentation/?id=4213'
 citation: 'A novel approach to characterizing the visual dimensions of mental imagery vividness using Gaussian process regression (2026) Yurdakul O.C., Huang X., Shen A., Olsson E., Ekhlasi A., Klímová M., Morales J.*, Peters M.A.K.* Vision Sciences Society Annual Meeting'
