@@ -19,7 +19,7 @@ This is a living document where I will add any supplementary information/results
 ### Results
 
 <p style="text-align:center">
-  <select onchange="document.getElementById('gif-display').src = this.value">
+  <select id="gif-select">
     <option value="/images/vss2026_vividness_gp/label0.gif">Supersubject</option>
     <option value="/images/vss2026_vividness_gp/label1.gif">Group 1 (N = 83)</option>
     <option value="/images/vss2026_vividness_gp/label2.gif">Group 2 (N = 30)</option>
@@ -31,6 +31,14 @@ This is a living document where I will add any supplementary information/results
   <br><br>
   <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="45%" />
 </p>
+
+<script>
+  document.getElementById('gif-select').addEventListener('change', function() {
+    document.getElementById('gif-display').src = this.value;
+  });
+</script>
+
+### old
 
 <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
