@@ -30,7 +30,7 @@ You can find the more detailed animations for each subject's and the supersubjec
     <option value="/images/vss2026_vividness_gp/label-1.gif">Group -1 (N = 14)</option>
   </select>
   <br><br>
-  <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="45%" />
+  <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="75%" />
 </p>
 
 <script>
