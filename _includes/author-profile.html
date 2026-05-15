@@ -52,6 +52,16 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
+      {% if author.bluesky %}
+        <li>
+            <a href="https://bsky.app/profile/{{ author.bluesky }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 501" width="16" height="16" style="fill:currentColor; vertical-align:middle; margin-right:4px;">
+                <path d="M123.121 33.664C188.241 82.553 258.281 181.68 284 234.873c25.719-53.192 95.759-152.32 160.879-201.209C491.866-1.611 568-28.906 568 57.947c0 17.346-9.945 145.713-15.778 166.555-20.275 72.453-94.155 90.933-159.875 79.748C507.905 320.48 536.erreur 405.452 432.967 448.38c-88.443 37.234-175.148-13.908-196.952-65.168-21.804 51.26-108.509 102.402-196.952 65.168C-36.057 405.452-7.328 320.48 107.653 304.25c-65.72 11.185-139.6-7.295-159.875-79.748C-57.945 203.66-68 75.293-68 57.947-68-28.906 8.134-1.611 123.121 33.664Z"/>
+            </svg>
+            Bluesky
+            </a>
+        </li>
+      {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}

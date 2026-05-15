@@ -6,15 +6,15 @@ main:
 
   - title: "Cheat Sheets"
     url: /cheat-sheets/ 
+
+  # - title: "Publications"
+  #   url: /publications/ 
     
   - title: "Photo Journal"
     url: /photo-journal/
         
   - title: "and Whatnot"
     url: /whatnot/
-
-  # - title: "Publications"
-  #   url: /publications/ 
     
   # - title: "Side Gigs"
   #   url: /side-gigss/
