@@ -14,7 +14,4 @@ citation: '----'
 
 ## Poster Supplements
 
-
-
-
 <!--  -->
