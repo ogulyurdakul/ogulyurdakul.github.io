@@ -7,6 +7,7 @@
 
 # Site Settings
 minimal_mistakes_skin    : "dark"
+remote_theme             : academicpages/academicpages.github.io
 locale                   : "en-US"
 title                    : "Oğul Can Yurdakul"
 title_separator          : "-"
