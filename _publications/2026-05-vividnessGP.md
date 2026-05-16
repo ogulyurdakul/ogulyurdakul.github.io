@@ -50,7 +50,7 @@ $$
 \begin{bmatrix}f(\vec x^*) \\ \vec y \end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x_i^*, \vec x^*) & k(\vec x_i, \vec x^*)^{\intercal} \\ k(\vec x_i, \vec x^*) & k(\vec x_i, \vec X) + \sigma_\epsilon^2 \vec I_N\end{bmatrix}\right)
 $$
 
-where $\vec y$ denotes the vector of noisy observations, $k(\vec x_i, \vec x^*)$ denotes the column vector of cross correlations $k(\vec x_i^*, \vec x_i)$, $k(\vec x_i, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i_i, \vec x_j)$, and $\vec I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x^*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x^*),\, \sigma^2(\vec x^*)\right)$ where
+where $\vec y$ denotes the vector of noisy observations, \(k(\vec X, \vec x^*)\) denotes the column vector of cross correlations $k(\vec x^*, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $\vec I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x^*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x^*),\, \sigma^2(\vec x^*)\right)$ where
 $$
 \begin{align}
     \mu(\vec x^*) &= k(\vec x_i, \vec x^*)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} \vec y, \\
