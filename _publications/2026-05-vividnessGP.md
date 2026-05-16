@@ -69,7 +69,7 @@ Difference manifolds:
   <summary>Clustering Results</summary>
   
   <p style="text-align:center">
-    <img src="/images/scatterPlot.png" width="100%" />
+    <img src="/images/vss2026_vividness_gp/scatterPlot.png" width="100%" />
   </p>
 
 </details>
