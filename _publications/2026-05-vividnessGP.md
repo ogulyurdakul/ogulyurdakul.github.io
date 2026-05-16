@@ -9,11 +9,19 @@ citation: 'A novel approach to characterizing the visual dimensions of mental im
 ---
 
 <style>
-  details { margin-bottom: 1em; }
-  details summary { font-size: 1.2em; font-weight: bold; }
+  details {
+    margin-bottom: 1em;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 1em;
+  }
+  details summary {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
 </style>
 
-## Poster Supplements - _Last updated: 2026.05.15_
+## Poster Supplements - _Last updated: 2026.05.16_
 
 This is a living document where I will add any supplementary information/results about my poster, which you can find here.
 
