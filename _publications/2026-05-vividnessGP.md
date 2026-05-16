@@ -19,8 +19,8 @@ This is a living document where I will add any supplementary information/results
 The core idea behind Gaussian processes is that finite sets of evaluations are jointly Gaussian, whose joint distribution we can express only using their mean and covariance matrix. More specifically for a function $f$, capture this relationship using a mean function $m(\vec x)$ and a kernel function $k(\vec x, \vec x')$, which respectively set the mean of the funcion and the covariance structure and where $\vec x$ and $\vec x'$ are input points, as
 $$
 \begin{align}
-    m(\vec x) &= \mathbb E{f(\vec x)} \\
-    k(\vec x, \vec x') &= \mathbb E{\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x') - m(\vec x')\right)}.
+    m(\vec x) &= \mathbb E \left[f(\vec x)\right] \\
+    k(\vec x, \vec x') &= \mathbb E\left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x') - m(\vec x')\right)\right].
 \end{align}
 $$
 
@@ -33,7 +33,7 @@ $$
 $$
 where \(k(\vec x, \vec x')\) is called the kernel function. One commonly used kernel function (and the one used in this work) is the squared exponential kernel, defined as
 $$
-    k(\vec x, \vec x') = \sigma_f^2 \mathbb E\left(-\frac{\|{\vec x - \vec x'\|^2}}{2\ell^2}\right)
+    k(\vec x, \vec x') = \sigma_f^2 \exp\left(-\frac{\|{\vec x - \vec x'\|^2}}{2\ell^2}\right)
 $$
 where the signal variance $\sigma_f^2$ and the length-scale $\ell$ are hyperparameters of interest. The choice of a kernel function is essential for GPs since it determines the form and properties of the function $f$.
 
