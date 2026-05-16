@@ -44,18 +44,18 @@ $$
 y_i = f(\vec x_i) + \epsilon_i
 $$
 
-where $\epsilon_i \sim \mathcal{N} \left(0,\, \sigma_\epsilon^2\right)$ is the independent identically distributed additive noise and $f$ is the unknown function of interest. Within the GP regression framework, $f$ is taken to be a GP independent of $\epsilon$, commonly with prior mean 0 for convenience. This allows us to take an arbitrary query location $\vec x^*$ at which we would like to estimate the function value, and write the joint distribution
+where $\epsilon_i \sim \mathcal{N} \left(0,\, \sigma_\epsilon^2\right)$ is the independent identically distributed additive noise and $f$ is the unknown function of interest. Within the GP regression framework, $f$ is taken to be a GP independent of $\epsilon$, commonly with prior mean 0 for convenience. This allows us to take an arbitrary query location $\vec x^\ast$ at which we would like to estimate the function value, and write the joint distribution
 
 $$
-\begin{bmatrix}f(\vec x^*) \\ \vec y \end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x^*, \vec x^*) & k(\vec X, \vec x^*)^{\intercal} \\ k(\vec X, \vec x^*) & k(\vec X, \vec X) + \sigma_\epsilon^2 I_N\end{bmatrix}\right)
+\begin{bmatrix}f(\vec x^\ast) \\ \vec y \end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x^\ast, \vec x^\ast) & k(\vec X, \vec x^\ast)^{\intercal} \\ k(\vec X, \vec x^\ast) & k(\vec X, \vec X) + \sigma_\epsilon^2 I_N\end{bmatrix}\right)
 $$
 
-where $\vec y$ denotes the vector of noisy observations, $k(\vec X, \vec x^{*})$
-denotes the column vector of cross correlations $k(\vec x^{*}, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x^*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x^*),\, \sigma^2(\vec x^*)\right)$ where
+where $\vec y$ denotes the vector of noisy observations, $k(\vec X, \vec x^\ast)$
+denotes the column vector of cross correlations $k(\vec x^\ast, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x^\ast)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x^\ast),\, \sigma^2(\vec x^\ast)\right)$ where
 $$
 \begin{align}
-    \mu(\vec x^*) &= k(\vec x_i, \vec x^*)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} \vec y, \\
-    \sigma^2(\vec x^*) &= k(\vec x_i^*, \vec x^*) - k(\vec x_i, \vec x^*)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} k(\vec x_i, \vec x^*).
+    \mu(\vec x^\ast) &= k(\vec x_i, \vec x^\ast)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} \vec y, \\
+    \sigma^2(\vec x^\ast) &= k(\vec x_i^\ast, \vec x^\ast) - k(\vec x_i, \vec x^\ast)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} k(\vec x_i, \vec x^\ast).
 \end{align}
 $$
 
