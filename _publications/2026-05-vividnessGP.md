@@ -68,7 +68,10 @@ Difference manifolds:
 <details>
   <summary>Clustering Results</summary>
   
-  
+  <p style="text-align:center">
+    <img src="/images/scatterPlot.png" width="100%" />
+  </p>
+
 </details>
   
 
