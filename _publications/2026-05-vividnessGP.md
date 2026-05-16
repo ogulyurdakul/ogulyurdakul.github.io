@@ -14,6 +14,46 @@ This is a living document where I will add any supplementary information/results
 
 <iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
 
+### Animated Manifolds
+
+<p style="text-align:center">
+  <select id="gif-select">
+    <option value="/images/vss2026_vividness_gp/label0.gif">Supersubject</option>
+    <option value="/images/vss2026_vividness_gp/label1.gif">Group 1 (N = 83)</option>
+    <option value="/images/vss2026_vividness_gp/label2.gif">Group 2 (N = 30)</option>
+    <option value="/images/vss2026_vividness_gp/label3.gif">Group 3 (N = 17)</option>
+    <option value="/images/vss2026_vividness_gp/label4.gif">Group 4 (N = 7)</option>
+    <option value="/images/vss2026_vividness_gp/label5.gif">Group 5 (N = 5)</option>
+    <option value="/images/vss2026_vividness_gp/label-1.gif">Group -1 (N = 14)</option>
+  </select>
+  <br><br>
+  <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="75%" />
+</p>
+
+<p style="text-align:center">
+  <select id="gif-select-2">
+    <option value="/images/vss2026_vividness_gp/difference_label1.gif">Subject 11 - Supersubject</option>
+    <option value="/images/vss2026_vividness_gp/difference_label2.gif">Subject 136 - Supersubject</option>
+    <option value="/images/vss2026_vividness_gp/difference_label3.gif">Subject 5 - Supersubject</option>
+    <option value="/images/vss2026_vividness_gp/difference_label4.gif">Subject 137 - Supersubject</option>
+    <option value="/images/vss2026_vividness_gp/difference_label5.gif">Subject 96 - Supersubject</option>
+    <option value="/images/vss2026_vividness_gp/difference_label-1.gif">Subject 181 - Supersubject</option>
+  </select>
+  <br><br>
+  <img id="gif-display-2" src="/images/vss2026_vividness_gp/difference_label1.gif" width="100%" />
+</p>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('gif-select').addEventListener('change', function() {
+      document.getElementById('gif-display').src = this.value;
+    });
+    document.getElementById('gif-select-2').addEventListener('change', function() {
+      document.getElementById('gif-display-2').src = this.value;
+    });
+  });
+</script>
+
 ### Clustering Results
 
 ### Gaussian Processes
