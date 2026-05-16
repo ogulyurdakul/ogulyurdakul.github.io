@@ -14,7 +14,9 @@ This is a living document where I will add any supplementary information/results
 
 <iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
 
-### Animated Manifolds
+<details>
+  <summary>Animated Manifolds</summary>
+  Equal vividness manifolds: These are sets of points in the feature space $[0, 1]^3$ that result in identical
 
 <p style="text-align:center">
   <select id="gif-select">
@@ -30,6 +32,8 @@ This is a living document where I will add any supplementary information/results
   <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="75%" />
 </p>
 
+Difference manifolds:
+
 <p style="text-align:center">
   <select id="gif-select-2">
     <option value="/images/vss2026_vividness_gp/difference_label1.gif">Subject 11 - Supersubject</option>
@@ -43,6 +47,8 @@ This is a living document where I will add any supplementary information/results
   <img id="gif-display-2" src="/images/vss2026_vividness_gp/difference_label1.gif" width="100%" />
 </p>
 
+</details>
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('gif-select').addEventListener('change', function() {
@@ -52,11 +58,16 @@ This is a living document where I will add any supplementary information/results
       document.getElementById('gif-display-2').src = this.value;
     });
   });
+
+<details>
+  <summary>Clustering Results</summary>
+  
+  
+  
 </script>
 
-### Clustering Results
-
-### Gaussian Processes
+<details>
+  <summary>Gaussian Processes</summary>
 
 A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function $f(\vec x)$, denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x, \vec x')\right)$, the mean and covariance functions are defined as
 
@@ -103,6 +114,7 @@ k(\vec x, \vec x') = \sigma_f^2 \exp\left(\frac{-1}{2} \sum_{d = 1}^D\frac{(\vec
 $$
 
 where $\ell_d$ is the length scale corresponding to the feature $d$ and $d = 1,..., D$ indexes the dimensions of the feature vector $\vec x \in \mathbb R^D$. Having differen length scales like this allows us to assess how much each feature contributes to the posterior: If a length scale is too large (with respect to the interval of interest), then it means that a change along that feature will not correspond to a change in the posterior function value significantly.
+</script>
 
 <!-- <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
