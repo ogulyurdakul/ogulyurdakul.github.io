@@ -76,7 +76,7 @@ Difference manifolds:
 <details>
   <summary>Clustering Results</summary>
 
-  These are the pair-wise scatter plots of the hyperparameters of each subject along with the histograms. The histograms also show the supersubject hyperparameters, which are obtained by treating as if all the data came from a single "super"subject and optimizing the hyperparameters over that space. We can see that while the signal standard deviation is pretty typical of among the subjects, the length scales are significantly lower and the noise standard deviation is significantly higher. We believe that this is due to the mixing of single-subject noise variances into a single data pool, which inflates the error standard deviations, but this also allows for smaller length scales along all dimensions.
+  These are the pair-wise scatter plots of the hyperparameters of each subject along with the histograms. The histograms also show the supersubject hyperparameters, which are obtained by treating as if all the data came from a single "super"subject and optimizing the hyperparameters over that space. We can see that while the noise standard deviation is pretty typical of among the subjects, the length scales are significantly lower and the signal standard deviation is significantly higher. We believe that this is due to the mixing of single-subject noise variances into a single data pool.
   
   <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/scatterPlot.png" width="100%" />
