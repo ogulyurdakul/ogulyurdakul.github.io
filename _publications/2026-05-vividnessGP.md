@@ -18,31 +18,25 @@ This is a living document where I will add any supplementary information/results
 
 ### Gaussian Processes
 
-The core idea behind Gaussian processes is that finite sets of evaluations are jointly Gaussian, whose joint distribution we can express only using their mean and covariance matrix. More specifically for a function $f$, capture this relationship using a mean function $m(\vec x)$ and a kernel function $k(\vec x, \vec x')$, which respectively set the mean of the funcion and the covariance structure and where $\vec x$ and $\vec x'$ are input points, as
+The core idea behind Gaussian processes is that finite sets of evaluations are jointly Gaussian, whose joint distribution we can express only using their mean and covariance matrix. More specifically for a function $f$, capture this relationship using a mean function $m(\vec x)$ and a kernel function $k(\vec x_i, \vec x_j)$, which respectively set the mean of the funcion and the covariance structure and where $\vec x$ and $\vec x_j$ are input points, as
 
 $$
 \begin{align}
     m(\vec x) &= \mathbb E \left[f(\vec x)\right] \\
-    k(\vec x, \vec x') &= \mathbb E\left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x') - m(\vec x')\right)\right].
+    k(\vec x_i, \vec x_j) &= \mathbb E\left[\left(f(\vec x_i) - m(\vec x_i)\right)\left(f(\vec x_j) - m(\vec x_j)\right)\right].
 \end{align}
 $$
 
-A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function \(f(\vec x)\), denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x, \vec x')\right)$, the mean and covariance functions are defined as 
+A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function $f(\vec x)$, denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x_i, \vec x_j)\right)$, the mean and covariance functions are defined as 
 
 $$
 \begin{align}
     m(\vec x) &= \mathbb E\left[f(\vec x)\right] \\
-    k(\vec x, \vec x') &= \mathbb E \left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x') - m(\vec x')\right)\right]
+    k(\vec x_i, \vec x_j) &= \mathbb E \left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x_j) - m(\vec x_j)\right)\right]
 \end{align}  
 $$
 
-where \(k(\vec x, \vec x')\) is called the kernel function. One commonly used kernel function (and the one used in this work) is the squared exponential kernel, defined as
-
-$$
-k(\vec x, \vec x') = \sigma_f^2 \exp\left(-\frac{\|{\vec x - \vec x'\|^2}}{2\ell^2}\right)
-$$
-
-where the signal variance $\sigma_f^2$ and the length-scale $\ell$ are hyperparameters of interest. The choice of a kernel function is essential for GPs since it determines the form and properties of the function $f$.
+where $k(\vec x_i, \vec x_j)$ is called the kernel function.
 
 To formulate the regression setting, let $f$ be an unknown function from which we obtain observations $y_i$ at input locations $\vec x_i$ for $i = 1, ..., N$, via the noisy model
 
@@ -50,19 +44,27 @@ $$
 y_i = f(\vec x_i) + \epsilon_i
 $$
 
-where $\epsilon_i \sim \mathcal{N}\!\left(0,\, \sigma_\epsilon^2\right)$ is the independent identically distributed additive noise and $f$ is the unknown function of interest. Within the GP regression framework, $f$ is taken to be a GP independent of $\epsilon$, commonly with prior mean 0 for convenience. This allows us to take an arbitrary query location $\vec x_*$ at which we would like to estimate the function value, and write the joint distribution
+where $\epsilon_i \sim \mathcal{N} \left(0,\, \sigma_\epsilon^2\right)$ is the independent identically distributed additive noise and $f$ is the unknown function of interest. Within the GP regression framework, $f$ is taken to be a GP independent of $\epsilon$, commonly with prior mean 0 for convenience. This allows us to take an arbitrary query location $\vec x^*$ at which we would like to estimate the function value, and write the joint distribution
 
 $$
-\begin{bmatrix}f(\vec x_*) \\ \vec y\end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x_*, \vec x_*) & k(\vec X, \vec x_*)^{\intercal} \\ k(\vec X, \vec x_*) & k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N\end{bmatrix}\right)
+\begin{bmatrix}f(\vec x^*) \\ \vec y \end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x_i^*, \vec x^*) & k(\vec x_i, \vec x^*)^{\intercal} \\ k(\vec x_i, \vec x^*) & k(\vec x_i, \vec X) + \sigma_\epsilon^2 \vec I_N\end{bmatrix}\right)
 $$
 
-where $\vec y$ denotes the vector of noisy observations, $k(\vec X, \vec x_*)$ denotes the column vector of cross correlations $k(\vec x_*, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $\vec I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x_*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x_*),\, \sigma^2(\vec x_*)\right)$ where
+where $\vec y$ denotes the vector of noisy observations, $k(\vec x_i, \vec x^*)$ denotes the column vector of cross correlations $k(\vec x_i^*, \vec x_i)$, $k(\vec x_i, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i_i, \vec x_j)$, and $\vec I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x^*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x^*),\, \sigma^2(\vec x^*)\right)$ where
 $$
 \begin{align}
-    \mu(\vec x_*) &= k(\vec X, \vec x_*)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} \vec y, \\
-    \sigma^2(\vec x_*) &= k(\vec x_*, \vec x_*) - k(\vec X, \vec x_*)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} k(\vec X, \vec x_*).
+    \mu(\vec x^*) &= k(\vec x_i, \vec x^*)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} \vec y, \\
+    \sigma^2(\vec x^*) &= k(\vec x_i^*, \vec x^*) - k(\vec x_i, \vec x^*)^{\intercal} \left[ k(\vec x_i, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} k(\vec x_i, \vec x^*).
 \end{align}
 $$
+
+One commonly used kernel function (and the one used in this work) is the squared exponential kernel, defined as
+
+$$
+k(\vec x_i, \vec x_j) = \sigma_f^2 \exp\left(-\frac{\|{\vec x - \vec x_j\|^2}}{2\ell^2}\right)
+$$
+
+where the signal variance $\sigma_f^2$ and the length-scale $\ell$ are hyperparameters of interest. The choice of a kernel function is essential for GPs since it determines the form and properties of the function $f$.
 
 <!-- <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
