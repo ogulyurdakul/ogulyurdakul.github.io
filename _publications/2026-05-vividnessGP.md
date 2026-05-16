@@ -102,7 +102,7 @@ $$
 k(\vec x, \vec x') = \sigma_f^2 \exp\left(\frac{-1}{2} \sum_{d = 1}^D\frac{(\vec x - \vec x')^2}{\ell_d^2}\right)
 $$
 
-where $\ell_d$ is the length scale corresponding to the feature $d$ and $d = 1,..., D$ indexes the dimensions of the feature vector $\vec x \in \mathbb R^D$. 
+where $\ell_d$ is the length scale corresponding to the feature $d$ and $d = 1,..., D$ indexes the dimensions of the feature vector $\vec x \in \mathbb R^D$. Having differen length scales like this allows us to assess how much each feature contributes to the posterior: If a length scale is too large (with respect to the interval of interest), then it means that a change along that feature will not correspond to a change in the posterior function value significantly.
 
 <!-- <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
