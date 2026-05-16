@@ -18,21 +18,12 @@ This is a living document where I will add any supplementary information/results
 
 ### Gaussian Processes
 
-The core idea behind Gaussian processes is that finite sets of evaluations are jointly Gaussian, whose joint distribution we can express only using their mean and covariance matrix. More specifically for a function $f$, capture this relationship using a mean function $m(\vec x)$ and a kernel function $k(\vec x_i, \vec x_j)$, which respectively set the mean of the funcion and the covariance structure and where $\vec x$ and $\vec x_j$ are input points, as
-
-$$
-\begin{align}
-    m(\vec x) &= \mathbb E \left[f(\vec x)\right] \\
-    k(\vec x_i, \vec x_j) &= \mathbb E\left[\left(f(\vec x_i) - m(\vec x_i)\right)\left(f(\vec x_j) - m(\vec x_j)\right)\right].
-\end{align}
-$$
-
-A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function $f(\vec x)$, denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x_i, \vec x_j)\right)$, the mean and covariance functions are defined as 
+A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function $f(\vec x)$, denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x_i, \vec x_j)\right)$, the mean and covariance functions are defined as
 
 $$
 \begin{align}
     m(\vec x) &= \mathbb E\left[f(\vec x)\right] \\
-    k(\vec x_i, \vec x_j) &= \mathbb E \left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x_j) - m(\vec x_j)\right)\right]
+    k(\vec x_i, \vec x_j) &= \mathbb E \left[\left(f(\vec x_i) - m(\vec x_j)\right)\left(f(\vec x_j) - m(\vec x_j)\right)\right]
 \end{align}  
 $$
 
