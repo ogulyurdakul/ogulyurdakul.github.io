@@ -8,14 +8,19 @@ paperurl: 'https://www.visionsciences.org/presentation/?id=4213'
 citation: 'A novel approach to characterizing the visual dimensions of mental imagery vividness using Gaussian process regression (2026) Yurdakul O.C., Huang X., Shen A., Olsson E., Ekhlasi A., Klímová M., Morales J.*, Peters M.A.K.* Vision Sciences Society Annual Meeting'
 ---
 
+<style>
+  details { margin-bottom: 1em; }
+  details summary { font-size: 1.2em; font-weight: bold; }
+</style>
+
 ## Poster Supplements - _Last updated: 2026.05.15_
 
 This is a living document where I will add any supplementary information/results about my poster, which you can find here.
 
 <iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
 
-<details style="margin-bottom:1em">
-  <summary style="font-size:1.5em; font-weight:bold">Animated Manifolds</summary>
+<details>
+  <summary>Animated Manifolds</summary>
   Equal vividness manifolds: These are sets of points in the feature space $[0, 1]^3$ that result in identical
 
 <p style="text-align:center">
@@ -60,15 +65,15 @@ Difference manifolds:
   });
 </script>
 
-<details style="margin-bottom:1em">
-  <summary style="font-size:1.5em; font-weight:bold">Clustering Results</summary>
+<details>
+  <summary>Clustering Results</summary>
   
   
 </details>
   
 
-<details style="margin-bottom:1em">
-  <summary style="font-size:1.5em; font-weight:bold">Gaussian Processes</summary>
+<details>
+  <summary>Gaussian Processes</summary>
 
 A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function $f(\vec x)$, denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x, \vec x')\right)$, the mean and covariance functions are defined as
 
