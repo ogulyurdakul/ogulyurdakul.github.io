@@ -14,9 +14,12 @@ This is a living document where I will add any supplementary information/results
 
 <iframe width="100%" height="600" src="/files/vss2026_ogulCanYurdakul.pdf"></iframe>
 
+### Clustering Results
+
 ### Gaussian Processes
 
 The core idea behind Gaussian processes is that finite sets of evaluations are jointly Gaussian, whose joint distribution we can express only using their mean and covariance matrix. More specifically for a function $f$, capture this relationship using a mean function $m(\vec x)$ and a kernel function $k(\vec x, \vec x')$, which respectively set the mean of the funcion and the covariance structure and where $\vec x$ and $\vec x'$ are input points, as
+
 $$
 \begin{align}
     m(\vec x) &= \mathbb E \left[f(\vec x)\right] \\
@@ -24,62 +27,42 @@ $$
 \end{align}
 $$
 
- A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function \(f(\vec x)\), denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x, \vec x')\right)$, the mean and covariance functions are defined as 
+A Gaussian process (GP) is a collection of random variables such that any finite collection of them has a jointly Gaussian distribution, so is completely specified by its mean and covariance. For a real-valued GP function \(f(\vec x)\), denoted $f(\vec x) \sim \mathcal{GP}\left(m(\vec x),\, k(\vec x, \vec x')\right)$, the mean and covariance functions are defined as 
+
 $$
-    \begin{align}
-        m(\vec x) &= \mathbb E\left[f(\vec x)\right] \\
-        k(\vec x, \vec x') &= \mathbb E \left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x') - m(\vec x')\right)\right]
-    \end{align}  
+\begin{align}
+    m(\vec x) &= \mathbb E\left[f(\vec x)\right] \\
+    k(\vec x, \vec x') &= \mathbb E \left[\left(f(\vec x) - m(\vec x)\right)\left(f(\vec x') - m(\vec x')\right)\right]
+\end{align}  
 $$
+
 where \(k(\vec x, \vec x')\) is called the kernel function. One commonly used kernel function (and the one used in this work) is the squared exponential kernel, defined as
+
 $$
-    k(\vec x, \vec x') = \sigma_f^2 \exp\left(-\frac{\|{\vec x - \vec x'\|^2}}{2\ell^2}\right)
+k(\vec x, \vec x') = \sigma_f^2 \exp\left(-\frac{\|{\vec x - \vec x'\|^2}}{2\ell^2}\right)
 $$
+
 where the signal variance $\sigma_f^2$ and the length-scale $\ell$ are hyperparameters of interest. The choice of a kernel function is essential for GPs since it determines the form and properties of the function $f$.
 
 To formulate the regression setting, let $f$ be an unknown function from which we obtain observations $y_i$ at input locations $\vec x_i$ for $i = 1, ..., N$, via the noisy model
+
 $$
-    y_i = f(\vec x_i) + \epsilon_i
+y_i = f(\vec x_i) + \epsilon_i
 $$
+
 where $\epsilon_i \sim \mathcal{N}\!\left(0,\, \sigma_\epsilon^2\right)$ is the independent identically distributed additive noise and $f$ is the unknown function of interest. Within the GP regression framework, $f$ is taken to be a GP independent of $\epsilon$, commonly with prior mean 0 for convenience. This allows us to take an arbitrary query location $\vec x_*$ at which we would like to estimate the function value, and write the joint distribution
- $$
-     \begin{bmatrix}f(\vec x_*) \\ \vec y\end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x_*, \vec x_*) & k(\vec X, \vec x_*)^{\intercal} \\ k(\vec X, \vec x_*) & k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N\end{bmatrix}\right)
- $$
- where $\vec y$ denotes the vector of noisy observations, $k(\vec X, \vec x_*)$ denotes the column vector of cross correlations $k(\vec x_*, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $\vec I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x_*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x_*),\, \sigma^2(\vec x_*)\right)$ where
+
 $$
-    \begin{align}
-        \mu(\vec x_*) &= k(\vec X, \vec x_*)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} \vec y, \\
-        \sigma^2(\vec x_*) &= k(\vec x_*, \vec x_*) - k(\vec X, \vec x_*)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} k(\vec X, \vec x_*).
-    \end{align}
+\begin{bmatrix}f(\vec x_*) \\ \vec y\end{bmatrix} \sim \mathcal{N}\!\left(\begin{bmatrix}0 \\ \vec 0\end{bmatrix},\, \begin{bmatrix}k(\vec x_*, \vec x_*) & k(\vec X, \vec x_*)^{\intercal} \\ k(\vec X, \vec x_*) & k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N\end{bmatrix}\right)
 $$
 
-
-### Animated Manifolds
-
-You can find the more detailed animations for each subject's and the supersubject's manifolds. The animations might load slowly after you make a selection, so please give you browser some time!
-<p style="text-align:center">
-  <select id="gif-select">
-    <option value="/images/vss2026_vividness_gp/label0.gif">Supersubject</option>
-    <option value="/images/vss2026_vividness_gp/label1.gif">Group 1 (N = 83)</option>
-    <option value="/images/vss2026_vividness_gp/label2.gif">Group 2 (N = 30)</option>
-    <option value="/images/vss2026_vividness_gp/label3.gif">Group 3 (N = 17)</option>
-    <option value="/images/vss2026_vividness_gp/label4.gif">Group 4 (N = 7)</option>
-    <option value="/images/vss2026_vividness_gp/label5.gif">Group 5 (N = 5)</option>
-    <option value="/images/vss2026_vividness_gp/label-1.gif">Group -1 (N = 14)</option>
-  </select>
-  <br><br>
-  <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="75%" />
-</p>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('gif-select').addEventListener('change', function() {
-      document.getElementById('gif-display').src = this.value;
-    });
-  });
-</script>
-
-### Clustering Results
+where $\vec y$ denotes the vector of noisy observations, $k(\vec X, \vec x_*)$ denotes the column vector of cross correlations $k(\vec x_*, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $\vec I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x_*)$ on the observations becomes $\mathcal{N}\!\left(\mu(\vec x_*),\, \sigma^2(\vec x_*)\right)$ where
+$$
+\begin{align}
+    \mu(\vec x_*) &= k(\vec X, \vec x_*)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} \vec y, \\
+    \sigma^2(\vec x_*) &= k(\vec x_*, \vec x_*) - k(\vec X, \vec x_*)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 \vec I_N \right]^{-1} k(\vec X, \vec x_*).
+\end{align}
+$$
 
 <!-- <p style="text-align:center">
     <img src="/images/vss2026_vividness_gp/supersubject.gif" width="75%" />
