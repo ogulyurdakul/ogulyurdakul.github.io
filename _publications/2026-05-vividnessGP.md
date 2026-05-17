@@ -29,7 +29,7 @@ This is a living document where I will add any supplementary information/results
 
 <details>
   <summary>Animated Manifolds</summary>
-  Equal vividness manifolds: These are sets of points in the feature space $[0, 1]^3$ that result in identical
+  Equal vividness manifolds: These are sets of points in the feature space $[0, 1]^3$ that result in identical vividness ratings in a specific GP. This list has manifolds from each cluster.
 
 <p style="text-align:center">
   <select id="gif-select">
@@ -45,7 +45,9 @@ This is a living document where I will add any supplementary information/results
   <img id="gif-display" src="/images/vss2026_vividness_gp/label0.gif" width="75%" />
 </p>
 
-Difference manifolds:
+Difference manifolds: These are sets of points in the feature space $[0, 1]^3$ that result in constant *difference* between two GPs, here these are the differences between the representative subjects from each manifold and the supersubject. Because in this case we have two manifolds, there is more than one way to folor the manifolds: We can either color if by the difference of posterior standard deviations occurring at over the manifold which tells us the how the confidence ratings differ over those points, or we can color by the function value (i.e. the vividness rating) of one of the manifolds. Here we color both by the difference of posterior standard deviations (left) and the vividness rating at the supersubject (right).
+
+One particularly useful manifold is when the difference is set to 0, gives us the manifold over which two functions agree. Therefore if we would like to find the point(s) that elicit a particular vividness rating for two subjects (or more interestingly as a subject and the overall population as represented by the supersubject), we go to the 0-difference manifold and set the vividness level (which will likely) give us a curve (more technically a 1-D manifold in this case). We can then further minimize the standard deviation over this reduced manifold as well.
 
 <p style="text-align:center">
   <select id="gif-select-2">
