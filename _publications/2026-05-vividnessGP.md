@@ -21,7 +21,7 @@ citation: 'A novel approach to characterizing the visual dimensions of mental im
   }
 </style>
 
-## Poster Supplements - _Last updated: 2026.05.16_
+## Poster Supplements - _Last updated: 2026.05.18_
 
 This is a living document where I will add any supplementary information/results about my poster, which you can find here.
 
