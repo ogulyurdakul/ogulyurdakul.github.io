@@ -90,8 +90,8 @@ One particularly useful manifold is when the difference is set to 0, gives us th
   <summary>Agreement with Previous Findings</summary>
   
   <p style="text-align:center">
-    <img src="/images/vss2026_vividness_gp/prev_results.png" width="100%" />
-    <br> <em size="-2">Adapted from Hueng et al. (2025)</em>
+    <img src="/images/vss2026_vividness_gp/prev_results.png" width="75%" />
+    <br> <em size="-2">Previous findings as depicted in Huang et al. (2025)</em>
   </p>
     Hueng et al. (2025) found that sharpness was the most prominent feature, followed by opacity and with saturation being the least prominent. We can see this finding replicated in the manifolds: The fact that equal vividness manifolds usually span the whole saturation axis and are narrow on the sharpness axis is agreeing with these results.
 
