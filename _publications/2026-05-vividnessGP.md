@@ -128,7 +128,7 @@ where $\vec y$ denotes the vector of noisy observations, $k(\vec X, \vec x^\ast)
 denotes the column vector of cross correlations $k(\vec x^\ast, \vec x_i)$, $k(\vec X, \vec X)$ denotes the correlation matrix with entries $k(\vec x_i, \vec x_j)$, and $I_N$ is the identity matrix of size $N$. By the Gaussian conditioning rule, the conditional distribution of $f(\vec x^\ast)$ on the observations becomes $\mathcal{N}\left(\mu(\vec x^\ast),\, \sigma^2(\vec x^\ast)\right)$ where
 $$
 \begin{align}
-    \mu(\vec x^\ast) &= k(\vec x_i, \vec x^\ast)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} \vec y, \\
+    \mu(\vec x^\ast) &= k(\vec X, \vec x^\ast)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} \vec y, \\
     \sigma^2(\vec x^\ast) &= k(\vec x^\ast, \vec x^\ast) - k(\vec X, \vec x^\ast)^{\intercal} \left[ k(\vec X, \vec X) + \sigma_\epsilon^2 I_N \right]^{-1} k(\vec X, \vec x^\ast).
 \end{align}
 $$
