@@ -55,7 +55,7 @@ redirect_from:
 <ins>07/2018 - 08/2018: Summer Intern</ins>
 :   IBM Turkey, Istanbul Office
 :   I observed the process of data center migration on the field and helped the team with various tasks. I implemented a demonstrative use of the IBM Cloud services in an Internet-of-Things application.
-:   *This was my first ever internship, and I value that it was *not* in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry.*
+:   *This was my first ever internship, and I value that it was* not *in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry.*
 
 ## Leadership and Teaching Experience
 
