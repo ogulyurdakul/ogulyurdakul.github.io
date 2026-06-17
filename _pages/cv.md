@@ -115,16 +115,17 @@ redirect_from:
 <ins>Natural:</ins>
 :   Turkish (Native)
 :   English (Proficient)
-:   French (Previously proficient, needs some practice talking)
-:   Latin (Aspiring beginner for absolutely no reason at all)
+:   French (*Previously proficient, needs some practice talking*)
+:   Latin (*Aspiring beginner for absolutely no reason at all*)
 
 <ins>Formal:</ins>
 :   MATLAB (Experienced)
 :   Python (Experienced)
-:   WebPPL (Took a course that used it)
-:   ANSI Common LISP (Took a course on it once, loved it)
-:   C (Took my mandatory programming course in it, did not like it. I only use it if I have to, meaning when I'm using an Arduino board.)
-:   and various other languages I learned at one point but did not dwell on too much, such as R and C++.
+:   R (Intermediate)
+:   WebPPL (*Took a course that used it*)
+:   ANSI Common LISP (*Took a course on it once, loved it*)
+:   C (*Took my mandatory programming course in it, did not like it. I only use it if I have to, meaning when I'm using an Arduino board.*)
+:   and various other languages I learned at one point but did not dwell on too much, such as C++.
 
 **See [my blog post](/whatnot/side_gigs) for more.**
   
