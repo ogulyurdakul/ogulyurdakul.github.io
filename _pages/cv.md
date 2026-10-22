@@ -15,7 +15,9 @@ redirect_from:
 
 <ins>Ph.D. in Cognitive Science, 09/2025 - Present</ins>
 :   [University of California - Irvine, Department of Cognitive Science](https://www.cogsci.uci.edu/)
-:   Supervisor: [Dr Megan Peters](https://www.meganakpeters.org/**home**)
+:   Masters in Cognitive Neuroscience
+:   Supervisor: Prof. Ramesh Srinivasan
+<!-- :   Supervisor: [Dr Megan Peters](https://www.meganakpeters.org/**home**) -->
 
 <!-- <ins>Ph.D. in Cognitive Science, 10/2024 - Present</ins>
 :   [Middle East Technical University, Department of Cognitive Science](https://cogs.metu.edu.tr)* -->
@@ -41,7 +43,15 @@ redirect_from:
 
 ## Research Experience
 
-<ins>09/2019 - Present: Researcher</ins>
+<ins>05/2026 - Present: Researcher</ins>
+:   [Human Neuroscience Lab](https://hnl.ss.uci.edu/more)
+:   PI: Dr. Ramesh Srinivasan
+
+<ins>10/2025 - Present: Researcher</ins>
+:   [Reflexion Lab](https://reflexionlab.io/)
+:   PI: Dr. Megan Peters
+
+<ins>09/2019 - 09/2025: Researcher</ins>
 :   [METU EEE Sensor Fusion Research Group](http://sensorfusion.eee.metu.edu.tr)
 :   PI: Assoc. Prof. Dr. Emre Özkan
 :   Under the supervision of Dr Emre Özkan, I studied statistical signal processing methods. My two main projects involved extended target tracking ([paper](https://ogulyurdakul.github.io/publications/seot-rbpf)) and information fusion with empirical density approximations.
