@@ -1,5 +1,5 @@
 ---
-title: "A Rao-Blackwellized Particle Filter for Superelliptical Extended Target Tracking"
+title: "Superelliptical extended target tracking with contour measurements"
 collection: publications
 permalink: /publications/ms-thesis
 date: 2024-08-16 
