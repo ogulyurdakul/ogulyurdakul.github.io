@@ -23,7 +23,6 @@ redirect_from:
 
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - 08/2024</ins>
 :   [Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)
-:   CGPA: 4.00 / 4.00
 :   Specialization Area: Signal Processing
 :   Thesis: Superelliptical Extended Target Tracking with Contour Measurements
 :   Supervisor: [Dr Emre Ozkan](https://blog.metu.edu.tr/emreo/)
@@ -39,6 +38,12 @@ redirect_from:
 
 <ins>High School Graduate, 09/2012 - 06/2016</ins>
 :   [Ankara Private Tevfik Fikret High School](https://ankara.tfo.k12.tr/)
+
+## Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Research Experience
 
@@ -112,12 +117,6 @@ redirect_from:
 
 <ins>05/2017 – 05/2018: Team Leader and Director of Communications for [TEDxMETUAnkara 2017 "Grand Illusions"](https://www.ted.com/tedx/events/25058)</ins>
 :   I booked speakers and worked with them on their speeches and was responsible for the overall operations of the event. I also designed and managed [the event website](https://www.tedxmetuankara.com) on Wix. More in [side gigs](/whatnot/side_gigs/#tedxmetuankara).
-
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 ## Languages
 
