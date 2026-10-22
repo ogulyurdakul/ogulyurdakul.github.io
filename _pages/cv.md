@@ -64,18 +64,20 @@ redirect_from:
 :   Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering
 :   Supervisors: Dr. M.S.P. Subathra & Dr. S. Thomas George
 :   I proposed a new feature extraction method based on Local Binary Patterns, and showed that it was useful in a classification task with a shallow neural network. ([paper](/publications/nr-lbp))
->   *Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp).*
+:   *Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp).*
 
 <ins>07/2018 - 08/2018: Summer Intern</ins>
 :   IBM Turkey, Istanbul Office
 :   I observed the process of data center migration on the field and helped the team with various tasks. I implemented a demonstrative use of the IBM Cloud services in an Internet-of-Things application.
-:   *This was my first ever internship, and I value that it was* not *in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I were ever to switch to working in the industry.*
+:   *This was my first ever internship, and I value that it was* not *in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I am to ever switch to working in the industry.*
 
 ## Leadership and Teaching Experience
 
-<ins>February 2022 - Present: Teaching Assistant</ins>
+<ins>October 2026 - Present: Teaching Assistant</ins>
 :   [University of California, Irvine](https://www.cogsci.uci.edu/graduate/students.php#:~:text=Ogul%20Can%20Yurdakul)
 :   &emsp; **-** COGS105/205C Introduction to Statistical Learning
+
+<ins>February 2022 - August 2025: Teaching Assistant</ins>
 :   [Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)
 :   &emsp; **-** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230)
 :   &emsp; **-** [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306)
@@ -83,8 +85,8 @@ redirect_from:
 :   &emsp; **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
 :   &emsp; **-** [EE416 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
 :   &emsp; **-** [EE499 Vector Space Methods in Signal Processing](https://catalog.metu.edu.tr/course.php?course_code=5670499).
-:   Although the job title is "research assistant," it is a teaching assistantship position, meaning I am TA for various courses.
-:   (Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)
+:   *Although the job title is "research assistant," it is a teaching assistantship position, meaning I am TA for various courses.*
+:   *(Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)*
 
 <ins>July 2023: Lead Teaching Assistant </ins>
 :   [Neuromatch Academy](https://academy.neuromatch.io) Computational Neuroscience track, Lead TA ([Certificate](/files/NMA2023_CertificateLeadTA.pdf))
