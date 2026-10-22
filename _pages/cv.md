@@ -39,12 +39,6 @@ redirect_from:
 <ins>High School Graduate, 09/2012 - 06/2016</ins>
 :   [Ankara Private Tevfik Fikret High School](https://ankara.tfo.k12.tr/)
 
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 ## Research Experience
 
 <ins>05/2026 - Present: Researcher</ins>
@@ -70,6 +64,12 @@ redirect_from:
 :   IBM Turkey, Istanbul Office
 :   I observed the process of data center migration on the field and helped the team with various tasks. I implemented a demonstrative use of the IBM Cloud services in an Internet-of-Things application.
 :   *This was my first ever internship, and I value that it was* not *in research but in industry. I didn't do anything noteworthy if you ask me (understandable, as I had just finished 2nd year so I didn't know much), but still I enjoyed my time there and learned some stuff, especially about working in an office/company environment. It helped me see what to look for in a company if I am to ever switch to working in the industry.*
+
+## Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Leadership and Teaching Experience
 
