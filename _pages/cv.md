@@ -74,13 +74,15 @@ redirect_from:
 ## Leadership and Teaching Experience
 
 <ins>February 2022 - Present: Teaching Assistant</ins>
+:   [University of California, Irvine](https://www.cogsci.uci.edu/graduate/students.php#:~:text=Ogul%20Can%20Yurdakul)
+:   &emsp; **-** COGS105/205C Introduction to Statistical Learning
 :   [Middle East Technical University](https://eee.metu.edu.tr/personel/ogul-yurdakul)
-:   **-** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230)
-:   **-** [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306)
-:   **-** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361).
-:   **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
-:   **-** [EE416 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
-:   **-** [EE499 Vector Space Methods in Signal Processing](https://catalog.metu.edu.tr/course.php?course_code=5670499).
+:   &emsp; **-** [EE230 Probability and Random Variables](https://catalog.metu.edu.tr/course.php?course_code=5670230)
+:   &emsp; **-** [EE306 Signals and Systems II](https://catalog.metu.edu.tr/course.php?course_code=5670306)
+:   &emsp; **-** [EE361 Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361).
+:   &emsp; **-** [EE415 Introduction to Medical Imaging](https://catalog.metu.edu.tr/course.php?course_code=5670415).
+:   &emsp; **-** [EE416 Biomedical Signals, Instrumentation and Measurements](https://catalog.metu.edu.tr/course.php?course_code=5670416).
+:   &emsp; **-** [EE499 Vector Space Methods in Signal Processing](https://catalog.metu.edu.tr/course.php?course_code=5670499).
 :   Although the job title is "research assistant," it is a teaching assistantship position, meaning I am TA for various courses.
 :   (Check out the [MATLAB tutorial](https://ogulyurdakul.github.io/whatnot/2022/living_with_matlab/) I prepared for EE230 and EE306 courses!)
 
