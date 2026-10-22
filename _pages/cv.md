@@ -64,7 +64,7 @@ redirect_from:
 :   Karunya Institute of Technology and Sciences, Department of Instrumentation Engineering
 :   Supervisors: Dr. M.S.P. Subathra & Dr. S. Thomas George
 :   I proposed a new feature extraction method based on Local Binary Patterns, and showed that it was useful in a classification task with a shallow neural network. ([paper](/publications/nr-lbp))
-:   *Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp).*
+>   *Wanting to experience being part of a research project, I decided to go to a research internship (and an adventure) via IAESTE, and the project in KITS seemed interesting (although that's not the finalized project). I got to ask research questions with the help of my supervisors, and they helped me follow my own ideas based on the material I had, which produced [this paper](/publications/nr-lbp).*
 
 <ins>07/2018 - 08/2018: Summer Intern</ins>
 :   IBM Turkey, Istanbul Office
