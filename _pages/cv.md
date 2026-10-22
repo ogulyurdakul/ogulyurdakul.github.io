@@ -24,7 +24,7 @@ redirect_from:
 <ins>M.Sc. in Electrical and Electronics Engineering, 10/2021 - 08/2024</ins>
 :   [Middle East Technical University, Department of Electrical & Electronics Engineering](https://eee.metu.edu.tr)
 :   Specialization Area: Signal Processing
-:   Thesis: Superelliptical Extended Target Tracking with Contour Measurements
+:   Thesis: [Superelliptical Extended Target Tracking with Contour Measurements](/_publications/ms-thesis)
 :   Supervisor: [Dr Emre Ozkan](https://blog.metu.edu.tr/emreo/)
 
 <ins>B.Sc. in Mathematics (Double Major), 10/2017 - 07/2022</ins>
