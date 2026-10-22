@@ -16,8 +16,7 @@ redirect_from:
 <ins>Ph.D. in Cognitive Science, 09/2025 - Present</ins>
 :   [University of California - Irvine, Department of Cognitive Science](https://www.cogsci.uci.edu/)
 :   Masters in Cognitive Neuroscience
-:   Supervisor: Prof. Ramesh Srinivasan
-<!-- :   Supervisor: [Dr Megan Peters](https://www.meganakpeters.org/**home**) -->
+:   Supervisor: Dr. Ramesh Srinivasan
 
 <!-- <ins>Ph.D. in Cognitive Science, 10/2024 - Present</ins>
 :   [Middle East Technical University, Department of Cognitive Science](https://cogs.metu.edu.tr)* -->
