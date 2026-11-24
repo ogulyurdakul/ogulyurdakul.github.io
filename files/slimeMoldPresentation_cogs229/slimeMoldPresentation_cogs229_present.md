@@ -337,13 +337,13 @@ footer: "
 <div>
 
 - Urban designers?
-  ![width:500](urbanDesign.png)
+  ![width:500 center](urbanDesign.png)
 
 </div>
 <div>
 
 - Romans??
-  ![width:500](balkans.png)
+  ![width:450 center](balkans.png)
 
 </div>
 </div>
@@ -369,16 +369,16 @@ footer: "
 <div>
 
 - Urban designers?
-  ![width:500](urbanDesign.png)
+  ![width:500 center](urbanDesign.png)
 
 </div>
 <div>
 
 - Romans??
-  ![width:500](balkans.png)
+  ![width:450 center](balkans.png)
 
 - Colonizers???
-  ![width:500](colonization.png)
+  ![width:450 center](colonization.png)
   <!-- ![h:140](colonization2.png) -->
 
 </div>
