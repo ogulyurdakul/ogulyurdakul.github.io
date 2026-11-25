@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: default
-class: invert
+class: 
 transition: slide-up
 paginate: true
 header: "[Home](#slime-molds-and-cognitive-maps) > [World of the Slime Mold](#world-of-the-slime-mold) > [Computational Models](#computational-models) > [Results and Outcomes](#results-and-outcomes) > [Future directions](#future-directions)"
@@ -66,7 +66,7 @@ style: |
     strong {
         color: #ff7925; /* Replace with your desired color */
         }
-    p, li {
+    p, li, table {
         font-size: 20px;
         }
     .container {
@@ -97,12 +97,26 @@ style: |
 
 <!-- _header: ""-->
 
+<div class="columns2" style="grid-template-columns: 3fr 2fr" >
+<div>
+
 *November 24st, 2026*
 
 *Oğul Can Yurdakul*
 
 *Department of Cognitive Science, UC Irvine*
-    
+
+</div>
+<div>
+
+|Click the links!|Presentation|Handout|
+|-|:-:|:-:|
+|Dark mode|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/)|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/dark_hanout.pdf)|
+|Light mode|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/light.html)|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/light_hanout.pdf)|
+
+</div>
+</div>
+
 ---
 <!-- markdownlint-disable blank_lines html emphasis blanks-around-tables-->
 
@@ -110,11 +124,25 @@ style: |
 
 <!-- _header: ""-->
 
+<div class="columns2" style="grid-template-columns: 3fr 2fr" >
+<div>
+
 *November 24st, 2026*
 
 *Oğul Can Yurdakul*
 
 *Department of Cognitive Science, UC Irvine*
+
+</div>
+<div>
+
+|Click the links!|Presentation|Handout|
+|-|:-:|:-:|
+|Dark mode|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/)|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/dark_hanout.pdf)|
+|Light mode|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/light.html)|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/light_hanout.pdf)|
+
+</div>
+</div>
 
 <hr>
 
@@ -188,6 +216,8 @@ footer: "
   <!-- ![h:200 center](mazeSolving.png)  -->
 $\quad\quad$<video src="mazeSolvingReal.mp4" controls height="400" allowfullscreen></video>
 
+[Youtube: Slime mold solving a maze in the lab](https://www.youtube.com/watch?v=F3z_mdaQ5ac)
+
 </div>
 <div>
 
@@ -217,12 +247,16 @@ footer: "
   <!-- ![h:200 center](mazeSolving.png)  -->
 $\quad\quad$<video src="mazeSolvingReal.mp4" controls height="400" allowfullscreen></video>
 
+[Youtube: Slime mold solving a maze in the lab](https://www.youtube.com/watch?v=F3z_mdaQ5ac)
+
 </div>
 <div>
 
 - Tokyo subway map
     <!-- ![h:200](tokyoBefore.png) ![h:200](tokyoAfter.png)  -->
 $\quad\quad\quad\quad$<video src="tokyoMap.mp4" controls height="400" allowfullscreen></video>
+
+[Youtube: Slime mold form a map of the Tokyo-area railway system](https://www.youtube.com/shorts/GwKuFREOgmo)
 
 </div>
 </div>
