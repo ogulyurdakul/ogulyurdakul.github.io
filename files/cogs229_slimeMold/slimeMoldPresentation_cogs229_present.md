@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: default
-class: invert
+class: 
 transition: slide-up
 paginate: true
 header: "[Home](#slime-molds-and-cognitive-maps) > [World of the Slime Mold](#world-of-the-slime-mold) > [Computational Models](#computational-models) > [Results and Outcomes](#results-and-outcomes) > [Future directions](#future-directions)"
@@ -138,8 +138,8 @@ style: |
 
 |Click the links!|Presentation|Handout|
 |-|:-:|:-:|
-|Dark mode|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/)|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/dark_hanout.pdf)|
-|Light mode|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/light.html)|[link](https://ogulyurdakul.github.io/files/slimeMoldPresentation_cogs229/light_hanout.pdf)|
+|Dark mode|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/)|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/dark_hanout.pdf)|
+|Light mode|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/light.html)|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/light_hanout.pdf)|
 
 </div>
 </div>
