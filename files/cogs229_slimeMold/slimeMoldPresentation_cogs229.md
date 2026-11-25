@@ -110,8 +110,8 @@ style: |
 
 |Click the links!|Presentation|Handout|
 |-|:-:|:-:|
-|Dark mode|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/)|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/dark_hanout.pdf)|
-|Light mode|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/light.html)|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/light_hanout.pdf)|
+|Dark mode|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/)|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/dark_handout.pdf)|
+|Light mode|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/light.html)|[link](https://ogulyurdakul.github.io/files/cogs229_slimeMold/light_handout.pdf)|
 
 </div>
 </div>
